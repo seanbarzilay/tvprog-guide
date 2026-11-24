@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-24T23:01:08+02:00",
-  "generated_at_ms": 1795554068216,
+  "generated_at": "2026-11-24T23:31:51+02:00",
+  "generated_at_ms": 1795555911777,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795554068168,
-    "end_ms": 1795726868168,
-    "start": "2026-11-24T23:01:08+02:00",
-    "end": "2026-11-26T23:01:08+02:00"
+    "start_ms": 1795555911724,
+    "end_ms": 1795728711724,
+    "start": "2026-11-24T23:31:51+02:00",
+    "end": "2026-11-26T23:31:51+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "I Wash My Hands of You",
-          "kind": "episode",
-          "start_ms": 1795554030116,
-          "end_ms": 1795555829952,
-          "start": "2026-11-24T23:00:30+02:00",
-          "end": "2026-11-24T23:30:29+02:00",
-          "show": "The War at Home",
-          "year": 2006
-        },
         {
           "title": "Be Careful What You Wish For",
           "kind": "episode",
@@ -177,16 +167,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Cadillac (1) / The Cadillac (2)",
-          "kind": "episode",
-          "start_ms": 1795552275085,
-          "end_ms": 1795555889017,
-          "start": "2026-11-24T22:31:15+02:00",
-          "end": "2026-11-24T23:31:29+02:00",
-          "show": "Seinfeld",
-          "year": 1996
-        },
         {
           "title": "The Doll",
           "kind": "episode",
