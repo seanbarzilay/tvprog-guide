@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T01:32:45+02:00",
-  "generated_at_ms": 1795563165749,
+  "generated_at": "2026-11-25T01:42:50+02:00",
+  "generated_at_ms": 1795563770263,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795563165688,
-    "end_ms": 1795735965688,
-    "start": "2026-11-25T01:32:45+02:00",
-    "end": "2026-11-27T01:32:45+02:00"
+    "start_ms": 1795563770188,
+    "end_ms": 1795736570188,
+    "start": "2026-11-25T01:42:50+02:00",
+    "end": "2026-11-27T01:42:50+02:00"
   },
   "channels": [
     {
@@ -167,16 +167,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Phone Message",
-          "kind": "episode",
-          "start_ms": 1795561545001,
-          "end_ms": 1795563176263,
-          "start": "2026-11-25T01:05:45+02:00",
-          "end": "2026-11-25T01:32:56+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "The Stranded",
           "kind": "episode",
