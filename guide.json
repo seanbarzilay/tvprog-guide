@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T01:12:36+02:00",
-  "generated_at_ms": 1795561956746,
+  "generated_at": "2026-11-25T01:32:45+02:00",
+  "generated_at_ms": 1795563165749,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795561956694,
-    "end_ms": 1795734756694,
-    "start": "2026-11-25T01:12:36+02:00",
-    "end": "2026-11-27T01:12:36+02:00"
+    "start_ms": 1795563165688,
+    "end_ms": 1795735965688,
+    "start": "2026-11-25T01:32:45+02:00",
+    "end": "2026-11-27T01:32:45+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Corkscrewed",
-          "kind": "episode",
-          "start_ms": 1795561214933,
-          "end_ms": 1795563010000,
-          "start": "2026-11-25T01:00:14+02:00",
-          "end": "2026-11-25T01:30:10+02:00",
-          "show": "The War at Home",
-          "year": 2006
-        },
         {
           "title": "Love is Blind",
           "kind": "episode",
@@ -341,15 +331,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Harry Potter and the Half-Blood Prince",
-          "kind": "movie",
-          "start_ms": 1795557154429,
-          "end_ms": 1795563037452,
-          "start": "2026-11-24T23:52:34+02:00",
-          "end": "2026-11-25T01:30:37+02:00",
-          "year": 2009
-        },
         {
           "title": "Harry Potter and the Deathly Hallows: Part 1",
           "kind": "movie",
