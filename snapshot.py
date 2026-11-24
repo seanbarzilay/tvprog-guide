@@ -139,11 +139,9 @@ def overlaps(program: dict, start_ms: int, end_ms: int) -> bool:
 
 
 def schedule_payload(data: dict) -> dict:
-    return {
-        "timezone": data.get("timezone"),
-        "window": data.get("window"),
-        "channels": data.get("channels"),
-    }
+    # Compare only the lineup. The requested window slides with "now",
+    # so including it would push a new commit every run.
+    return {"timezone": data.get("timezone"), "channels": data.get("channels")}
 
 
 def git(*args, check=True) -> subprocess.CompletedProcess:
