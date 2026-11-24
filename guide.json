@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-24T22:50:38+02:00",
-  "generated_at_ms": 1795553438224,
+  "generated_at": "2026-11-24T23:01:08+02:00",
+  "generated_at_ms": 1795554068216,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795553438175,
-    "end_ms": 1795726238175,
-    "start": "2026-11-24T22:50:38+02:00",
-    "end": "2026-11-26T22:50:38+02:00"
+    "start_ms": 1795554068168,
+    "end_ms": 1795726868168,
+    "start": "2026-11-24T23:01:08+02:00",
+    "end": "2026-11-26T23:01:08+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Car Wars",
-          "kind": "episode",
-          "start_ms": 1795552230046,
-          "end_ms": 1795554030116,
-          "start": "2026-11-24T22:30:30+02:00",
-          "end": "2026-11-24T23:00:30+02:00",
-          "show": "The War at Home",
-          "year": 2006
-        },
         {
           "title": "I Wash My Hands of You",
           "kind": "episode",
