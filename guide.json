@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-24T23:31:51+02:00",
-  "generated_at_ms": 1795555911777,
+  "generated_at": "2026-11-25T00:02:05+02:00",
+  "generated_at_ms": 1795557725240,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795555911724,
-    "end_ms": 1795728711724,
-    "start": "2026-11-24T23:31:51+02:00",
-    "end": "2026-11-26T23:31:51+02:00"
+    "start_ms": 1795557725194,
+    "end_ms": 1795730525194,
+    "start": "2026-11-25T00:02:05+02:00",
+    "end": "2026-11-27T00:02:05+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Be Careful What You Wish For",
-          "kind": "episode",
-          "start_ms": 1795555829952,
-          "end_ms": 1795557629930,
-          "start": "2026-11-24T23:30:29+02:00",
-          "end": "2026-11-25T00:00:29+02:00",
-          "show": "The War at Home",
-          "year": 2006
-        },
         {
           "title": "Love This",
           "kind": "episode",
@@ -155,9 +145,39 @@
           "title": "The White Shadow",
           "kind": "episode",
           "start_ms": 1795593614848,
-          "end_ms": 1795594214848,
+          "end_ms": 1795595430097,
           "start": "2026-11-25T10:00:14+02:00",
-          "end": "2026-11-25T10:10:14+02:00",
+          "end": "2026-11-25T10:30:30+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "The War of the Golds",
+          "kind": "episode",
+          "start_ms": 1795595430097,
+          "end_ms": 1795597214912,
+          "start": "2026-11-25T10:30:30+02:00",
+          "end": "2026-11-25T11:00:14+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "A Bitter Pill to Swallow",
+          "kind": "episode",
+          "start_ms": 1795597214912,
+          "end_ms": 1795599015766,
+          "start": "2026-11-25T11:00:14+02:00",
+          "end": "2026-11-25T11:30:15+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "The Graduate",
+          "kind": "episode",
+          "start_ms": 1795599015766,
+          "end_ms": 1795600829930,
+          "start": "2026-11-25T11:30:15+02:00",
+          "end": "2026-11-25T12:00:29+02:00",
           "show": "The War at Home",
           "year": 2007
         }
@@ -167,16 +187,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Doll",
-          "kind": "episode",
-          "start_ms": 1795555889017,
-          "end_ms": 1795557689188,
-          "start": "2026-11-24T23:31:29+02:00",
-          "end": "2026-11-25T00:01:29+02:00",
-          "show": "Seinfeld",
-          "year": 1996
-        },
         {
           "title": "The Finale (1) / The Finale (2)",
           "kind": "episode",
@@ -299,11 +309,31 @@
           "title": "The Tape",
           "kind": "episode",
           "start_ms": 1795593615116,
-          "end_ms": 1795594215116,
+          "end_ms": 1795595555268,
           "start": "2026-11-25T10:00:15+02:00",
-          "end": "2026-11-25T10:10:15+02:00",
+          "end": "2026-11-25T10:32:35+02:00",
           "show": "Seinfeld",
           "year": 1991
+        },
+        {
+          "title": "The Red Dot",
+          "kind": "episode",
+          "start_ms": 1795595555268,
+          "end_ms": 1795597260000,
+          "start": "2026-11-25T10:32:35+02:00",
+          "end": "2026-11-25T11:01:00+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Suicide / The Fix-Up",
+          "kind": "episode",
+          "start_ms": 1795597260000,
+          "end_ms": 1795600814981,
+          "start": "2026-11-25T11:01:00+02:00",
+          "end": "2026-11-25T12:00:14+02:00",
+          "show": "Seinfeld",
+          "year": 1992
         }
       ]
     },
@@ -314,9 +344,9 @@
         {
           "title": "Harry Potter and the Half-Blood Prince",
           "kind": "movie",
-          "start_ms": 1795552930696,
+          "start_ms": 1795557154429,
           "end_ms": 1795563037452,
-          "start": "2026-11-24T22:42:10+02:00",
+          "start": "2026-11-24T23:52:34+02:00",
           "end": "2026-11-25T01:30:37+02:00",
           "year": 2009
         },
@@ -341,10 +371,19 @@
           "title": "Harry Potter and the Deathly Hallows: Part 2",
           "kind": "movie",
           "start_ms": 1795586570869,
-          "end_ms": 1795594115312,
+          "end_ms": 1795595906312,
           "start": "2026-11-25T08:02:50+02:00",
-          "end": "2026-11-25T10:08:35+02:00",
+          "end": "2026-11-25T10:38:26+02:00",
           "year": 2011
+        },
+        {
+          "title": "Fantastic Beasts and Where to Find Them",
+          "kind": "movie",
+          "start_ms": 1795595906312,
+          "end_ms": 1795600919964,
+          "start": "2026-11-25T10:38:26+02:00",
+          "end": "2026-11-25T12:01:59+02:00",
+          "year": 2016
         }
       ]
     },
@@ -352,15 +391,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Scary Movie",
-          "kind": "movie",
-          "start_ms": 1795551270220,
-          "end_ms": 1795557628905,
-          "start": "2026-11-24T22:14:30+02:00",
-          "end": "2026-11-25T00:00:28+02:00",
-          "year": 2000
-        },
         {
           "title": "Rat Race",
           "kind": "movie",
@@ -409,9 +439,9 @@
           "title": "The Pink Panther",
           "kind": "movie",
           "start_ms": 1795593614933,
-          "end_ms": 1795594214933,
+          "end_ms": 1795601207198,
           "start": "2026-11-25T10:00:14+02:00",
-          "end": "2026-11-25T10:10:14+02:00",
+          "end": "2026-11-25T12:06:47+02:00",
           "year": 1963
         }
       ]
