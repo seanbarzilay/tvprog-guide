@@ -1,0 +1,6 @@
+/.env
+/.env.*
+*.pyc
+__pycache__/
+.snapshot.lock
+.DS_Store

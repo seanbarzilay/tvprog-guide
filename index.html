@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark light">
+  <meta name="theme-color" content="#10131a">
+  <title>TV Guide</title>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <style>
+    :root {
+      --bg: #10131a;
+      --bg-elev: #181c25;
+      --bg-soft: #1e2430;
+      --ink: #f3f1ea;
+      --muted: #9aa3b2;
+      --faint: #6d7584;
+      --line: rgba(243, 241, 234, 0.08);
+      --accent: #e2b15a;
+      --accent-ink: #1a1408;
+      --live: #e2b15a;
+      --now: #ff6b4a;
+      --off: rgba(243, 241, 234, 0.04);
+      --shadow: 0 12px 40px rgba(0, 0, 0, 0.28);
+      --safe-top: env(safe-area-inset-top, 0px);
+      --safe-bottom: env(safe-area-inset-bottom, 0px);
+    }
+    html[data-theme="light"] {
+      --bg: #efe9dc;
+      --bg-elev: #f7f3ea;
+      --bg-soft: #fffdf8;
+      --ink: #1c1a16;
+      --muted: #5d5850;
+      --faint: #8a8378;
+      --line: rgba(28, 26, 22, 0.1);
+      --accent: #b5811d;
+      --accent-ink: #fff8e8;
+      --live: #b5811d;
+      --now: #c4472a;
+      --off: rgba(28, 26, 22, 0.04);
+      --shadow: 0 10px 30px rgba(80, 60, 20, 0.08);
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+      background: var(--bg);
+      color: var(--ink);
+      min-height: 100dvh;
+      text-rendering: optimizeLegibility;
+    }
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: calc(20px + var(--safe-top)) 16px calc(28px + var(--safe-bottom));
+    }
+    header.top {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 22px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--line);
+    }
+    .kicker {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 11px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--accent);
+      font-weight: 600;
+      margin: 0 0 6px;
+    }
+    h1 {
+      font-size: clamp(34px, 8vw, 52px);
+      line-height: 0.9;
+      font-weight: 600;
+      letter-spacing: -0.03em;
+      margin: 0;
+    }
+    .clock-block { text-align: right; }
+    #clock {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-variant-numeric: tabular-nums;
+      font-size: clamp(28px, 7vw, 42px);
+      font-weight: 600;
+      letter-spacing: -0.04em;
+      line-height: 1;
+    }
+    .meta, .status {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+    h2 {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 11px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 650;
+      margin: 8px 0 12px;
+    }
+    .now-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
+    @media (min-width: 720px) {
+      .now-grid { grid-template-columns: 1fr 1fr; }
+    }
+    .card {
+      background: var(--bg-elev);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 14px 14px 12px;
+      box-shadow: var(--shadow);
+    }
+    .card-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .ch {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      min-width: 0;
+    }
+    .num {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+      letter-spacing: -0.04em;
+      font-size: 20px;
+      color: var(--accent);
+    }
+    .cname {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .pill {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: var(--accent-ink);
+      background: var(--accent);
+      border-radius: 999px;
+      padding: 3px 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .pill.off { background: transparent; color: var(--faint); border: 1px solid var(--line); }
+    .dot {
+      width: 6px; height: 6px; border-radius: 50%; background: var(--accent-ink);
+      box-shadow: 0 0 0 0 var(--accent-ink);
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .pill:not(.off) .dot { animation: pulse 1.8s ease-out infinite; }
+    }
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0 0 rgba(26, 20, 8, 0.45); }
+      70% { box-shadow: 0 0 0 6px rgba(26, 20, 8, 0); }
+      100% { box-shadow: 0 0 0 0 rgba(26, 20, 8, 0); }
+    }
+    .title {
+      font-size: 22px;
+      line-height: 1.15;
+      margin: 0 0 4px;
+    }
+    .sub {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 12px;
+      color: var(--muted);
+      margin: 0 0 10px;
+    }
+    .bar {
+      height: 4px;
+      background: var(--line);
+      border-radius: 99px;
+      overflow: hidden;
+      margin-bottom: 8px;
+    }
+    .bar > span {
+      display: block;
+      height: 100%;
+      background: var(--accent);
+      width: 0%;
+    }
+    .times, .next {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-variant-numeric: tabular-nums;
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .next { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--line); }
+    .next strong { color: var(--ink); font-weight: 650; }
+    .days {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin: 28px 0 12px;
+    }
+    .days button {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      border: 1px solid var(--line);
+      background: var(--bg-elev);
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 7px 12px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .days button[aria-selected="true"] {
+      background: var(--ink);
+      color: var(--bg);
+      border-color: transparent;
+    }
+    .grid-shell {
+      background: var(--bg-elev);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+    .grid-scroll {
+      overflow-x: auto;
+      overflow-y: hidden;
+      -webkit-overflow-scrolling: touch;
+      position: relative;
+    }
+    .grid {
+      position: relative;
+      min-height: 120px;
+    }
+    .hours {
+      position: sticky;
+      top: 0;
+      z-index: 3;
+      height: 36px;
+      background: var(--bg-elev);
+      border-bottom: 1px solid var(--line);
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-variant-numeric: tabular-nums;
+      font-size: 11px;
+      color: var(--faint);
+    }
+    .hour {
+      position: absolute;
+      top: 0;
+      height: 36px;
+      padding: 10px 0 0 8px;
+      border-left: 1px solid var(--line);
+      white-space: nowrap;
+    }
+    .row {
+      position: relative;
+      height: 72px;
+      border-top: 1px solid var(--line);
+    }
+    .ch-label {
+      position: sticky;
+      left: 0;
+      z-index: 2;
+      width: 72px;
+      height: 100%;
+      background: linear-gradient(90deg, var(--bg-elev) 70%, transparent);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 0 10px;
+    }
+    .ch-label .num { font-size: 18px; }
+    .ch-label .cname {
+      font-size: 10px;
+      max-width: 58px;
+    }
+    .block {
+      position: absolute;
+      top: 8px;
+      height: 56px;
+      border-radius: 10px;
+      padding: 7px 10px;
+      background: var(--bg-soft);
+      border: 1px solid var(--line);
+      overflow: hidden;
+      min-width: 8px;
+    }
+    .block.live {
+      border-color: color-mix(in srgb, var(--accent) 70%, var(--line));
+      background: color-mix(in srgb, var(--accent) 16%, var(--bg-soft));
+    }
+    .block.off {
+      background: var(--off);
+      color: var(--faint);
+      border-style: dashed;
+    }
+    .block .bt {
+      font-size: 13px;
+      line-height: 1.2;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin: 0;
+      font-weight: 600;
+    }
+    .block .bs {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 10px;
+      color: var(--muted);
+      margin-top: 3px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .needle {
+      position: absolute;
+      top: 36px;
+      bottom: 0;
+      width: 2px;
+      background: var(--now);
+      z-index: 4;
+      pointer-events: none;
+    }
+    .needle::before {
+      content: "";
+      position: absolute;
+      top: -5px;
+      left: -4px;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--now);
+    }
+    .empty, .error {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      color: var(--muted);
+      padding: 24px 8px;
+      text-align: center;
+    }
+    footer {
+      margin-top: 22px;
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 11px;
+      color: var(--faint);
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div>
+        <p class="kicker">tvprog</p>
+        <h1>TV Guide</h1>
+        <p class="meta" id="updated">Asia/Jerusalem</p>
+      </div>
+      <div class="clock-block">
+        <div id="clock">--:--</div>
+        <div class="meta" id="date-line"></div>
+      </div>
+    </header>
+    <h2>Now / next</h2>
+    <div class="now-grid" id="now"></div>
+    <div class="days" id="days" role="tablist" aria-label="Guide day"></div>
+    <h2>Schedule</h2>
+    <div class="grid-shell">
+      <div class="grid-scroll" id="scroller">
+        <div class="grid" id="grid"></div>
+      </div>
+    </div>
+    <p class="error" id="error" hidden></p>
+    <footer id="foot">Times are shown in Asia/Jerusalem.</footer>
+  </div>
+  <script>
+    const TZ = "Asia/Jerusalem";
+    const HOUR_PX = 160;
+    const LABEL_W = 72;
+    const DATA_URL = "guide.json";
+    const tg = window.Telegram && window.Telegram.WebApp;
+    let guide = null;
+    let selectedDay = null;
+
+    function applyTheme() {
+      const scheme = (tg && tg.colorScheme) ||
+        (matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+      document.documentElement.dataset.theme = scheme;
+      const color = scheme === "light" ? "#efe9dc" : "#10131a";
+      document.querySelector('meta[name="theme-color"]').setAttribute("content", color);
+      if (tg) {
+        try {
+          tg.setHeaderColor(scheme === "light" ? "#efe9dc" : "#10131a");
+          tg.setBackgroundColor(scheme === "light" ? "#efe9dc" : "#10131a");
+        } catch (e) {}
+      }
+    }
+
+    if (tg) {
+      tg.ready();
+      tg.expand();
+      applyTheme();
+      tg.onEvent("themeChanged", applyTheme);
+    } else {
+      applyTheme();
+      matchMedia("(prefers-color-scheme: light)").addEventListener("change", applyTheme);
+    }
+
+    const dtfTime = new Intl.DateTimeFormat("en-GB", { timeZone: TZ, hour: "2-digit", minute: "2-digit", hour12: false });
+    const dtfClock = new Intl.DateTimeFormat("en-GB", { timeZone: TZ, hour: "numeric", minute: "2-digit", hour12: false });
+    const dtfDate = new Intl.DateTimeFormat("en-GB", { timeZone: TZ, weekday: "long", day: "numeric", month: "short" });
+    const dtfYmd = new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" });
+    const dtfParts = new Intl.DateTimeFormat("en-GB", {
+      timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit",
+      hour: "2-digit", minute: "2-digit", second: "2-digit", hour12: false
+    });
+
+    function pad(n) { return String(n).padStart(2, "0"); }
+    function ymd(ms) { return dtfYmd.format(new Date(ms)); }
+    function fmtTime(ms) { return dtfTime.format(new Date(ms)); }
+
+    function parts(ms) {
+      const out = {};
+      for (const p of dtfParts.formatToParts(new Date(ms))) {
+        if (p.type !== "literal") out[p.type] = p.value;
+      }
+      return out;
+    }
+
+    function zonedMs(year, month, day, hour, minute, second) {
+      const target = Date.parse(`${year}-${pad(month)}-${pad(day)}T${pad(hour)}:${pad(minute)}:${pad(second)}Z`);
+      let t = target;
+      for (let i = 0; i < 4; i++) {
+        const p = parts(t);
+        const local = Date.parse(`${p.year}-${p.month}-${p.day}T${p.hour}:${p.minute}:${p.second}Z`);
+        t += target - local;
+      }
+      return t;
+    }
+
+    function dayStartMs(ms) {
+      const p = parts(ms);
+      return zonedMs(p.year, p.month, p.day, 0, 0, 0);
+    }
+
+    function esc(s) {
+      return String(s ?? "").replace(/[&<>"']/g, c => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+      }[c]));
+    }
+
+    function nowMs() { return Date.now(); }
+
+    function subtitle(p) {
+      if (!p || p.kind === "off") return "";
+      const bits = [];
+      if (p.show) bits.push(p.show);
+      if (p.year) bits.push(String(p.year));
+      return bits.join(" · ");
+    }
+
+    function currentAndNext(channel, t) {
+      const programs = channel.programs || [];
+      let current = null;
+      for (const p of programs) {
+        if (p.start_ms <= t && t < p.end_ms) { current = p; break; }
+      }
+      const next = programs.find(p => p.start_ms >= (current ? current.end_ms : t) && p.kind !== "off")
+        || programs.find(p => p.start_ms > t && p.kind !== "off")
+        || null;
+      return { current, next };
+    }
+
+    function remaining(end, t) {
+      const m = Math.max(0, Math.round((end - t) / 60000));
+      if (m < 60) return `${m}m left`;
+      const h = Math.floor(m / 60), r = m % 60;
+      return r ? `${h}h ${r}m left` : `${h}h left`;
+    }
+
+    function renderClock() {
+      const t = nowMs();
+      document.getElementById("clock").textContent = dtfClock.format(new Date(t));
+      document.getElementById("date-line").textContent = dtfDate.format(new Date(t));
+    }
+
+    function renderNow() {
+      if (!guide) return;
+      const t = nowMs();
+      const root = document.getElementById("now");
+      root.innerHTML = (guide.channels || []).map(ch => {
+        const { current, next } = currentAndNext(ch, t);
+        const on = current && current.kind !== "off";
+        const title = current ? current.title : "Nothing scheduled";
+        const sub = current && on ? subtitle(current) : (current ? "Off air" : "");
+        const start = current ? fmtTime(current.start_ms) : "";
+        const end = current ? fmtTime(current.end_ms) : "";
+        const pct = current ? Math.min(100, Math.max(0, (t - current.start_ms) / Math.max(1, current.end_ms - current.start_ms) * 100)) : 0;
+        const left = current ? remaining(current.end_ms, t) : "";
+        const nextLine = next
+          ? `Next <strong>${esc(next.title)}</strong> · ${esc(fmtTime(next.start_ms))}`
+          : "No later programme in this snapshot";
+        return `<article class="card">
+          <div class="card-head">
+            <div class="ch"><span class="num">${esc(ch.number)}</span><span class="cname">${esc(ch.name)}</span></div>
+            <span class="pill${on ? "" : " off"}">${on ? '<span class="dot"></span>Live' : "Off"}</span>
+          </div>
+          <p class="title">${esc(title)}</p>
+          ${sub ? `<p class="sub">${esc(sub)}</p>` : ""}
+          ${current ? `<div class="bar" aria-hidden="true"><span style="width:${pct}%"></span></div>
+            <div class="times">${esc(start)} – ${esc(end)} · ${esc(left)}</div>` : ""}
+          <div class="next">${nextLine}</div>
+        </article>`;
+      }).join("");
+    }
+
+    function uniqueDays() {
+      const set = new Set();
+      for (const ch of guide.channels || []) {
+        for (const p of ch.programs || []) {
+          const start = Math.max(p.start_ms, (guide.window && guide.window.start_ms) || p.start_ms);
+          const end = Math.min(p.end_ms, (guide.window && guide.window.end_ms) || p.end_ms);
+          if (end <= start) continue;
+          set.add(ymd(p.start_ms));
+          set.add(ymd(Math.max(p.start_ms, end - 1)));
+        }
+      }
+      const t = nowMs();
+      const today = ymd(t);
+      const days = [...set].sort();
+      if (!days.includes(today) && days.length) {
+        /* still offer today if the snapshot starts later tonight */
+      }
+      if (!days.includes(today)) days.unshift(today);
+      return [...new Set(days)].sort();
+    }
+
+    function dayLabel(key) {
+      const [y, m, d] = key.split("-").map(Number);
+      const ms = zonedMs(y, m, d, 12, 0, 0);
+      const today = ymd(nowMs());
+      const tomorrow = ymd(nowMs() + 36 * 3600000 - (nowMs() - dayStartMs(nowMs())));
+      const pretty = new Intl.DateTimeFormat("en-GB", { timeZone: TZ, weekday: "short", day: "numeric", month: "short" }).format(new Date(ms));
+      if (key === today) return "Today";
+      if (key === ymd(dayStartMs(nowMs()) + 26 * 3600000)) return "Tomorrow";
+      return pretty;
+    }
+
+    function tomorrowKey() {
+      return ymd(dayStartMs(nowMs()) + 26 * 3600 * 1000);
+    }
+
+    function renderDays() {
+      const days = uniqueDays();
+      if (!selectedDay || !days.includes(selectedDay)) selectedDay = days[0];
+      const root = document.getElementById("days");
+      root.innerHTML = days.map(key => {
+        const label = key === ymd(nowMs()) ? "Today" : (key === tomorrowKey() ? "Tomorrow" : dayLabel(key));
+        return `<button type="button" role="tab" aria-selected="${key === selectedDay}" data-day="${esc(key)}">${esc(label)}</button>`;
+      }).join("");
+      root.querySelectorAll("button").forEach(btn => {
+        btn.addEventListener("click", () => {
+          selectedDay = btn.dataset.day;
+          renderDays();
+          renderGrid();
+        });
+      });
+    }
+
+    function gridWindow(dayKey) {
+      const [y, m, d] = dayKey.split("-").map(Number);
+      const startPref = zonedMs(y, m, d, 6, 0, 0);
+      const endPref = zonedMs(y, m, d, 2, 0, 0) + 24 * 3600000; // 02:00 next morning
+      let minStart = Infinity, maxEnd = 0;
+      for (const ch of guide.channels || []) {
+        for (const p of ch.programs || []) {
+          if (p.end_ms <= startPref - 6 * 3600000 || p.start_ms >= endPref + 6 * 3600000) continue;
+          const visible = p.end_ms > startPref - 6 * 3600000 && p.start_ms < endPref + 6 * 3600000
+            && (ymd(p.start_ms) === dayKey || ymd(p.end_ms - 1) === dayKey || (p.start_ms < endPref && p.end_ms > startPref));
+          if (!visible && !(p.start_ms < endPref && p.end_ms > startPref)) continue;
+          if (p.start_ms < endPref && p.end_ms > startPref) {
+            minStart = Math.min(minStart, Math.max(p.start_ms, startPref - 60 * 60000));
+            maxEnd = Math.max(maxEnd, Math.min(p.end_ms, endPref));
+          }
+        }
+      }
+      if (!isFinite(minStart) || maxEnd <= minStart) {
+        return { start: startPref, end: Math.max(startPref + 6 * 3600000, Math.min(endPref, nowMs() + 3 * 3600000)) };
+      }
+      // Snap to whole hours in TZ
+      const sp = parts(minStart);
+      const ep = parts(maxEnd);
+      let start = zonedMs(sp.year, sp.month, sp.day, sp.hour, 0, 0);
+      let end = zonedMs(ep.year, ep.month, ep.day, ep.hour, 0, 0);
+      if (end < maxEnd) end += 3600000;
+      if (end <= start) end = start + 3600000;
+      return { start, end };
+    }
+
+    function renderGrid() {
+      if (!guide || !selectedDay) return;
+      const t = nowMs();
+      const win = gridWindow(selectedDay);
+      const hours = Math.max(1, (win.end - win.start) / 3600000);
+      const width = LABEL_W + hours * HOUR_PX;
+      const channels = guide.channels || [];
+      const hoursHtml = Array.from({ length: Math.ceil(hours) }, (_, i) => {
+        const ms = win.start + i * 3600000;
+        const left = LABEL_W + i * HOUR_PX;
+        return `<div class="hour" style="left:${left}px;width:${HOUR_PX}px">${esc(fmtTime(ms))}</div>`;
+      }).join("");
+      const rows = channels.map(ch => {
+        const blocks = (ch.programs || []).map(p => {
+          if (p.end_ms <= win.start || p.start_ms >= win.end) return "";
+          const left = LABEL_W + (Math.max(p.start_ms, win.start) - win.start) / 3600000 * HOUR_PX;
+          const right = LABEL_W + (Math.min(p.end_ms, win.end) - win.start) / 3600000 * HOUR_PX;
+          const w = Math.max(8, right - left - 4);
+          const live = p.kind !== "off" && p.start_ms <= t && t < p.end_ms;
+          const klass = `block${live ? " live" : ""}${p.kind === "off" ? " off" : ""}`;
+          const sub = p.kind === "off" ? `${fmtTime(p.start_ms)} – ${fmtTime(p.end_ms)}` : (subtitle(p) || `${fmtTime(p.start_ms)} – ${fmtTime(p.end_ms)}`);
+          return `<div class="${klass}" style="left:${left}px;width:${w}px" title="${esc(p.title)}">
+            <p class="bt">${esc(p.title)}</p>
+            <div class="bs">${esc(sub)}</div>
+          </div>`;
+        }).join("");
+        return `<div class="row" style="width:${width}px">
+          <div class="ch-label"><span class="num">${esc(ch.number)}</span><span class="cname">${esc(ch.name)}</span></div>
+          ${blocks}
+        </div>`;
+      }).join("");
+      const showNeedle = t >= win.start && t <= win.end;
+      const needleLeft = LABEL_W + (t - win.start) / 3600000 * HOUR_PX;
+      const needle = showNeedle ? `<div class="needle" style="left:${needleLeft}px"></div>` : "";
+      const el = document.getElementById("grid");
+      el.style.width = width + "px";
+      el.innerHTML = `<div class="hours" style="width:${width}px">${hoursHtml}</div>${rows}${needle}`;
+      const scroller = document.getElementById("scroller");
+      if (showNeedle) {
+        const target = needleLeft - scroller.clientWidth * 0.28;
+        scroller.scrollLeft = Math.max(0, target);
+      } else {
+        scroller.scrollLeft = 0;
+      }
+    }
+
+    function renderMeta() {
+      if (!guide) return;
+      const when = guide.generated_at_ms
+        ? `${fmtTime(guide.generated_at_ms)} ${dtfDate.format(new Date(guide.generated_at_ms))}`
+        : guide.generated_at || "";
+      document.getElementById("updated").textContent = `Asia/Jerusalem · snapshot ${when}`;
+      document.getElementById("foot").textContent =
+        `Times are in Asia/Jerusalem. The snapshot updates when the lineup changes, about every 10 minutes.`;
+    }
+
+    function renderAll() {
+      renderClock();
+      if (!guide) return;
+      renderMeta();
+      renderNow();
+      renderDays();
+      renderGrid();
+    }
+
+    async function load() {
+      const err = document.getElementById("error");
+      try {
+        const res = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: "no-store" });
+        if (!res.ok) throw new Error("Could not load the schedule.");
+        guide = await res.json();
+        err.hidden = true;
+        renderAll();
+      } catch (e) {
+        err.hidden = false;
+        err.textContent = "The schedule is not available right now. Try again in a moment.";
+      }
+    }
+
+    load();
+    setInterval(() => { renderClock(); if (guide) { renderNow(); renderGrid(); } }, 15000);
+    setInterval(load, 5 * 60 * 1000);
+  </script>
+</body>
+</html>

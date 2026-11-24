@@ -1,0 +1,459 @@
+{
+  "generated_at": "2026-11-24T21:36:44+02:00",
+  "generated_at_ms": 1795549004353,
+  "timezone": "Asia/Jerusalem",
+  "window": {
+    "start_ms": 1795549004269,
+    "end_ms": 1795721804269,
+    "start": "2026-11-24T21:36:44+02:00",
+    "end": "2026-11-26T21:36:44+02:00"
+  },
+  "channels": [
+    {
+      "number": 120,
+      "name": "Sitcoms (JP CMs)",
+      "programs": [
+        {
+          "title": "Dream Crusher",
+          "kind": "episode",
+          "start_ms": 1795548630000,
+          "end_ms": 1795550415139,
+          "start": "2026-11-24T21:30:30+02:00",
+          "end": "2026-11-24T22:00:15+02:00",
+          "show": "The War at Home",
+          "year": 2006
+        },
+        {
+          "title": "Super Dave",
+          "kind": "episode",
+          "start_ms": 1795550415139,
+          "end_ms": 1795552230046,
+          "start": "2026-11-24T22:00:15+02:00",
+          "end": "2026-11-24T22:30:30+02:00",
+          "show": "The War at Home",
+          "year": 2006
+        },
+        {
+          "title": "Car Wars",
+          "kind": "episode",
+          "start_ms": 1795552230046,
+          "end_ms": 1795554030116,
+          "start": "2026-11-24T22:30:30+02:00",
+          "end": "2026-11-24T23:00:30+02:00",
+          "show": "The War at Home",
+          "year": 2006
+        },
+        {
+          "title": "I Wash My Hands of You",
+          "kind": "episode",
+          "start_ms": 1795554030116,
+          "end_ms": 1795555829952,
+          "start": "2026-11-24T23:00:30+02:00",
+          "end": "2026-11-24T23:30:29+02:00",
+          "show": "The War at Home",
+          "year": 2006
+        },
+        {
+          "title": "Be Careful What You Wish For",
+          "kind": "episode",
+          "start_ms": 1795555829952,
+          "end_ms": 1795557629930,
+          "start": "2026-11-24T23:30:29+02:00",
+          "end": "2026-11-25T00:00:29+02:00",
+          "show": "The War at Home",
+          "year": 2006
+        },
+        {
+          "title": "Love This",
+          "kind": "episode",
+          "start_ms": 1795557629930,
+          "end_ms": 1795559415116,
+          "start": "2026-11-25T00:00:29+02:00",
+          "end": "2026-11-25T00:30:15+02:00",
+          "show": "The War at Home",
+          "year": 2006
+        },
+        {
+          "title": "Gaza Strip",
+          "kind": "episode",
+          "start_ms": 1795559415116,
+          "end_ms": 1795561214869,
+          "start": "2026-11-25T00:30:15+02:00",
+          "end": "2026-11-25T01:00:14+02:00",
+          "show": "The War at Home",
+          "year": 2006
+        },
+        {
+          "title": "Corkscrewed",
+          "kind": "episode",
+          "start_ms": 1795561214869,
+          "end_ms": 1795563014907,
+          "start": "2026-11-25T01:00:14+02:00",
+          "end": "2026-11-25T01:30:14+02:00",
+          "show": "The War at Home",
+          "year": 2006
+        },
+        {
+          "title": "Love is Blind",
+          "kind": "episode",
+          "start_ms": 1795563014907,
+          "end_ms": 1795565044019,
+          "start": "2026-11-25T01:30:14+02:00",
+          "end": "2026-11-25T02:04:04+02:00",
+          "show": "The War at Home",
+          "year": 2006
+        },
+        {
+          "title": "Out & In",
+          "kind": "episode",
+          "start_ms": 1795565044019,
+          "end_ms": 1795566844104,
+          "start": "2026-11-25T02:04:04+02:00",
+          "end": "2026-11-25T02:34:04+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "Put on a Happy Face",
+          "kind": "episode",
+          "start_ms": 1795566844104,
+          "end_ms": 1795568643955,
+          "start": "2026-11-25T02:34:04+02:00",
+          "end": "2026-11-25T03:04:03+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "It's Not Easy Being Green",
+          "kind": "episode",
+          "start_ms": 1795568643955,
+          "end_ms": 1795570459059,
+          "start": "2026-11-25T03:04:03+02:00",
+          "end": "2026-11-25T03:34:19+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "A Lower-Middle-Upper-Middle-Class Problem",
+          "kind": "episode",
+          "start_ms": 1795570459059,
+          "end_ms": 1795572244147,
+          "start": "2026-11-25T03:34:19+02:00",
+          "end": "2026-11-25T04:04:04+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "Zero Tolerance",
+          "kind": "episode",
+          "start_ms": 1795572244147,
+          "end_ms": 1795574044147,
+          "start": "2026-11-25T04:04:04+02:00",
+          "end": "2026-11-25T04:34:04+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "No Weddings and a Funeral",
+          "kind": "episode",
+          "start_ms": 1795574044147,
+          "end_ms": 1795575844232,
+          "start": "2026-11-25T04:34:04+02:00",
+          "end": "2026-11-25T05:04:04+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "Kenny Doesn't Live Here Anymore",
+          "kind": "episode",
+          "start_ms": 1795575844232,
+          "end_ms": 1795577659287,
+          "start": "2026-11-25T05:04:04+02:00",
+          "end": "2026-11-25T05:34:19+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "Take This Job and Bleep It",
+          "kind": "episode",
+          "start_ms": 1795577659287,
+          "end_ms": 1795579026336,
+          "start": "2026-11-25T05:34:19+02:00",
+          "end": "2026-11-25T05:57:06+02:00",
+          "show": "The War at Home",
+          "year": 2007
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795579026336,
+          "end_ms": 1795593600000,
+          "start": "2026-11-25T05:57:06+02:00",
+          "end": "2026-11-25T10:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "number": 121,
+      "name": "Seinfeld (JP CMs)",
+      "programs": [
+        {
+          "title": "The Highlights of 100 (1) / The Highlights of 100 (2)",
+          "kind": "episode",
+          "start_ms": 1795548751917,
+          "end_ms": 1795552497937,
+          "start": "2026-11-24T21:32:31+02:00",
+          "end": "2026-11-24T22:34:57+02:00",
+          "show": "Seinfeld",
+          "year": 1995
+        },
+        {
+          "title": "The Cadillac (1) / The Cadillac (2)",
+          "kind": "episode",
+          "start_ms": 1795552497937,
+          "end_ms": 1795556003517,
+          "start": "2026-11-24T22:34:57+02:00",
+          "end": "2026-11-24T23:33:23+02:00",
+          "show": "Seinfeld",
+          "year": 1996
+        },
+        {
+          "title": "The Doll",
+          "kind": "episode",
+          "start_ms": 1795556003517,
+          "end_ms": 1795557725447,
+          "start": "2026-11-24T23:33:23+02:00",
+          "end": "2026-11-25T00:02:05+02:00",
+          "show": "Seinfeld",
+          "year": 1996
+        },
+        {
+          "title": "The Finale (1) / The Finale (2)",
+          "kind": "episode",
+          "start_ms": 1795557725447,
+          "end_ms": 1795561472057,
+          "start": "2026-11-25T00:02:05+02:00",
+          "end": "2026-11-25T01:04:32+02:00",
+          "show": "Seinfeld",
+          "year": 1998
+        },
+        {
+          "title": "The Phone Message",
+          "kind": "episode",
+          "start_ms": 1795561472057,
+          "end_ms": 1795563272707,
+          "start": "2026-11-25T01:04:32+02:00",
+          "end": "2026-11-25T01:34:32+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Stranded",
+          "kind": "episode",
+          "start_ms": 1795563272707,
+          "end_ms": 1795564716037,
+          "start": "2026-11-25T01:34:32+02:00",
+          "end": "2026-11-25T01:58:36+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795564716037,
+          "end_ms": 1795579214933,
+          "start": "2026-11-25T01:58:36+02:00",
+          "end": "2026-11-25T06:00:14+02:00"
+        },
+        {
+          "title": "Male Unbonding",
+          "kind": "episode",
+          "start_ms": 1795579214933,
+          "end_ms": 1795581006291,
+          "start": "2026-11-25T06:00:14+02:00",
+          "end": "2026-11-25T06:30:06+02:00",
+          "show": "Seinfeld",
+          "year": 1990
+        },
+        {
+          "title": "The Stock Tip",
+          "kind": "episode",
+          "start_ms": 1795581006291,
+          "end_ms": 1795582815000,
+          "start": "2026-11-25T06:30:06+02:00",
+          "end": "2026-11-25T07:00:15+02:00",
+          "show": "Seinfeld",
+          "year": 1990
+        },
+        {
+          "title": "Seinfeld.S02E01.The.Ex-Girlfriend",
+          "kind": "episode",
+          "start_ms": 1795582815000,
+          "end_ms": 1795584713108,
+          "start": "2026-11-25T07:00:15+02:00",
+          "end": "2026-11-25T07:31:53+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Statue",
+          "kind": "episode",
+          "start_ms": 1795584713108,
+          "end_ms": 1795586415018,
+          "start": "2026-11-25T07:31:53+02:00",
+          "end": "2026-11-25T08:00:15+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Deal",
+          "kind": "episode",
+          "start_ms": 1795586415018,
+          "end_ms": 1795588429768,
+          "start": "2026-11-25T08:00:15+02:00",
+          "end": "2026-11-25T08:33:49+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Chinese Restaurant",
+          "kind": "episode",
+          "start_ms": 1795588429768,
+          "end_ms": 1795590014805,
+          "start": "2026-11-25T08:33:49+02:00",
+          "end": "2026-11-25T09:00:14+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "Seinfeld.S03E01.The.Note",
+          "kind": "episode",
+          "start_ms": 1795590014805,
+          "end_ms": 1795591371115,
+          "start": "2026-11-25T09:00:14+02:00",
+          "end": "2026-11-25T09:22:51+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "number": 123,
+      "name": "Harry Potter",
+      "programs": [
+        {
+          "title": "Harry Potter and the Order of the Phoenix",
+          "kind": "movie",
+          "start_ms": 1795546621271,
+          "end_ms": 1795552930696,
+          "start": "2026-11-24T20:57:01+02:00",
+          "end": "2026-11-24T22:42:10+02:00",
+          "year": 2007
+        },
+        {
+          "title": "Harry Potter and the Half-Blood Prince",
+          "kind": "movie",
+          "start_ms": 1795552930696,
+          "end_ms": 1795563037452,
+          "start": "2026-11-24T22:42:10+02:00",
+          "end": "2026-11-25T01:30:37+02:00",
+          "year": 2009
+        },
+        {
+          "title": "Harry Potter and the Deathly Hallows: Part 1",
+          "kind": "movie",
+          "start_ms": 1795563037452,
+          "end_ms": 1795571802732,
+          "start": "2026-11-25T01:30:37+02:00",
+          "end": "2026-11-25T03:56:42+02:00",
+          "year": 2010
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795571802732,
+          "end_ms": 1795586570869,
+          "start": "2026-11-25T03:56:42+02:00",
+          "end": "2026-11-25T08:02:50+02:00"
+        },
+        {
+          "title": "Harry Potter and the Deathly Hallows: Part 2",
+          "kind": "movie",
+          "start_ms": 1795586570869,
+          "end_ms": 1795591311587,
+          "start": "2026-11-25T08:02:50+02:00",
+          "end": "2026-11-25T09:21:51+02:00",
+          "year": 2011
+        }
+      ]
+    },
+    {
+      "number": 124,
+      "name": "Slapstick Movies",
+      "programs": [
+        {
+          "title": "Austin Powers: The Spy Who Shagged Me",
+          "kind": "movie",
+          "start_ms": 1795546622798,
+          "end_ms": 1795551270220,
+          "start": "2026-11-24T20:57:02+02:00",
+          "end": "2026-11-24T22:14:30+02:00",
+          "year": 1999
+        },
+        {
+          "title": "Scary Movie",
+          "kind": "movie",
+          "start_ms": 1795551270220,
+          "end_ms": 1795557628905,
+          "start": "2026-11-24T22:14:30+02:00",
+          "end": "2026-11-25T00:00:28+02:00",
+          "year": 2000
+        },
+        {
+          "title": "Rat Race",
+          "kind": "movie",
+          "start_ms": 1795557628905,
+          "end_ms": 1795564846741,
+          "start": "2026-11-25T00:00:28+02:00",
+          "end": "2026-11-25T02:00:46+02:00",
+          "year": 2001
+        },
+        {
+          "title": "The Pink Panther Strikes Again",
+          "kind": "movie",
+          "start_ms": 1795564846741,
+          "end_ms": 1795572494616,
+          "start": "2026-11-25T02:00:46+02:00",
+          "end": "2026-11-25T04:08:14+02:00",
+          "year": 1976
+        },
+        {
+          "title": "Revenge of the Pink Panther",
+          "kind": "movie",
+          "start_ms": 1795572494616,
+          "end_ms": 1795579200000,
+          "start": "2026-11-25T04:08:14+02:00",
+          "end": "2026-11-25T06:00:00+02:00",
+          "year": 1978
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795579200000,
+          "end_ms": 1795586489538,
+          "start": "2026-11-25T06:00:00+02:00",
+          "end": "2026-11-25T08:01:29+02:00"
+        },
+        {
+          "title": "The Kid",
+          "kind": "movie",
+          "start_ms": 1795586489538,
+          "end_ms": 1795591354615,
+          "start": "2026-11-25T08:01:29+02:00",
+          "end": "2026-11-25T09:22:34+02:00",
+          "year": 1921
+        }
+      ]
+    }
+  ]
+}
