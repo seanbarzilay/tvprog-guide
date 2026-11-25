@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T21:11:32+02:00",
-  "generated_at_ms": 1795633892479,
+  "generated_at": "2026-11-25T21:31:38+02:00",
+  "generated_at_ms": 1795635098230,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795633892436,
-    "end_ms": 1795806692436,
-    "start": "2026-11-25T21:11:32+02:00",
-    "end": "2026-11-27T21:11:32+02:00"
+    "start_ms": 1795635098169,
+    "end_ms": 1795807898169,
+    "start": "2026-11-25T21:31:38+02:00",
+    "end": "2026-11-27T21:31:38+02:00"
   },
   "channels": [
     {
@@ -197,16 +197,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Jimmy",
-          "kind": "episode",
-          "start_ms": 1795633210000,
-          "end_ms": 1795635010000,
-          "start": "2026-11-25T21:00:10+02:00",
-          "end": "2026-11-25T21:30:10+02:00",
-          "show": "Seinfeld",
-          "year": 1995
-        },
         {
           "title": "The Understudy",
           "kind": "episode",
