@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T18:10:12+02:00",
-  "generated_at_ms": 1795623012253,
+  "generated_at": "2026-11-25T18:30:20+02:00",
+  "generated_at_ms": 1795624220986,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795623012196,
-    "end_ms": 1795795812196,
-    "start": "2026-11-25T18:10:12+02:00",
-    "end": "2026-11-27T18:10:12+02:00"
+    "start_ms": 1795624220940,
+    "end_ms": 1795797020940,
+    "start": "2026-11-25T18:30:20+02:00",
+    "end": "2026-11-27T18:30:20+02:00"
   },
   "channels": [
     {
@@ -219,16 +219,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Masseuse",
-          "kind": "episode",
-          "start_ms": 1795622479108,
-          "end_ms": 1795624210000,
-          "start": "2026-11-25T18:01:19+02:00",
-          "end": "2026-11-25T18:30:10+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Cigar Store Indian",
           "kind": "episode",
