@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T13:38:09+02:00",
-  "generated_at_ms": 1795606689233,
+  "generated_at": "2026-11-25T14:08:22+02:00",
+  "generated_at_ms": 1795608502736,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795606689185,
-    "end_ms": 1795779489185,
-    "start": "2026-11-25T13:38:09+02:00",
-    "end": "2026-11-27T13:38:09+02:00"
+    "start_ms": 1795608502689,
+    "end_ms": 1795781302689,
+    "start": "2026-11-25T14:08:22+02:00",
+    "end": "2026-11-27T14:08:22+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Mega Friendly",
-          "kind": "episode",
-          "start_ms": 1795606295534,
-          "end_ms": 1795608095363,
-          "start": "2026-11-25T13:31:35+02:00",
-          "end": "2026-11-25T14:01:35+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "The Painting",
           "kind": "episode",
@@ -229,16 +219,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Virgin",
-          "kind": "episode",
-          "start_ms": 1795606261188,
-          "end_ms": 1795608015046,
-          "start": "2026-11-25T13:31:01+02:00",
-          "end": "2026-11-25T14:00:15+02:00",
-          "show": "Seinfeld",
-          "year": 1992
-        },
         {
           "title": "The Shoes",
           "kind": "episode",
