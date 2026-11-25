@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T15:59:13+02:00",
-  "generated_at_ms": 1795615153991,
+  "generated_at": "2026-11-25T16:09:18+02:00",
+  "generated_at_ms": 1795615758478,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795615153941,
-    "end_ms": 1795787953941,
-    "start": "2026-11-25T15:59:13+02:00",
-    "end": "2026-11-27T15:59:13+02:00"
+    "start_ms": 1795615758435,
+    "end_ms": 1795788558435,
+    "start": "2026-11-25T16:09:18+02:00",
+    "end": "2026-11-27T16:09:18+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "The Parking Officer",
-          "kind": "episode",
-          "start_ms": 1795613500130,
-          "end_ms": 1795615300130,
-          "start": "2026-11-25T15:31:40+02:00",
-          "end": "2026-11-25T16:01:40+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "The Male Maid",
           "kind": "episode",
@@ -177,11 +167,91 @@
           "title": "Raising the Bar",
           "kind": "episode",
           "start_ms": 1795642639670,
-          "end_ms": 1795644086424,
+          "end_ms": 1795644444577,
           "start": "2026-11-25T23:37:19+02:00",
-          "end": "2026-11-26T00:01:26+02:00",
+          "end": "2026-11-26T00:07:24+02:00",
           "show": "Traffic Light",
           "year": 2009
+        },
+        {
+          "title": "Night Life",
+          "kind": "episode",
+          "start_ms": 1795644444577,
+          "end_ms": 1795646281182,
+          "start": "2026-11-26T00:07:24+02:00",
+          "end": "2026-11-26T00:38:01+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "How Much Should We Give?",
+          "kind": "episode",
+          "start_ms": 1795646281182,
+          "end_ms": 1795648099748,
+          "start": "2026-11-26T00:38:01+02:00",
+          "end": "2026-11-26T01:08:19+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Dr. Shdema",
+          "kind": "episode",
+          "start_ms": 1795648099748,
+          "end_ms": 1795650906206,
+          "start": "2026-11-26T01:08:19+02:00",
+          "end": "2026-11-26T01:55:06+02:00",
+          "show": "Traffic Light",
+          "year": 2011
+        },
+        {
+          "title": "Coleslaw",
+          "kind": "episode",
+          "start_ms": 1795650906206,
+          "end_ms": 1795652862306,
+          "start": "2026-11-26T01:55:06+02:00",
+          "end": "2026-11-26T02:27:42+02:00",
+          "show": "Traffic Light",
+          "year": 2011
+        },
+        {
+          "title": "Who saved you?",
+          "kind": "episode",
+          "start_ms": 1795652862306,
+          "end_ms": 1795654492868,
+          "start": "2026-11-26T02:27:42+02:00",
+          "end": "2026-11-26T02:54:52+02:00",
+          "show": "Traffic Light",
+          "year": 2011
+        },
+        {
+          "title": "Flowers for Elisha",
+          "kind": "episode",
+          "start_ms": 1795654492868,
+          "end_ms": 1795656350694,
+          "start": "2026-11-26T02:54:52+02:00",
+          "end": "2026-11-26T03:25:50+02:00",
+          "show": "Traffic Light",
+          "year": 2011
+        },
+        {
+          "title": "Genetic counseling",
+          "kind": "episode",
+          "start_ms": 1795656350694,
+          "end_ms": 1795658192379,
+          "start": "2026-11-26T03:25:50+02:00",
+          "end": "2026-11-26T03:56:32+02:00",
+          "show": "Traffic Light",
+          "year": 2011
+        },
+        {
+          "title": "Won't Let Me Rest",
+          "kind": "episode",
+          "start_ms": 1795658192379,
+          "end_ms": 1795658792379,
+          "start": "2026-11-26T03:56:32+02:00",
+          "end": "2026-11-26T04:06:32+02:00",
+          "show": "Traffic Light",
+          "year": 2011
         }
       ]
     },
@@ -189,16 +259,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Implant",
-          "kind": "episode",
-          "start_ms": 1795613430097,
-          "end_ms": 1795615214506,
-          "start": "2026-11-25T15:30:30+02:00",
-          "end": "2026-11-25T16:00:14+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Smelly Car",
           "kind": "episode",
@@ -363,11 +423,49 @@
           "title": "The Wig Master",
           "kind": "episode",
           "start_ms": 1795644015116,
-          "end_ms": 1795644615116,
+          "end_ms": 1795645935733,
           "start": "2026-11-26T00:00:15+02:00",
-          "end": "2026-11-26T00:10:15+02:00",
+          "end": "2026-11-26T00:32:15+02:00",
           "show": "Seinfeld",
           "year": 1996
+        },
+        {
+          "title": "The Abstinence",
+          "kind": "episode",
+          "start_ms": 1795645935733,
+          "end_ms": 1795647610000,
+          "start": "2026-11-26T00:32:15+02:00",
+          "end": "2026-11-26T01:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 1996
+        },
+        {
+          "title": "The English Patient",
+          "kind": "episode",
+          "start_ms": 1795647610000,
+          "end_ms": 1795649415998,
+          "start": "2026-11-26T01:00:10+02:00",
+          "end": "2026-11-26T01:30:15+02:00",
+          "show": "Seinfeld",
+          "year": 1997
+        },
+        {
+          "title": "The Frogger",
+          "kind": "episode",
+          "start_ms": 1795649415998,
+          "end_ms": 1795650788207,
+          "start": "2026-11-26T01:30:15+02:00",
+          "end": "2026-11-26T01:53:08+02:00",
+          "show": "Seinfeld",
+          "year": 1998
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795650788207,
+          "end_ms": 1795665600000,
+          "start": "2026-11-26T01:53:08+02:00",
+          "end": "2026-11-26T06:00:00+02:00"
         }
       ]
     },
@@ -397,10 +495,19 @@
           "title": "Harry Potter and the Chamber of Secrets",
           "kind": "movie",
           "start_ms": 1795635657980,
-          "end_ms": 1795644089255,
+          "end_ms": 1795647044576,
           "start": "2026-11-25T21:40:57+02:00",
-          "end": "2026-11-26T00:01:29+02:00",
+          "end": "2026-11-26T00:50:44+02:00",
           "year": 2002
+        },
+        {
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "kind": "movie",
+          "start_ms": 1795647044576,
+          "end_ms": 1795658430116,
+          "start": "2026-11-26T00:50:44+02:00",
+          "end": "2026-11-26T04:00:30+02:00",
+          "year": 2004
         }
       ]
     },
@@ -411,9 +518,9 @@
         {
           "title": "The Return of the Pink Panther",
           "kind": "movie",
-          "start_ms": 1795608836791,
+          "start_ms": 1795615203620,
           "end_ms": 1795617078109,
-          "start": "2026-11-25T14:13:56+02:00",
+          "start": "2026-11-25T16:00:03+02:00",
           "end": "2026-11-25T16:31:18+02:00",
           "year": 1975
         },
@@ -457,10 +564,19 @@
           "title": "National Lampoon's Vacation",
           "kind": "movie",
           "start_ms": 1795643857590,
-          "end_ms": 1795644457590,
+          "end_ms": 1795651178453,
           "start": "2026-11-25T23:57:37+02:00",
-          "end": "2026-11-26T00:07:37+02:00",
+          "end": "2026-11-26T01:59:38+02:00",
           "year": 1983
+        },
+        {
+          "title": "Top Secret!",
+          "kind": "movie",
+          "start_ms": 1795651178453,
+          "end_ms": 1795658529090,
+          "start": "2026-11-26T01:59:38+02:00",
+          "end": "2026-11-26T04:02:09+02:00",
+          "year": 1984
         }
       ]
     }
