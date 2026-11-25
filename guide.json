@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T23:32:35+02:00",
-  "generated_at_ms": 1795642355234,
+  "generated_at": "2026-11-25T23:42:38+02:00",
+  "generated_at_ms": 1795642958207,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795642355192,
-    "end_ms": 1795815155192,
-    "start": "2026-11-25T23:32:35+02:00",
-    "end": "2026-11-27T23:32:35+02:00"
+    "start_ms": 1795642958165,
+    "end_ms": 1795815758165,
+    "start": "2026-11-25T23:42:38+02:00",
+    "end": "2026-11-27T23:42:38+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Baby Sense",
-          "kind": "episode",
-          "start_ms": 1795640839670,
-          "end_ms": 1795642639670,
-          "start": "2026-11-25T23:07:19+02:00",
-          "end": "2026-11-25T23:37:19+02:00",
-          "show": "Traffic Light",
-          "year": 2009
-        },
         {
           "title": "Raising the Bar",
           "kind": "episode",
