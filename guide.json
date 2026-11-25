@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T10:06:34+02:00",
-  "generated_at_ms": 1795593994986,
+  "generated_at": "2026-11-25T10:36:48+02:00",
+  "generated_at_ms": 1795595808484,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795593994940,
-    "end_ms": 1795766794940,
-    "start": "2026-11-25T10:06:34+02:00",
-    "end": "2026-11-27T10:06:34+02:00"
+    "start_ms": 1795595808439,
+    "end_ms": 1795768608439,
+    "start": "2026-11-25T10:36:48+02:00",
+    "end": "2026-11-27T10:36:48+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "The White Shadow",
-          "kind": "episode",
-          "start_ms": 1795593610000,
-          "end_ms": 1795595431045,
-          "start": "2026-11-25T10:00:10+02:00",
-          "end": "2026-11-25T10:30:31+02:00",
-          "show": "The War at Home",
-          "year": 2007
-        },
         {
           "title": "The War of the Golds",
           "kind": "episode",
@@ -219,16 +209,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Tape",
-          "kind": "episode",
-          "start_ms": 1795593610000,
-          "end_ms": 1795595410000,
-          "start": "2026-11-25T10:00:10+02:00",
-          "end": "2026-11-25T10:30:10+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "The Red Dot",
           "kind": "episode",
