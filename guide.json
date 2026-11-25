@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T08:35:54+02:00",
-  "generated_at_ms": 1795588554493,
+  "generated_at": "2026-11-25T09:06:07+02:00",
+  "generated_at_ms": 1795590367991,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795588554438,
-    "end_ms": 1795761354438,
-    "start": "2026-11-25T08:35:54+02:00",
-    "end": "2026-11-27T08:35:54+02:00"
+    "start_ms": 1795590367944,
+    "end_ms": 1795763167944,
+    "start": "2026-11-25T09:06:07+02:00",
+    "end": "2026-11-27T09:06:07+02:00"
   },
   "channels": [
     {
@@ -227,16 +227,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Chinese Restaurant",
-          "kind": "episode",
-          "start_ms": 1795588214784,
-          "end_ms": 1795590015061,
-          "start": "2026-11-25T08:30:14+02:00",
-          "end": "2026-11-25T09:00:15+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "Seinfeld.S03E01.The.Note",
           "kind": "episode",
