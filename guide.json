@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T02:33:13+02:00",
-  "generated_at_ms": 1795566793108,
+  "generated_at": "2026-11-25T03:03:26+02:00",
+  "generated_at_ms": 1795568606583,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795566792700,
-    "end_ms": 1795739592700,
-    "start": "2026-11-25T02:33:12+02:00",
-    "end": "2026-11-27T02:33:12+02:00"
+    "start_ms": 1795568606199,
+    "end_ms": 1795741406199,
+    "start": "2026-11-25T03:03:26+02:00",
+    "end": "2026-11-27T03:03:26+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Put on a Happy Face",
-          "kind": "episode",
-          "start_ms": 1795566610000,
-          "end_ms": 1795568414506,
-          "start": "2026-11-25T02:30:10+02:00",
-          "end": "2026-11-25T03:00:14+02:00",
-          "show": "The War at Home",
-          "year": 2007
-        },
         {
           "title": "It's Not Easy Being Green",
           "kind": "episode",
