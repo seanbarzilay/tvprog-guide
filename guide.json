@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T06:35:00+02:00",
-  "generated_at_ms": 1795581300743,
+  "generated_at": "2026-11-25T07:05:14+02:00",
+  "generated_at_ms": 1795583114242,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795581300694,
-    "end_ms": 1795754100694,
-    "start": "2026-11-25T06:35:00+02:00",
-    "end": "2026-11-27T06:35:00+02:00"
+    "start_ms": 1795583114194,
+    "end_ms": 1795755914194,
+    "start": "2026-11-25T07:05:14+02:00",
+    "end": "2026-11-27T07:05:14+02:00"
   },
   "channels": [
     {
@@ -147,16 +147,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Stock Tip",
-          "kind": "episode",
-          "start_ms": 1795581010000,
-          "end_ms": 1795582964948,
-          "start": "2026-11-25T06:30:10+02:00",
-          "end": "2026-11-25T07:02:44+02:00",
-          "show": "Seinfeld",
-          "year": 1990
-        },
         {
           "title": "Seinfeld.S02E01.The.Ex-Girlfriend",
           "kind": "episode",
