@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T07:35:28+02:00",
-  "generated_at_ms": 1795584928077,
+  "generated_at": "2026-11-25T08:05:38+02:00",
+  "generated_at_ms": 1795586738253,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795584927684,
-    "end_ms": 1795757727684,
-    "start": "2026-11-25T07:35:27+02:00",
-    "end": "2026-11-27T07:35:27+02:00"
+    "start_ms": 1795586738165,
+    "end_ms": 1795759538165,
+    "start": "2026-11-25T08:05:38+02:00",
+    "end": "2026-11-27T08:05:38+02:00"
   },
   "channels": [
     {
@@ -16,9 +16,9 @@
         {
           "title": "Off air",
           "kind": "off",
-          "start_ms": 1795579210000,
+          "start_ms": 1795586400000,
           "end_ms": 1795593610000,
-          "start": "2026-11-25T06:00:10+02:00",
+          "start": "2026-11-25T08:00:00+02:00",
           "end": "2026-11-25T10:00:10+02:00"
         },
         {
@@ -135,11 +135,91 @@
           "title": "The Parking Officer",
           "kind": "episode",
           "start_ms": 1795613500130,
-          "end_ms": 1795615290130,
+          "end_ms": 1795615300130,
           "start": "2026-11-25T15:31:40+02:00",
-          "end": "2026-11-25T16:01:30+02:00",
+          "end": "2026-11-25T16:01:40+02:00",
           "show": "Traffic Light",
           "year": 2008
+        },
+        {
+          "title": "The Male Maid",
+          "kind": "episode",
+          "start_ms": 1795615300130,
+          "end_ms": 1795617103015,
+          "start": "2026-11-25T16:01:40+02:00",
+          "end": "2026-11-25T16:31:43+02:00",
+          "show": "Traffic Light",
+          "year": 2008
+        },
+        {
+          "title": "Dogs Psychologist",
+          "kind": "episode",
+          "start_ms": 1795617103015,
+          "end_ms": 1795618905042,
+          "start": "2026-11-25T16:31:43+02:00",
+          "end": "2026-11-25T17:01:45+02:00",
+          "show": "Traffic Light",
+          "year": 2008
+        },
+        {
+          "title": "Funeral Clown",
+          "kind": "episode",
+          "start_ms": 1795618905042,
+          "end_ms": 1795620700130,
+          "start": "2026-11-25T17:01:45+02:00",
+          "end": "2026-11-25T17:31:40+02:00",
+          "show": "Traffic Light",
+          "year": 2008
+        },
+        {
+          "title": "Substitute Mother",
+          "kind": "episode",
+          "start_ms": 1795620700130,
+          "end_ms": 1795622500130,
+          "start": "2026-11-25T17:31:40+02:00",
+          "end": "2026-11-25T18:01:40+02:00",
+          "show": "Traffic Light",
+          "year": 2008
+        },
+        {
+          "title": "Changing Lights",
+          "kind": "episode",
+          "start_ms": 1795622500130,
+          "end_ms": 1795624300130,
+          "start": "2026-11-25T18:01:40+02:00",
+          "end": "2026-11-25T18:31:40+02:00",
+          "show": "Traffic Light",
+          "year": 2008
+        },
+        {
+          "title": "Careful, My Wife's in the Car!",
+          "kind": "episode",
+          "start_ms": 1795624300130,
+          "end_ms": 1795626100130,
+          "start": "2026-11-25T18:31:40+02:00",
+          "end": "2026-11-25T19:01:40+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Kululu",
+          "kind": "episode",
+          "start_ms": 1795626100130,
+          "end_ms": 1795627900130,
+          "start": "2026-11-25T19:01:40+02:00",
+          "end": "2026-11-25T19:31:40+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Feeling Old",
+          "kind": "episode",
+          "start_ms": 1795627900130,
+          "end_ms": 1795629712866,
+          "start": "2026-11-25T19:31:40+02:00",
+          "end": "2026-11-25T20:01:52+02:00",
+          "show": "Traffic Light",
+          "year": 2009
         }
       ]
     },
@@ -147,16 +227,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Statue",
-          "kind": "episode",
-          "start_ms": 1795584614907,
-          "end_ms": 1795586410000,
-          "start": "2026-11-25T07:30:14+02:00",
-          "end": "2026-11-25T08:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "The Deal",
           "kind": "episode",
@@ -311,11 +381,91 @@
           "title": "The Smelly Car",
           "kind": "episode",
           "start_ms": 1795615214506,
-          "end_ms": 1795615814506,
+          "end_ms": 1795617084126,
           "start": "2026-11-25T16:00:14+02:00",
-          "end": "2026-11-25T16:10:14+02:00",
+          "end": "2026-11-25T16:31:24+02:00",
           "show": "Seinfeld",
           "year": 1993
+        },
+        {
+          "title": "Seinfeld.S05E01.The.Mango",
+          "kind": "episode",
+          "start_ms": 1795617084126,
+          "end_ms": 1795618810000,
+          "start": "2026-11-25T16:31:24+02:00",
+          "end": "2026-11-25T17:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "Seinfeld.S05E04.The.Sniffing.Accountant",
+          "kind": "episode",
+          "start_ms": 1795618810000,
+          "end_ms": 1795620610000,
+          "start": "2026-11-25T17:00:10+02:00",
+          "end": "2026-11-25T17:30:10+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Non-Fat Yogurt",
+          "kind": "episode",
+          "start_ms": 1795620610000,
+          "end_ms": 1795622479108,
+          "start": "2026-11-25T17:30:10+02:00",
+          "end": "2026-11-25T18:01:19+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Masseuse",
+          "kind": "episode",
+          "start_ms": 1795622479108,
+          "end_ms": 1795624210000,
+          "start": "2026-11-25T18:01:19+02:00",
+          "end": "2026-11-25T18:30:10+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Cigar Store Indian",
+          "kind": "episode",
+          "start_ms": 1795624210000,
+          "end_ms": 1795626065761,
+          "start": "2026-11-25T18:30:10+02:00",
+          "end": "2026-11-25T19:01:05+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Marine Biologist",
+          "kind": "episode",
+          "start_ms": 1795626065761,
+          "end_ms": 1795627810000,
+          "start": "2026-11-25T19:01:05+02:00",
+          "end": "2026-11-25T19:30:10+02:00",
+          "show": "Seinfeld",
+          "year": 1994
+        },
+        {
+          "title": "Seinfeld.S06E03.The.Pledge.Drive",
+          "kind": "episode",
+          "start_ms": 1795627810000,
+          "end_ms": 1795629610000,
+          "start": "2026-11-25T19:30:10+02:00",
+          "end": "2026-11-25T20:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Soup",
+          "kind": "episode",
+          "start_ms": 1795629610000,
+          "end_ms": 1795630210000,
+          "start": "2026-11-25T20:00:10+02:00",
+          "end": "2026-11-25T20:10:10+02:00",
+          "show": "Seinfeld",
+          "year": 1994
         }
       ]
     },
@@ -323,14 +473,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Off air",
-          "kind": "off",
-          "start_ms": 1795572000000,
-          "end_ms": 1795586570869,
-          "start": "2026-11-25T04:00:00+02:00",
-          "end": "2026-11-25T08:02:50+02:00"
-        },
         {
           "title": "Harry Potter and the Deathly Hallows: Part 2",
           "kind": "movie",
@@ -362,10 +504,19 @@
           "title": "Fantastic Beasts: The Secrets of Dumbledore",
           "kind": "movie",
           "start_ms": 1795614803663,
-          "end_ms": 1795615403663,
+          "end_ms": 1795624813583,
           "start": "2026-11-25T15:53:23+02:00",
-          "end": "2026-11-25T16:03:23+02:00",
+          "end": "2026-11-25T18:40:13+02:00",
           "year": 2022
+        },
+        {
+          "title": "Harry Potter and the Philosopher's Stone",
+          "kind": "movie",
+          "start_ms": 1795624813583,
+          "end_ms": 1795629695734,
+          "start": "2026-11-25T18:40:13+02:00",
+          "end": "2026-11-25T20:01:35+02:00",
+          "year": 2001
         }
       ]
     },
@@ -373,14 +524,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Off air",
-          "kind": "off",
-          "start_ms": 1795579200000,
-          "end_ms": 1795586489538,
-          "start": "2026-11-25T06:00:00+02:00",
-          "end": "2026-11-25T08:01:29+02:00"
-        },
         {
           "title": "The Kid",
           "kind": "movie",
@@ -412,10 +555,28 @@
           "title": "The Return of the Pink Panther",
           "kind": "movie",
           "start_ms": 1795608836791,
-          "end_ms": 1795615803620,
+          "end_ms": 1795617078109,
           "start": "2026-11-25T14:13:56+02:00",
-          "end": "2026-11-25T16:10:03+02:00",
+          "end": "2026-11-25T16:31:18+02:00",
           "year": 1975
+        },
+        {
+          "title": "The Pink Panther Strikes Again",
+          "kind": "movie",
+          "start_ms": 1795617078109,
+          "end_ms": 1795624381529,
+          "start": "2026-11-25T16:31:18+02:00",
+          "end": "2026-11-25T18:33:01+02:00",
+          "year": 1976
+        },
+        {
+          "title": "Revenge of the Pink Panther",
+          "kind": "movie",
+          "start_ms": 1795624381529,
+          "end_ms": 1795629892267,
+          "start": "2026-11-25T18:33:01+02:00",
+          "end": "2026-11-25T20:04:52+02:00",
+          "year": 1978
         }
       ]
     }
