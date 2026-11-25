@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T03:03:26+02:00",
-  "generated_at_ms": 1795568606583,
+  "generated_at": "2026-11-25T03:33:38+02:00",
+  "generated_at_ms": 1795570418219,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795568606199,
-    "end_ms": 1795741406199,
-    "start": "2026-11-25T03:03:26+02:00",
-    "end": "2026-11-27T03:03:26+02:00"
+    "start_ms": 1795570418159,
+    "end_ms": 1795743218159,
+    "start": "2026-11-25T03:33:38+02:00",
+    "end": "2026-11-27T03:33:38+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "It's Not Easy Being Green",
-          "kind": "episode",
-          "start_ms": 1795568414506,
-          "end_ms": 1795570214981,
-          "start": "2026-11-25T03:00:14+02:00",
-          "end": "2026-11-25T03:30:14+02:00",
-          "show": "The War at Home",
-          "year": 2007
-        },
         {
           "title": "A Lower-Middle-Upper-Middle-Class Problem",
           "kind": "episode",
