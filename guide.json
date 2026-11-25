@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T00:12:53+02:00",
-  "generated_at_ms": 1795644773241,
+  "generated_at": "2026-11-26T00:33:02+02:00",
+  "generated_at_ms": 1795645982235,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795644773187,
-    "end_ms": 1795817573187,
-    "start": "2026-11-26T00:12:53+02:00",
-    "end": "2026-11-28T00:12:53+02:00"
+    "start_ms": 1795645982185,
+    "end_ms": 1795818782185,
+    "start": "2026-11-26T00:33:02+02:00",
+    "end": "2026-11-28T00:33:02+02:00"
   },
   "channels": [
     {
@@ -167,16 +167,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Wig Master",
-          "kind": "episode",
-          "start_ms": 1795644015116,
-          "end_ms": 1795645935733,
-          "start": "2026-11-26T00:00:15+02:00",
-          "end": "2026-11-26T00:32:15+02:00",
-          "show": "Seinfeld",
-          "year": 1996
-        },
         {
           "title": "The Abstinence",
           "kind": "episode",
