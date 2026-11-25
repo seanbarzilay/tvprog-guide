@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T01:03:15+02:00",
-  "generated_at_ms": 1795647795748,
+  "generated_at": "2026-11-26T01:13:20+02:00",
+  "generated_at_ms": 1795648400237,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795647795693,
-    "end_ms": 1795820595693,
-    "start": "2026-11-26T01:03:15+02:00",
-    "end": "2026-11-28T01:03:15+02:00"
+    "start_ms": 1795648400190,
+    "end_ms": 1795821200190,
+    "start": "2026-11-26T01:13:20+02:00",
+    "end": "2026-11-28T01:13:20+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "How Much Should We Give?",
-          "kind": "episode",
-          "start_ms": 1795646281182,
-          "end_ms": 1795648099748,
-          "start": "2026-11-26T00:38:01+02:00",
-          "end": "2026-11-26T01:08:19+02:00",
-          "show": "Traffic Light",
-          "year": 2009
-        },
         {
           "title": "Dr. Shdema",
           "kind": "episode",
