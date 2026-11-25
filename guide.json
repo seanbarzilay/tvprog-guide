@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T17:39:58+02:00",
-  "generated_at_ms": 1795621198981,
+  "generated_at": "2026-11-25T18:10:12+02:00",
+  "generated_at_ms": 1795623012253,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795621198937,
-    "end_ms": 1795793998937,
-    "start": "2026-11-25T17:39:58+02:00",
-    "end": "2026-11-27T17:39:58+02:00"
+    "start_ms": 1795623012196,
+    "end_ms": 1795795812196,
+    "start": "2026-11-25T18:10:12+02:00",
+    "end": "2026-11-27T18:10:12+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Substitute Mother",
-          "kind": "episode",
-          "start_ms": 1795620700130,
-          "end_ms": 1795622500130,
-          "start": "2026-11-25T17:31:40+02:00",
-          "end": "2026-11-25T18:01:40+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "Changing Lights",
           "kind": "episode",
@@ -229,16 +219,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Non-Fat Yogurt",
-          "kind": "episode",
-          "start_ms": 1795620610000,
-          "end_ms": 1795622479108,
-          "start": "2026-11-25T17:30:10+02:00",
-          "end": "2026-11-25T18:01:19+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Masseuse",
           "kind": "episode",
