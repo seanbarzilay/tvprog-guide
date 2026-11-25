@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T10:46:53+02:00",
-  "generated_at_ms": 1795596413002,
+  "generated_at": "2026-11-25T11:07:01+02:00",
+  "generated_at_ms": 1795597621990,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795596412955,
-    "end_ms": 1795769212955,
-    "start": "2026-11-25T10:46:52+02:00",
-    "end": "2026-11-27T10:46:52+02:00"
+    "start_ms": 1795597621942,
+    "end_ms": 1795770421942,
+    "start": "2026-11-25T11:07:01+02:00",
+    "end": "2026-11-27T11:07:01+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "The War of the Golds",
-          "kind": "episode",
-          "start_ms": 1795595431045,
-          "end_ms": 1795597214869,
-          "start": "2026-11-25T10:30:31+02:00",
-          "end": "2026-11-25T11:00:14+02:00",
-          "show": "The War at Home",
-          "year": 2007
-        },
         {
           "title": "A Bitter Pill to Swallow",
           "kind": "episode",
@@ -209,16 +199,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Red Dot",
-          "kind": "episode",
-          "start_ms": 1795595410000,
-          "end_ms": 1795597214933,
-          "start": "2026-11-25T10:30:10+02:00",
-          "end": "2026-11-25T11:00:14+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "The Suicide / The Fix-Up",
           "kind": "episode",
