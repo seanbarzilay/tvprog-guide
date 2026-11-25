@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T19:40:52+02:00",
-  "generated_at_ms": 1795628452239,
+  "generated_at": "2026-11-25T20:01:01+02:00",
+  "generated_at_ms": 1795629661256,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795628452196,
-    "end_ms": 1795801252196,
-    "start": "2026-11-25T19:40:52+02:00",
-    "end": "2026-11-27T19:40:52+02:00"
+    "start_ms": 1795629661183,
+    "end_ms": 1795802461183,
+    "start": "2026-11-25T20:01:01+02:00",
+    "end": "2026-11-27T20:01:01+02:00"
   },
   "channels": [
     {
@@ -16,9 +16,9 @@
         {
           "title": "Feeling Old",
           "kind": "episode",
-          "start_ms": 1795627900130,
+          "start_ms": 1795629332706,
           "end_ms": 1795629732866,
-          "start": "2026-11-25T19:31:40+02:00",
+          "start": "2026-11-25T19:55:32+02:00",
           "end": "2026-11-25T20:02:12+02:00",
           "show": "Traffic Light",
           "year": 2009
@@ -177,11 +177,49 @@
           "title": "Won't Let Me Rest",
           "kind": "episode",
           "start_ms": 1795658192379,
-          "end_ms": 1795658792379,
+          "end_ms": 1795659837791,
           "start": "2026-11-26T03:56:32+02:00",
-          "end": "2026-11-26T04:06:32+02:00",
+          "end": "2026-11-26T04:23:57+02:00",
           "show": "Traffic Light",
           "year": 2011
+        },
+        {
+          "title": "Hormone Tali",
+          "kind": "episode",
+          "start_ms": 1795659837791,
+          "end_ms": 1795661924227,
+          "start": "2026-11-26T04:23:57+02:00",
+          "end": "2026-11-26T04:58:44+02:00",
+          "show": "Traffic Light",
+          "year": 2011
+        },
+        {
+          "title": "Handicapped Tag",
+          "kind": "episode",
+          "start_ms": 1795661924227,
+          "end_ms": 1795663768021,
+          "start": "2026-11-26T04:58:44+02:00",
+          "end": "2026-11-26T05:29:28+02:00",
+          "show": "Traffic Light",
+          "year": 2011
+        },
+        {
+          "title": "The Nutritionist",
+          "kind": "episode",
+          "start_ms": 1795663768021,
+          "end_ms": 1795665626160,
+          "start": "2026-11-26T05:29:28+02:00",
+          "end": "2026-11-26T06:00:26+02:00",
+          "show": "Traffic Light",
+          "year": 2011
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795665626160,
+          "end_ms": 1795680000000,
+          "start": "2026-11-26T06:00:26+02:00",
+          "end": "2026-11-26T10:00:00+02:00"
         }
       ]
     },
@@ -189,16 +227,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Seinfeld.S06E03.The.Pledge.Drive",
-          "kind": "episode",
-          "start_ms": 1795627810000,
-          "end_ms": 1795629610000,
-          "start": "2026-11-25T19:30:10+02:00",
-          "end": "2026-11-25T20:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
         {
           "title": "The Soup",
           "kind": "episode",
@@ -323,9 +351,59 @@
           "title": "Off air",
           "kind": "off",
           "start_ms": 1795650788207,
-          "end_ms": 1795665600000,
+          "end_ms": 1795665610000,
           "start": "2026-11-26T01:53:08+02:00",
-          "end": "2026-11-26T06:00:00+02:00"
+          "end": "2026-11-26T06:00:10+02:00"
+        },
+        {
+          "title": "Male Unbonding",
+          "kind": "episode",
+          "start_ms": 1795665610000,
+          "end_ms": 1795667414506,
+          "start": "2026-11-26T06:00:10+02:00",
+          "end": "2026-11-26T06:30:14+02:00",
+          "show": "Seinfeld",
+          "year": 1990
+        },
+        {
+          "title": "Seinfeld.S03E03.The.Dog",
+          "kind": "episode",
+          "start_ms": 1795667414506,
+          "end_ms": 1795669259466,
+          "start": "2026-11-26T06:30:14+02:00",
+          "end": "2026-11-26T07:00:59+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Library",
+          "kind": "episode",
+          "start_ms": 1795669259466,
+          "end_ms": 1795671015000,
+          "start": "2026-11-26T07:00:59+02:00",
+          "end": "2026-11-26T07:30:15+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Good Samaritan",
+          "kind": "episode",
+          "start_ms": 1795671015000,
+          "end_ms": 1795672814805,
+          "start": "2026-11-26T07:30:15+02:00",
+          "end": "2026-11-26T08:00:14+02:00",
+          "show": "Seinfeld",
+          "year": 1992
+        },
+        {
+          "title": "The Opera",
+          "kind": "episode",
+          "start_ms": 1795672814805,
+          "end_ms": 1795673414805,
+          "start": "2026-11-26T08:00:14+02:00",
+          "end": "2026-11-26T08:10:14+02:00",
+          "show": "Seinfeld",
+          "year": 1992
         }
       ]
     },
@@ -336,9 +414,9 @@
         {
           "title": "Harry Potter and the Philosopher's Stone",
           "kind": "movie",
-          "start_ms": 1795624813583,
+          "start_ms": 1795629095734,
           "end_ms": 1795635657980,
-          "start": "2026-11-25T18:40:13+02:00",
+          "start": "2026-11-25T19:51:35+02:00",
           "end": "2026-11-25T21:40:57+02:00",
           "year": 2001
         },
@@ -355,10 +433,27 @@
           "title": "Harry Potter and the Prisoner of Azkaban",
           "kind": "movie",
           "start_ms": 1795647044576,
-          "end_ms": 1795658430116,
+          "end_ms": 1795656805716,
           "start": "2026-11-26T00:50:44+02:00",
-          "end": "2026-11-26T04:00:30+02:00",
+          "end": "2026-11-26T03:33:25+02:00",
           "year": 2004
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795656805716,
+          "end_ms": 1795672815998,
+          "start": "2026-11-26T03:33:25+02:00",
+          "end": "2026-11-26T08:00:15+02:00"
+        },
+        {
+          "title": "Harry Potter and the Goblet of Fire",
+          "kind": "movie",
+          "start_ms": 1795672815998,
+          "end_ms": 1795673415998,
+          "start": "2026-11-26T08:00:15+02:00",
+          "end": "2026-11-26T08:10:15+02:00",
+          "year": 2005
         }
       ]
     },
@@ -369,9 +464,9 @@
         {
           "title": "Revenge of the Pink Panther",
           "kind": "movie",
-          "start_ms": 1795624381529,
+          "start_ms": 1795629292267,
           "end_ms": 1795631534297,
-          "start": "2026-11-25T18:33:01+02:00",
+          "start": "2026-11-25T19:54:52+02:00",
           "end": "2026-11-25T20:32:14+02:00",
           "year": 1978
         },
@@ -410,6 +505,24 @@
           "start": "2026-11-26T01:59:38+02:00",
           "end": "2026-11-26T04:02:09+02:00",
           "year": 1984
+        },
+        {
+          "title": "The Kid",
+          "kind": "movie",
+          "start_ms": 1795658529090,
+          "end_ms": 1795665657411,
+          "start": "2026-11-26T04:02:09+02:00",
+          "end": "2026-11-26T06:00:57+02:00",
+          "year": 1921
+        },
+        {
+          "title": "The Pink Panther",
+          "kind": "movie",
+          "start_ms": 1795665657411,
+          "end_ms": 1795672830116,
+          "start": "2026-11-26T06:00:57+02:00",
+          "end": "2026-11-26T08:00:30+02:00",
+          "year": 1963
         }
       ]
     }
