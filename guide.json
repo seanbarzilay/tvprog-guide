@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T15:39:04+02:00",
-  "generated_at_ms": 1795613944986,
+  "generated_at": "2026-11-25T15:59:13+02:00",
+  "generated_at_ms": 1795615153991,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795613944941,
-    "end_ms": 1795786744941,
-    "start": "2026-11-25T15:39:04+02:00",
-    "end": "2026-11-27T15:39:04+02:00"
+    "start_ms": 1795615153941,
+    "end_ms": 1795787953941,
+    "start": "2026-11-25T15:59:13+02:00",
+    "end": "2026-11-27T15:59:13+02:00"
   },
   "channels": [
     {
@@ -375,15 +375,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Fantastic Beasts: The Crimes of Grindelwald",
-          "kind": "movie",
-          "start_ms": 1795605401433,
-          "end_ms": 1795614803663,
-          "start": "2026-11-25T13:16:41+02:00",
-          "end": "2026-11-25T15:53:23+02:00",
-          "year": 2018
-        },
         {
           "title": "Fantastic Beasts: The Secrets of Dumbledore",
           "kind": "movie",
