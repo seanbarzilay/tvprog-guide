@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T12:37:38+02:00",
-  "generated_at_ms": 1795603058226,
+  "generated_at": "2026-11-25T13:07:55+02:00",
+  "generated_at_ms": 1795604875987,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795603058175,
-    "end_ms": 1795775858175,
-    "start": "2026-11-25T12:37:38+02:00",
-    "end": "2026-11-27T12:37:38+02:00"
+    "start_ms": 1795604875938,
+    "end_ms": 1795777675938,
+    "start": "2026-11-25T13:07:55+02:00",
+    "end": "2026-11-27T13:07:55+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Parsley",
-          "kind": "episode",
-          "start_ms": 1795602695427,
-          "end_ms": 1795604495427,
-          "start": "2026-11-25T12:31:35+02:00",
-          "end": "2026-11-25T13:01:35+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "Pictures of Surfers",
           "kind": "episode",
@@ -249,16 +239,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Watch",
-          "kind": "episode",
-          "start_ms": 1795602614933,
-          "end_ms": 1795604488061,
-          "start": "2026-11-25T12:30:14+02:00",
-          "end": "2026-11-25T13:01:28+02:00",
-          "show": "Seinfeld",
-          "year": 1992
-        },
         {
           "title": "The Opera",
           "kind": "episode",
