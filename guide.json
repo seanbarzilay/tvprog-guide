@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T16:39:31+02:00",
-  "generated_at_ms": 1795617571976,
+  "generated_at": "2026-11-25T17:09:45+02:00",
+  "generated_at_ms": 1795619385500,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795617571931,
-    "end_ms": 1795790371931,
-    "start": "2026-11-25T16:39:31+02:00",
-    "end": "2026-11-27T16:39:31+02:00"
+    "start_ms": 1795619385448,
+    "end_ms": 1795792185448,
+    "start": "2026-11-25T17:09:45+02:00",
+    "end": "2026-11-27T17:09:45+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Dogs Psychologist",
-          "kind": "episode",
-          "start_ms": 1795617103015,
-          "end_ms": 1795618905042,
-          "start": "2026-11-25T16:31:43+02:00",
-          "end": "2026-11-25T17:01:45+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "Funeral Clown",
           "kind": "episode",
@@ -249,16 +239,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Seinfeld.S05E01.The.Mango",
-          "kind": "episode",
-          "start_ms": 1795617084126,
-          "end_ms": 1795618810000,
-          "start": "2026-11-25T16:31:24+02:00",
-          "end": "2026-11-25T17:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
         {
           "title": "Seinfeld.S05E04.The.Sniffing.Accountant",
           "kind": "episode",
