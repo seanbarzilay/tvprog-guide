@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T01:42:50+02:00",
-  "generated_at_ms": 1795563770263,
+  "generated_at": "2026-11-25T02:02:59+02:00",
+  "generated_at_ms": 1795564979641,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795563770188,
-    "end_ms": 1795736570188,
-    "start": "2026-11-25T01:42:50+02:00",
-    "end": "2026-11-27T01:42:50+02:00"
+    "start_ms": 1795564979191,
+    "end_ms": 1795737779191,
+    "start": "2026-11-25T02:02:59+02:00",
+    "end": "2026-11-27T02:02:59+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Love is Blind",
-          "kind": "episode",
-          "start_ms": 1795563010000,
-          "end_ms": 1795564810000,
-          "start": "2026-11-25T01:30:10+02:00",
-          "end": "2026-11-25T02:00:10+02:00",
-          "show": "The War at Home",
-          "year": 2006
-        },
         {
           "title": "Out & In",
           "kind": "episode",
@@ -167,16 +157,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Stranded",
-          "kind": "episode",
-          "start_ms": 1795563176263,
-          "end_ms": 1795564566816,
-          "start": "2026-11-25T01:32:56+02:00",
-          "end": "2026-11-25T01:56:06+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "Off air",
           "kind": "off",
@@ -362,15 +342,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Rat Race",
-          "kind": "movie",
-          "start_ms": 1795557628905,
-          "end_ms": 1795564846741,
-          "start": "2026-11-25T00:00:28+02:00",
-          "end": "2026-11-25T02:00:46+02:00",
-          "year": 2001
-        },
         {
           "title": "The Pink Panther Strikes Again",
           "kind": "movie",
