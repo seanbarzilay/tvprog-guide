@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T18:40:25+02:00",
-  "generated_at_ms": 1795624825228,
+  "generated_at": "2026-11-25T19:10:38+02:00",
+  "generated_at_ms": 1795626638216,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795624825186,
-    "end_ms": 1795797625186,
-    "start": "2026-11-25T18:40:25+02:00",
-    "end": "2026-11-27T18:40:25+02:00"
+    "start_ms": 1795626638172,
+    "end_ms": 1795799438172,
+    "start": "2026-11-25T19:10:38+02:00",
+    "end": "2026-11-27T19:10:38+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Careful, My Wife's in the Car!",
-          "kind": "episode",
-          "start_ms": 1795624300130,
-          "end_ms": 1795626100130,
-          "start": "2026-11-25T18:31:40+02:00",
-          "end": "2026-11-25T19:01:40+02:00",
-          "show": "Traffic Light",
-          "year": 2009
-        },
         {
           "title": "Kululu",
           "kind": "episode",
@@ -209,16 +199,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Cigar Store Indian",
-          "kind": "episode",
-          "start_ms": 1795624210000,
-          "end_ms": 1795626065761,
-          "start": "2026-11-25T18:30:10+02:00",
-          "end": "2026-11-25T19:01:05+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Marine Biologist",
           "kind": "episode",
