@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T13:07:55+02:00",
-  "generated_at_ms": 1795604875987,
+  "generated_at": "2026-11-25T13:18:00+02:00",
+  "generated_at_ms": 1795605480492,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795604875938,
-    "end_ms": 1795777675938,
-    "start": "2026-11-25T13:07:55+02:00",
-    "end": "2026-11-27T13:07:55+02:00"
+    "start_ms": 1795605480443,
+    "end_ms": 1795778280443,
+    "start": "2026-11-25T13:18:00+02:00",
+    "end": "2026-11-27T13:18:00+02:00"
   },
   "channels": [
     {
@@ -475,15 +475,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Fantastic Beasts and Where to Find Them",
-          "kind": "movie",
-          "start_ms": 1795600919964,
-          "end_ms": 1795605401433,
-          "start": "2026-11-25T12:01:59+02:00",
-          "end": "2026-11-25T13:16:41+02:00",
-          "year": 2016
-        },
         {
           "title": "Fantastic Beasts: The Crimes of Grindelwald",
           "kind": "movie",
