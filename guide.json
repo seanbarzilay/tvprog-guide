@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T22:32:08+02:00",
-  "generated_at_ms": 1795638728482,
+  "generated_at": "2026-11-25T22:42:12+02:00",
+  "generated_at_ms": 1795639332992,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795638728437,
-    "end_ms": 1795811528437,
-    "start": "2026-11-25T22:32:08+02:00",
-    "end": "2026-11-27T22:32:08+02:00"
+    "start_ms": 1795639332949,
+    "end_ms": 1795812132949,
+    "start": "2026-11-25T22:42:12+02:00",
+    "end": "2026-11-27T22:42:12+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Eilat",
-          "kind": "episode",
-          "start_ms": 1795637228226,
-          "end_ms": 1795639039670,
-          "start": "2026-11-25T22:07:08+02:00",
-          "end": "2026-11-25T22:37:19+02:00",
-          "show": "Traffic Light",
-          "year": 2009
-        },
         {
           "title": "Criminal Novelist",
           "kind": "episode",
