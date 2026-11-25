@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T19:10:38+02:00",
-  "generated_at_ms": 1795626638216,
+  "generated_at": "2026-11-25T19:30:47+02:00",
+  "generated_at_ms": 1795627847737,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795626638172,
-    "end_ms": 1795799438172,
-    "start": "2026-11-25T19:10:38+02:00",
-    "end": "2026-11-27T19:10:38+02:00"
+    "start_ms": 1795627847696,
+    "end_ms": 1795800647696,
+    "start": "2026-11-25T19:30:47+02:00",
+    "end": "2026-11-27T19:30:47+02:00"
   },
   "channels": [
     {
@@ -199,16 +199,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Marine Biologist",
-          "kind": "episode",
-          "start_ms": 1795626065761,
-          "end_ms": 1795627810000,
-          "start": "2026-11-25T19:01:05+02:00",
-          "end": "2026-11-25T19:30:10+02:00",
-          "show": "Seinfeld",
-          "year": 1994
-        },
         {
           "title": "Seinfeld.S06E03.The.Pledge.Drive",
           "kind": "episode",
