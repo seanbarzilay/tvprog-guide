@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T04:13:57+02:00",
-  "generated_at_ms": 1795572837748,
+  "generated_at": "2026-11-25T04:34:06+02:00",
+  "generated_at_ms": 1795574046746,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795572837694,
-    "end_ms": 1795745637694,
-    "start": "2026-11-25T04:13:57+02:00",
-    "end": "2026-11-27T04:13:57+02:00"
+    "start_ms": 1795574046690,
+    "end_ms": 1795746846690,
+    "start": "2026-11-25T04:34:06+02:00",
+    "end": "2026-11-27T04:34:06+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Zero Tolerance",
-          "kind": "episode",
-          "start_ms": 1795572010000,
-          "end_ms": 1795573830097,
-          "start": "2026-11-25T04:00:10+02:00",
-          "end": "2026-11-25T04:30:30+02:00",
-          "show": "The War at Home",
-          "year": 2007
-        },
         {
           "title": "No Weddings and a Funeral",
           "kind": "episode",
