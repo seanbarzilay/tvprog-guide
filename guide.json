@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T20:41:18+02:00",
-  "generated_at_ms": 1795632078983,
+  "generated_at": "2026-11-25T21:01:27+02:00",
+  "generated_at_ms": 1795633287986,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795632078939,
-    "end_ms": 1795804878939,
-    "start": "2026-11-25T20:41:18+02:00",
-    "end": "2026-11-27T20:41:18+02:00"
+    "start_ms": 1795633287942,
+    "end_ms": 1795806087942,
+    "start": "2026-11-25T21:01:27+02:00",
+    "end": "2026-11-27T21:01:27+02:00"
   },
   "channels": [
     {
@@ -207,16 +207,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Switch",
-          "kind": "episode",
-          "start_ms": 1795631518421,
-          "end_ms": 1795633210000,
-          "start": "2026-11-25T20:31:58+02:00",
-          "end": "2026-11-25T21:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 1995
-        },
         {
           "title": "The Jimmy",
           "kind": "episode",
