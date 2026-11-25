@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T22:22:03+02:00",
-  "generated_at_ms": 1795638123983,
+  "generated_at": "2026-11-25T22:32:08+02:00",
+  "generated_at_ms": 1795638728482,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795638123941,
-    "end_ms": 1795810923941,
-    "start": "2026-11-25T22:22:03+02:00",
-    "end": "2026-11-27T22:22:03+02:00"
+    "start_ms": 1795638728437,
+    "end_ms": 1795811528437,
+    "start": "2026-11-25T22:32:08+02:00",
+    "end": "2026-11-27T22:32:08+02:00"
   },
   "channels": [
     {
@@ -177,16 +177,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Seinfeld.S07E01.The.Engagement",
-          "kind": "episode",
-          "start_ms": 1795636810000,
-          "end_ms": 1795638696166,
-          "start": "2026-11-25T22:00:10+02:00",
-          "end": "2026-11-25T22:31:36+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
         {
           "title": "Seinfeld.S07E02.The.Postponement",
           "kind": "episode",
