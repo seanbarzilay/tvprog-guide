@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T23:12:26+02:00",
-  "generated_at_ms": 1795641146229,
+  "generated_at": "2026-11-25T23:32:35+02:00",
+  "generated_at_ms": 1795642355234,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795641146182,
-    "end_ms": 1795813946182,
-    "start": "2026-11-25T23:12:26+02:00",
-    "end": "2026-11-27T23:12:26+02:00"
+    "start_ms": 1795642355192,
+    "end_ms": 1795815155192,
+    "start": "2026-11-25T23:32:35+02:00",
+    "end": "2026-11-27T23:32:35+02:00"
   },
   "channels": [
     {
@@ -157,16 +157,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Shower Head",
-          "kind": "episode",
-          "start_ms": 1795640556183,
-          "end_ms": 1795642210000,
-          "start": "2026-11-25T23:02:36+02:00",
-          "end": "2026-11-25T23:30:10+02:00",
-          "show": "Seinfeld",
-          "year": 1996
-        },
         {
           "title": "The Friars Club",
           "kind": "episode",
