@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T19:30:47+02:00",
-  "generated_at_ms": 1795627847737,
+  "generated_at": "2026-11-25T19:40:52+02:00",
+  "generated_at_ms": 1795628452239,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795627847696,
-    "end_ms": 1795800647696,
-    "start": "2026-11-25T19:30:47+02:00",
-    "end": "2026-11-27T19:30:47+02:00"
+    "start_ms": 1795628452196,
+    "end_ms": 1795801252196,
+    "start": "2026-11-25T19:40:52+02:00",
+    "end": "2026-11-27T19:40:52+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Kululu",
-          "kind": "episode",
-          "start_ms": 1795626100130,
-          "end_ms": 1795627900130,
-          "start": "2026-11-25T19:01:40+02:00",
-          "end": "2026-11-25T19:31:40+02:00",
-          "show": "Traffic Light",
-          "year": 2009
-        },
         {
           "title": "Feeling Old",
           "kind": "episode",
