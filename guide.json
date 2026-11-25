@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T12:17:33+02:00",
-  "generated_at_ms": 1795601853491,
+  "generated_at": "2026-11-25T12:37:38+02:00",
+  "generated_at_ms": 1795603058226,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795601853438,
-    "end_ms": 1795774653438,
-    "start": "2026-11-25T12:17:33+02:00",
-    "end": "2026-11-27T12:17:33+02:00"
+    "start_ms": 1795603058175,
+    "end_ms": 1795775858175,
+    "start": "2026-11-25T12:37:38+02:00",
+    "end": "2026-11-27T12:37:38+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Dog Friend",
-          "kind": "episode",
-          "start_ms": 1795600810000,
-          "end_ms": 1795602695427,
-          "start": "2026-11-25T12:00:10+02:00",
-          "end": "2026-11-25T12:31:35+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "Parsley",
           "kind": "episode",
@@ -259,16 +249,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Seinfeld.S04E05.The.Wallet",
-          "kind": "episode",
-          "start_ms": 1795600810000,
-          "end_ms": 1795602614933,
-          "start": "2026-11-25T12:00:10+02:00",
-          "end": "2026-11-25T12:30:14+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
         {
           "title": "The Watch",
           "kind": "episode",
