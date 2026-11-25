@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T00:43:06+02:00",
-  "generated_at_ms": 1795646586729,
+  "generated_at": "2026-11-26T00:53:11+02:00",
+  "generated_at_ms": 1795647191243,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795646586684,
-    "end_ms": 1795819386684,
-    "start": "2026-11-26T00:43:06+02:00",
-    "end": "2026-11-28T00:43:06+02:00"
+    "start_ms": 1795647191180,
+    "end_ms": 1795819991180,
+    "start": "2026-11-26T00:53:11+02:00",
+    "end": "2026-11-28T00:53:11+02:00"
   },
   "channels": [
     {
@@ -321,15 +321,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Harry Potter and the Chamber of Secrets",
-          "kind": "movie",
-          "start_ms": 1795644089255,
-          "end_ms": 1795647044576,
-          "start": "2026-11-26T00:01:29+02:00",
-          "end": "2026-11-26T00:50:44+02:00",
-          "year": 2002
-        },
         {
           "title": "Harry Potter and the Prisoner of Azkaban",
           "kind": "movie",
