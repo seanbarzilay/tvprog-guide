@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T14:18:27+02:00",
-  "generated_at_ms": 1795609107000,
+  "generated_at": "2026-11-25T14:38:35+02:00",
+  "generated_at_ms": 1795610315749,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795609106952,
-    "end_ms": 1795781906952,
-    "start": "2026-11-25T14:18:26+02:00",
-    "end": "2026-11-27T14:18:26+02:00"
+    "start_ms": 1795610315695,
+    "end_ms": 1795783115695,
+    "start": "2026-11-25T14:38:35+02:00",
+    "end": "2026-11-27T14:38:35+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "The Painting",
-          "kind": "episode",
-          "start_ms": 1795608095363,
-          "end_ms": 1795609891729,
-          "start": "2026-11-25T14:01:35+02:00",
-          "end": "2026-11-25T14:31:31+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "The Gay Friend",
           "kind": "episode",
@@ -219,16 +209,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Shoes",
-          "kind": "episode",
-          "start_ms": 1795608015046,
-          "end_ms": 1795609810000,
-          "start": "2026-11-25T14:00:15+02:00",
-          "end": "2026-11-25T14:30:10+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Outing",
           "kind": "episode",
