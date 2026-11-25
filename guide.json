@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T20:11:05+02:00",
-  "generated_at_ms": 1795630265506,
+  "generated_at": "2026-11-25T20:41:18+02:00",
+  "generated_at_ms": 1795632078983,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795630265446,
-    "end_ms": 1795803065446,
-    "start": "2026-11-25T20:11:05+02:00",
-    "end": "2026-11-27T20:11:05+02:00"
+    "start_ms": 1795632078939,
+    "end_ms": 1795804878939,
+    "start": "2026-11-25T20:41:18+02:00",
+    "end": "2026-11-27T20:41:18+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Handyman",
-          "kind": "episode",
-          "start_ms": 1795629732866,
-          "end_ms": 1795631777800,
-          "start": "2026-11-25T20:02:12+02:00",
-          "end": "2026-11-25T20:36:17+02:00",
-          "show": "Traffic Light",
-          "year": 2009
-        },
         {
           "title": "Chain Mail",
           "kind": "episode",
@@ -217,16 +207,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Soup",
-          "kind": "episode",
-          "start_ms": 1795629610000,
-          "end_ms": 1795631518421,
-          "start": "2026-11-25T20:00:10+02:00",
-          "end": "2026-11-25T20:31:58+02:00",
-          "show": "Seinfeld",
-          "year": 1994
-        },
         {
           "title": "The Switch",
           "kind": "episode",
@@ -451,15 +431,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Revenge of the Pink Panther",
-          "kind": "movie",
-          "start_ms": 1795629292267,
-          "end_ms": 1795631534297,
-          "start": "2026-11-25T19:54:52+02:00",
-          "end": "2026-11-25T20:32:14+02:00",
-          "year": 1978
-        },
         {
           "title": "Airplane!",
           "kind": "movie",
