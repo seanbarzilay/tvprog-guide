@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T11:07:01+02:00",
-  "generated_at_ms": 1795597621990,
+  "generated_at": "2026-11-25T11:37:15+02:00",
+  "generated_at_ms": 1795599435480,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795597621942,
-    "end_ms": 1795770421942,
-    "start": "2026-11-25T11:07:01+02:00",
-    "end": "2026-11-27T11:07:01+02:00"
+    "start_ms": 1795599435437,
+    "end_ms": 1795772235437,
+    "start": "2026-11-25T11:37:15+02:00",
+    "end": "2026-11-27T11:37:15+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "A Bitter Pill to Swallow",
-          "kind": "episode",
-          "start_ms": 1795597214869,
-          "end_ms": 1795599014981,
-          "start": "2026-11-25T11:00:14+02:00",
-          "end": "2026-11-25T11:30:14+02:00",
-          "show": "The War at Home",
-          "year": 2007
-        },
         {
           "title": "The Graduate",
           "kind": "episode",
