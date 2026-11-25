@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T21:31:38+02:00",
-  "generated_at_ms": 1795635098230,
+  "generated_at": "2026-11-25T21:41:45+02:00",
+  "generated_at_ms": 1795635705981,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795635098169,
-    "end_ms": 1795807898169,
-    "start": "2026-11-25T21:31:38+02:00",
-    "end": "2026-11-27T21:31:38+02:00"
+    "start_ms": 1795635705936,
+    "end_ms": 1795808505936,
+    "start": "2026-11-25T21:41:45+02:00",
+    "end": "2026-11-27T21:41:45+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Homework",
-          "kind": "episode",
-          "start_ms": 1795633577800,
-          "end_ms": 1795635428226,
-          "start": "2026-11-25T21:06:17+02:00",
-          "end": "2026-11-25T21:37:08+02:00",
-          "show": "Traffic Light",
-          "year": 2009
-        },
         {
           "title": "Replacement Woman",
           "kind": "episode",
@@ -351,15 +341,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Harry Potter and the Philosopher's Stone",
-          "kind": "movie",
-          "start_ms": 1795629095734,
-          "end_ms": 1795635657980,
-          "start": "2026-11-25T19:51:35+02:00",
-          "end": "2026-11-25T21:40:57+02:00",
-          "year": 2001
-        },
         {
           "title": "Harry Potter and the Chamber of Secrets",
           "kind": "movie",
