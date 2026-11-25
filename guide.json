@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T05:34:33+02:00",
-  "generated_at_ms": 1795577673734,
+  "generated_at": "2026-11-25T06:04:47+02:00",
+  "generated_at_ms": 1795579487264,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795577673685,
-    "end_ms": 1795750473685,
-    "start": "2026-11-25T05:34:33+02:00",
-    "end": "2026-11-27T05:34:33+02:00"
+    "start_ms": 1795579487201,
+    "end_ms": 1795752287201,
+    "start": "2026-11-25T06:04:47+02:00",
+    "end": "2026-11-27T06:04:47+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Take This Job and Bleep It",
-          "kind": "episode",
-          "start_ms": 1795577414933,
-          "end_ms": 1795579210000,
-          "start": "2026-11-25T05:30:14+02:00",
-          "end": "2026-11-25T06:00:10+02:00",
-          "show": "The War at Home",
-          "year": 2007
-        },
         {
           "title": "Off air",
           "kind": "off",
@@ -157,14 +147,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Off air",
-          "kind": "off",
-          "start_ms": 1795572000000,
-          "end_ms": 1795579210000,
-          "start": "2026-11-25T04:00:00+02:00",
-          "end": "2026-11-25T06:00:10+02:00"
-        },
         {
           "title": "Male Unbonding",
           "kind": "episode",
@@ -421,15 +403,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Revenge of the Pink Panther",
-          "kind": "movie",
-          "start_ms": 1795572494616,
-          "end_ms": 1795579200000,
-          "start": "2026-11-25T04:08:14+02:00",
-          "end": "2026-11-25T06:00:00+02:00",
-          "year": 1978
-        },
         {
           "title": "Off air",
           "kind": "off",
