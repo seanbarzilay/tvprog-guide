@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T14:08:22+02:00",
-  "generated_at_ms": 1795608502736,
+  "generated_at": "2026-11-25T14:18:27+02:00",
+  "generated_at_ms": 1795609107000,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795608502689,
-    "end_ms": 1795781302689,
-    "start": "2026-11-25T14:08:22+02:00",
-    "end": "2026-11-27T14:08:22+02:00"
+    "start_ms": 1795609106952,
+    "end_ms": 1795781906952,
+    "start": "2026-11-25T14:18:26+02:00",
+    "end": "2026-11-27T14:18:26+02:00"
   },
   "channels": [
     {
@@ -477,15 +477,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "A Shot in the Dark",
-          "kind": "movie",
-          "start_ms": 1795601652488,
-          "end_ms": 1795608836791,
-          "start": "2026-11-25T12:14:12+02:00",
-          "end": "2026-11-25T14:13:56+02:00",
-          "year": 1964
-        },
         {
           "title": "The Return of the Pink Panther",
           "kind": "movie",
