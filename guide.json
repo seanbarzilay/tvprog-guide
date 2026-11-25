@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T04:03:53+02:00",
-  "generated_at_ms": 1795572233238,
+  "generated_at": "2026-11-25T04:13:57+02:00",
+  "generated_at_ms": 1795572837748,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795572233187,
-    "end_ms": 1795745033187,
-    "start": "2026-11-25T04:03:53+02:00",
-    "end": "2026-11-27T04:03:53+02:00"
+    "start_ms": 1795572837694,
+    "end_ms": 1795745637694,
+    "start": "2026-11-25T04:13:57+02:00",
+    "end": "2026-11-27T04:13:57+02:00"
   },
   "channels": [
     {
@@ -451,15 +451,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "The Pink Panther Strikes Again",
-          "kind": "movie",
-          "start_ms": 1795572004578,
-          "end_ms": 1795572494616,
-          "start": "2026-11-25T04:00:04+02:00",
-          "end": "2026-11-25T04:08:14+02:00",
-          "year": 1976
-        },
         {
           "title": "Revenge of the Pink Panther",
           "kind": "movie",
