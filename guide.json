@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T16:09:18+02:00",
-  "generated_at_ms": 1795615758478,
+  "generated_at": "2026-11-25T16:39:31+02:00",
+  "generated_at_ms": 1795617571976,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795615758435,
-    "end_ms": 1795788558435,
-    "start": "2026-11-25T16:09:18+02:00",
-    "end": "2026-11-27T16:09:18+02:00"
+    "start_ms": 1795617571931,
+    "end_ms": 1795790371931,
+    "start": "2026-11-25T16:39:31+02:00",
+    "end": "2026-11-27T16:39:31+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "The Male Maid",
-          "kind": "episode",
-          "start_ms": 1795615300130,
-          "end_ms": 1795617103015,
-          "start": "2026-11-25T16:01:40+02:00",
-          "end": "2026-11-25T16:31:43+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "Dogs Psychologist",
           "kind": "episode",
@@ -259,16 +249,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Smelly Car",
-          "kind": "episode",
-          "start_ms": 1795615214506,
-          "end_ms": 1795617084126,
-          "start": "2026-11-25T16:00:14+02:00",
-          "end": "2026-11-25T16:31:24+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "Seinfeld.S05E01.The.Mango",
           "kind": "episode",
@@ -515,15 +495,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "The Return of the Pink Panther",
-          "kind": "movie",
-          "start_ms": 1795615203620,
-          "end_ms": 1795617078109,
-          "start": "2026-11-25T16:00:03+02:00",
-          "end": "2026-11-25T16:31:18+02:00",
-          "year": 1975
-        },
         {
           "title": "The Pink Panther Strikes Again",
           "kind": "movie",
