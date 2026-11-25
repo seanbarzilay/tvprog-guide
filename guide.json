@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T22:01:54+02:00",
-  "generated_at_ms": 1795636914995,
+  "generated_at": "2026-11-25T22:11:59+02:00",
+  "generated_at_ms": 1795637519476,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795636914940,
-    "end_ms": 1795809714940,
-    "start": "2026-11-25T22:01:54+02:00",
-    "end": "2026-11-27T22:01:54+02:00"
+    "start_ms": 1795637519432,
+    "end_ms": 1795810319432,
+    "start": "2026-11-25T22:11:59+02:00",
+    "end": "2026-11-27T22:11:59+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Replacement Woman",
-          "kind": "episode",
-          "start_ms": 1795635428226,
-          "end_ms": 1795637228226,
-          "start": "2026-11-25T21:37:08+02:00",
-          "end": "2026-11-25T22:07:08+02:00",
-          "show": "Traffic Light",
-          "year": 2009
-        },
         {
           "title": "Eilat",
           "kind": "episode",
