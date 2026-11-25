@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T01:33:29+02:00",
-  "generated_at_ms": 1795649609261,
+  "generated_at": "2026-11-26T01:53:38+02:00",
+  "generated_at_ms": 1795650818227,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795649609196,
-    "end_ms": 1795822409196,
-    "start": "2026-11-26T01:33:29+02:00",
-    "end": "2026-11-28T01:33:29+02:00"
+    "start_ms": 1795650818164,
+    "end_ms": 1795823618164,
+    "start": "2026-11-26T01:53:38+02:00",
+    "end": "2026-11-28T01:53:38+02:00"
   },
   "channels": [
     {
@@ -167,16 +167,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Frogger",
-          "kind": "episode",
-          "start_ms": 1795649415998,
-          "end_ms": 1795650788207,
-          "start": "2026-11-26T01:30:15+02:00",
-          "end": "2026-11-26T01:53:08+02:00",
-          "show": "Seinfeld",
-          "year": 1998
-        },
         {
           "title": "Off air",
           "kind": "off",
