@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T22:11:59+02:00",
-  "generated_at_ms": 1795637519476,
+  "generated_at": "2026-11-25T22:22:03+02:00",
+  "generated_at_ms": 1795638123983,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795637519432,
-    "end_ms": 1795810319432,
-    "start": "2026-11-25T22:11:59+02:00",
-    "end": "2026-11-27T22:11:59+02:00"
+    "start_ms": 1795638123941,
+    "end_ms": 1795810923941,
+    "start": "2026-11-25T22:22:03+02:00",
+    "end": "2026-11-27T22:22:03+02:00"
   },
   "channels": [
     {
@@ -362,15 +362,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Airplane!",
-          "kind": "movie",
-          "start_ms": 1795631534297,
-          "end_ms": 1795637798477,
-          "start": "2026-11-25T20:32:14+02:00",
-          "end": "2026-11-25T22:16:38+02:00",
-          "year": 1980
-        },
         {
           "title": "Airplane II: The Sequel",
           "kind": "movie",
