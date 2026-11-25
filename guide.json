@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-25T11:37:15+02:00",
-  "generated_at_ms": 1795599435480,
+  "generated_at": "2026-11-25T12:07:28+02:00",
+  "generated_at_ms": 1795601248986,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795599435437,
-    "end_ms": 1795772235437,
-    "start": "2026-11-25T11:37:15+02:00",
-    "end": "2026-11-27T11:37:15+02:00"
+    "start_ms": 1795601248933,
+    "end_ms": 1795774048933,
+    "start": "2026-11-25T12:07:28+02:00",
+    "end": "2026-11-27T12:07:28+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "The Graduate",
-          "kind": "episode",
-          "start_ms": 1795599014981,
-          "end_ms": 1795600810000,
-          "start": "2026-11-25T11:30:14+02:00",
-          "end": "2026-11-25T12:00:10+02:00",
-          "show": "The War at Home",
-          "year": 2007
-        },
         {
           "title": "Dog Friend",
           "kind": "episode",
@@ -177,9 +167,89 @@
           "title": "Feeling Old",
           "kind": "episode",
           "start_ms": 1795627900130,
-          "end_ms": 1795629712866,
+          "end_ms": 1795629732866,
           "start": "2026-11-25T19:31:40+02:00",
-          "end": "2026-11-25T20:01:52+02:00",
+          "end": "2026-11-25T20:02:12+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Handyman",
+          "kind": "episode",
+          "start_ms": 1795629732866,
+          "end_ms": 1795631777800,
+          "start": "2026-11-25T20:02:12+02:00",
+          "end": "2026-11-25T20:36:17+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Chain Mail",
+          "kind": "episode",
+          "start_ms": 1795631777800,
+          "end_ms": 1795633577800,
+          "start": "2026-11-25T20:36:17+02:00",
+          "end": "2026-11-25T21:06:17+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Homework",
+          "kind": "episode",
+          "start_ms": 1795633577800,
+          "end_ms": 1795635428226,
+          "start": "2026-11-25T21:06:17+02:00",
+          "end": "2026-11-25T21:37:08+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Replacement Woman",
+          "kind": "episode",
+          "start_ms": 1795635428226,
+          "end_ms": 1795637228226,
+          "start": "2026-11-25T21:37:08+02:00",
+          "end": "2026-11-25T22:07:08+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Eilat",
+          "kind": "episode",
+          "start_ms": 1795637228226,
+          "end_ms": 1795639039670,
+          "start": "2026-11-25T22:07:08+02:00",
+          "end": "2026-11-25T22:37:19+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Criminal Novelist",
+          "kind": "episode",
+          "start_ms": 1795639039670,
+          "end_ms": 1795640839670,
+          "start": "2026-11-25T22:37:19+02:00",
+          "end": "2026-11-25T23:07:19+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Baby Sense",
+          "kind": "episode",
+          "start_ms": 1795640839670,
+          "end_ms": 1795642639670,
+          "start": "2026-11-25T23:07:19+02:00",
+          "end": "2026-11-25T23:37:19+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Raising the Bar",
+          "kind": "episode",
+          "start_ms": 1795642639670,
+          "end_ms": 1795644086424,
+          "start": "2026-11-25T23:37:19+02:00",
+          "end": "2026-11-26T00:01:26+02:00",
           "show": "Traffic Light",
           "year": 2009
         }
@@ -189,16 +259,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Suicide / The Fix-Up",
-          "kind": "episode",
-          "start_ms": 1795597214933,
-          "end_ms": 1795600810000,
-          "start": "2026-11-25T11:00:14+02:00",
-          "end": "2026-11-25T12:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 1992
-        },
         {
           "title": "Seinfeld.S04E05.The.Wallet",
           "kind": "episode",
@@ -363,11 +423,91 @@
           "title": "The Soup",
           "kind": "episode",
           "start_ms": 1795629610000,
-          "end_ms": 1795630210000,
+          "end_ms": 1795631518421,
           "start": "2026-11-25T20:00:10+02:00",
-          "end": "2026-11-25T20:10:10+02:00",
+          "end": "2026-11-25T20:31:58+02:00",
           "show": "Seinfeld",
           "year": 1994
+        },
+        {
+          "title": "The Switch",
+          "kind": "episode",
+          "start_ms": 1795631518421,
+          "end_ms": 1795633210000,
+          "start": "2026-11-25T20:31:58+02:00",
+          "end": "2026-11-25T21:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 1995
+        },
+        {
+          "title": "The Jimmy",
+          "kind": "episode",
+          "start_ms": 1795633210000,
+          "end_ms": 1795635010000,
+          "start": "2026-11-25T21:00:10+02:00",
+          "end": "2026-11-25T21:30:10+02:00",
+          "show": "Seinfeld",
+          "year": 1995
+        },
+        {
+          "title": "The Understudy",
+          "kind": "episode",
+          "start_ms": 1795635010000,
+          "end_ms": 1795636810000,
+          "start": "2026-11-25T21:30:10+02:00",
+          "end": "2026-11-25T22:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 1995
+        },
+        {
+          "title": "Seinfeld.S07E01.The.Engagement",
+          "kind": "episode",
+          "start_ms": 1795636810000,
+          "end_ms": 1795638696166,
+          "start": "2026-11-25T22:00:10+02:00",
+          "end": "2026-11-25T22:31:36+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "Seinfeld.S07E02.The.Postponement",
+          "kind": "episode",
+          "start_ms": 1795638696166,
+          "end_ms": 1795640556183,
+          "start": "2026-11-25T22:31:36+02:00",
+          "end": "2026-11-25T23:02:36+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Shower Head",
+          "kind": "episode",
+          "start_ms": 1795640556183,
+          "end_ms": 1795642210000,
+          "start": "2026-11-25T23:02:36+02:00",
+          "end": "2026-11-25T23:30:10+02:00",
+          "show": "Seinfeld",
+          "year": 1996
+        },
+        {
+          "title": "The Friars Club",
+          "kind": "episode",
+          "start_ms": 1795642210000,
+          "end_ms": 1795644015116,
+          "start": "2026-11-25T23:30:10+02:00",
+          "end": "2026-11-26T00:00:15+02:00",
+          "show": "Seinfeld",
+          "year": 1996
+        },
+        {
+          "title": "The Wig Master",
+          "kind": "episode",
+          "start_ms": 1795644015116,
+          "end_ms": 1795644615116,
+          "start": "2026-11-26T00:00:15+02:00",
+          "end": "2026-11-26T00:10:15+02:00",
+          "show": "Seinfeld",
+          "year": 1996
         }
       ]
     },
@@ -378,9 +518,9 @@
         {
           "title": "Fantastic Beasts and Where to Find Them",
           "kind": "movie",
-          "start_ms": 1795595906312,
+          "start_ms": 1795600919964,
           "end_ms": 1795605401433,
-          "start": "2026-11-25T10:38:26+02:00",
+          "start": "2026-11-25T12:01:59+02:00",
           "end": "2026-11-25T13:16:41+02:00",
           "year": 2016
         },
@@ -406,10 +546,19 @@
           "title": "Harry Potter and the Philosopher's Stone",
           "kind": "movie",
           "start_ms": 1795624813583,
-          "end_ms": 1795629695734,
+          "end_ms": 1795635657980,
           "start": "2026-11-25T18:40:13+02:00",
-          "end": "2026-11-25T20:01:35+02:00",
+          "end": "2026-11-25T21:40:57+02:00",
           "year": 2001
+        },
+        {
+          "title": "Harry Potter and the Chamber of Secrets",
+          "kind": "movie",
+          "start_ms": 1795635657980,
+          "end_ms": 1795644089255,
+          "start": "2026-11-25T21:40:57+02:00",
+          "end": "2026-11-26T00:01:29+02:00",
+          "year": 2002
         }
       ]
     },
@@ -420,9 +569,9 @@
         {
           "title": "The Pink Panther",
           "kind": "movie",
-          "start_ms": 1795593614933,
+          "start_ms": 1795600607198,
           "end_ms": 1795601652488,
-          "start": "2026-11-25T10:00:14+02:00",
+          "start": "2026-11-25T11:56:47+02:00",
           "end": "2026-11-25T12:14:12+02:00",
           "year": 1963
         },
@@ -457,10 +606,37 @@
           "title": "Revenge of the Pink Panther",
           "kind": "movie",
           "start_ms": 1795624381529,
-          "end_ms": 1795629892267,
+          "end_ms": 1795631534297,
           "start": "2026-11-25T18:33:01+02:00",
-          "end": "2026-11-25T20:04:52+02:00",
+          "end": "2026-11-25T20:32:14+02:00",
           "year": 1978
+        },
+        {
+          "title": "Airplane!",
+          "kind": "movie",
+          "start_ms": 1795631534297,
+          "end_ms": 1795637798477,
+          "start": "2026-11-25T20:32:14+02:00",
+          "end": "2026-11-25T22:16:38+02:00",
+          "year": 1980
+        },
+        {
+          "title": "Airplane II: The Sequel",
+          "kind": "movie",
+          "start_ms": 1795637798477,
+          "end_ms": 1795643857590,
+          "start": "2026-11-25T22:16:38+02:00",
+          "end": "2026-11-25T23:57:37+02:00",
+          "year": 1982
+        },
+        {
+          "title": "National Lampoon's Vacation",
+          "kind": "movie",
+          "start_ms": 1795643857590,
+          "end_ms": 1795644457590,
+          "start": "2026-11-25T23:57:37+02:00",
+          "end": "2026-11-26T00:07:37+02:00",
+          "year": 1983
         }
       ]
     }
