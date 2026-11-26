@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T11:07:45+02:00",
-  "generated_at_ms": 1795684065760,
+  "generated_at": "2026-11-26T11:17:50+02:00",
+  "generated_at_ms": 1795684670282,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795684065707,
-    "end_ms": 1795856865707,
-    "start": "2026-11-26T11:07:45+02:00",
-    "end": "2026-11-28T11:07:45+02:00"
+    "start_ms": 1795684670231,
+    "end_ms": 1795857470231,
+    "start": "2026-11-26T11:17:50+02:00",
+    "end": "2026-11-28T11:17:50+02:00"
   },
   "channels": [
     {
@@ -295,15 +295,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Harry Potter and the Goblet of Fire",
-          "kind": "movie",
-          "start_ms": 1795672815998,
-          "end_ms": 1795684085739,
-          "start": "2026-11-26T08:00:15+02:00",
-          "end": "2026-11-26T11:08:05+02:00",
-          "year": 2005
-        },
         {
           "title": "Harry Potter and the Order of the Phoenix",
           "kind": "movie",
