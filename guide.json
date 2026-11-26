@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T22:32:47+02:00",
-  "generated_at_ms": 1795725167200,
+  "generated_at": "2026-11-26T23:03:00+02:00",
+  "generated_at_ms": 1795726980257,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795725166934,
-    "end_ms": 1795897966934,
-    "start": "2026-11-26T22:32:46+02:00",
-    "end": "2026-11-28T22:32:46+02:00"
+    "start_ms": 1795726980188,
+    "end_ms": 1795899780188,
+    "start": "2026-11-26T23:03:00+02:00",
+    "end": "2026-11-28T23:03:00+02:00"
   },
   "channels": [
     {
@@ -157,16 +157,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Wife",
-          "kind": "episode",
-          "start_ms": 1795725045992,
-          "end_ms": 1795726840876,
-          "start": "2026-11-26T22:30:45+02:00",
-          "end": "2026-11-26T23:00:40+02:00",
-          "show": "Seinfeld",
-          "year": 1994
-        },
         {
           "title": "The Shower Head",
           "kind": "episode",
