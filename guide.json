@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T17:40:38+02:00",
-  "generated_at_ms": 1795707638210,
+  "generated_at": "2026-11-26T18:00:48+02:00",
+  "generated_at_ms": 1795708848487,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795707638162,
-    "end_ms": 1795880438162,
-    "start": "2026-11-26T17:40:38+02:00",
-    "end": "2026-11-28T17:40:38+02:00"
+    "start_ms": 1795708848445,
+    "end_ms": 1795881648445,
+    "start": "2026-11-26T18:00:48+02:00",
+    "end": "2026-11-28T18:00:48+02:00"
   },
   "channels": [
     {
@@ -159,16 +159,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Friars Club",
-          "kind": "episode",
-          "start_ms": 1795707040876,
-          "end_ms": 1795708847083,
-          "start": "2026-11-26T17:30:40+02:00",
-          "end": "2026-11-26T18:00:47+02:00",
-          "show": "Seinfeld",
-          "year": 1996
-        },
         {
           "title": "Male Unbonding",
           "kind": "episode",
