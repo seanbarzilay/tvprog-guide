@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T23:03:00+02:00",
-  "generated_at_ms": 1795726980257,
+  "generated_at": "2026-11-26T23:13:04+02:00",
+  "generated_at_ms": 1795727584852,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795726980188,
-    "end_ms": 1795899780188,
-    "start": "2026-11-26T23:03:00+02:00",
-    "end": "2026-11-28T23:03:00+02:00"
+    "start_ms": 1795727584690,
+    "end_ms": 1795900384690,
+    "start": "2026-11-26T23:13:04+02:00",
+    "end": "2026-11-28T23:13:04+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Nanny Sima",
-          "kind": "episode",
-          "start_ms": 1795723572613,
-          "end_ms": 1795727172613,
-          "start": "2026-11-26T22:06:12+02:00",
-          "end": "2026-11-26T23:06:12+02:00",
-          "show": "Traffic Light",
-          "year": 2014
-        },
         {
           "title": "Hefer Gets a Degree",
           "kind": "episode",
