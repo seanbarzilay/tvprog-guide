@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T13:08:38+02:00",
-  "generated_at_ms": 1795691318228,
+  "generated_at": "2026-11-26T13:18:43+02:00",
+  "generated_at_ms": 1795691923740,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795691318174,
-    "end_ms": 1795864118174,
-    "start": "2026-11-26T13:08:38+02:00",
-    "end": "2026-11-28T13:08:38+02:00"
+    "start_ms": 1795691923690,
+    "end_ms": 1795864723690,
+    "start": "2026-11-26T13:18:43+02:00",
+    "end": "2026-11-28T13:18:43+02:00"
   },
   "channels": [
     {
@@ -406,15 +406,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Ernest Goes to Jail",
-          "kind": "movie",
-          "start_ms": 1795686818885,
-          "end_ms": 1795691847004,
-          "start": "2026-11-26T11:53:38+02:00",
-          "end": "2026-11-26T13:17:27+02:00",
-          "year": 1990
-        },
         {
           "title": "Home Alone",
           "kind": "movie",
