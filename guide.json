@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T22:12:37+02:00",
-  "generated_at_ms": 1795723957991,
+  "generated_at": "2026-11-26T22:22:38+02:00",
+  "generated_at_ms": 1795724558207,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795723957944,
-    "end_ms": 1795896757944,
-    "start": "2026-11-26T22:12:37+02:00",
-    "end": "2026-11-28T22:12:37+02:00"
+    "start_ms": 1795724558165,
+    "end_ms": 1795897358165,
+    "start": "2026-11-26T22:22:38+02:00",
+    "end": "2026-11-28T22:22:38+02:00"
   },
   "channels": [
     {
@@ -291,15 +291,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Harry Potter and the Deathly Hallows: Part 2",
-          "kind": "movie",
-          "start_ms": 1795715847586,
-          "end_ms": 1795724504164,
-          "start": "2026-11-26T19:57:27+02:00",
-          "end": "2026-11-26T22:21:44+02:00",
-          "year": 2011
-        },
         {
           "title": "Fantastic Beasts and Where to Find Them",
           "kind": "movie",
