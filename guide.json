@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T11:48:03+02:00",
-  "generated_at_ms": 1795686483235,
+  "generated_at": "2026-11-26T12:08:12+02:00",
+  "generated_at_ms": 1795687692288,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795686483189,
-    "end_ms": 1795859283189,
-    "start": "2026-11-26T11:48:03+02:00",
-    "end": "2026-11-28T11:48:03+02:00"
+    "start_ms": 1795687692240,
+    "end_ms": 1795860492240,
+    "start": "2026-11-26T12:08:12+02:00",
+    "end": "2026-11-28T12:08:12+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Episode #3.12",
-          "kind": "episode",
-          "start_ms": 1795683972613,
-          "end_ms": 1795687592798,
-          "start": "2026-11-26T11:06:12+02:00",
-          "end": "2026-11-26T12:06:32+02:00",
-          "show": "Traffic Light",
-          "year": 2011
-        },
         {
           "title": "The Ferret",
           "kind": "episode",
@@ -97,9 +87,49 @@
           "title": "Buying an Appartment",
           "kind": "episode",
           "start_ms": 1795712777546,
-          "end_ms": 1795716362613,
+          "end_ms": 1795716372613,
           "start": "2026-11-26T19:06:17+02:00",
-          "end": "2026-11-26T20:06:02+02:00",
+          "end": "2026-11-26T20:06:12+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "Stupid Diaper",
+          "kind": "episode",
+          "start_ms": 1795716372613,
+          "end_ms": 1795719972613,
+          "start": "2026-11-26T20:06:12+02:00",
+          "end": "2026-11-26T21:06:12+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "Living with a Shift Manager",
+          "kind": "episode",
+          "start_ms": 1795719972613,
+          "end_ms": 1795723572613,
+          "start": "2026-11-26T21:06:12+02:00",
+          "end": "2026-11-26T22:06:12+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "Nanny Sima",
+          "kind": "episode",
+          "start_ms": 1795723572613,
+          "end_ms": 1795727172613,
+          "start": "2026-11-26T22:06:12+02:00",
+          "end": "2026-11-26T23:06:12+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "Hefer Gets a Degree",
+          "kind": "episode",
+          "start_ms": 1795727172613,
+          "end_ms": 1795730762613,
+          "start": "2026-11-26T23:06:12+02:00",
+          "end": "2026-11-27T00:06:02+02:00",
           "show": "Traffic Light",
           "year": 2014
         }
@@ -109,16 +139,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Friars Club",
-          "kind": "episode",
-          "start_ms": 1795685440876,
-          "end_ms": 1795687240876,
-          "start": "2026-11-26T11:30:40+02:00",
-          "end": "2026-11-26T12:00:40+02:00",
-          "show": "Seinfeld",
-          "year": 1996
-        },
         {
           "title": "Male Unbonding",
           "kind": "episode",
@@ -273,11 +293,91 @@
           "title": "The Good Samaritan",
           "kind": "episode",
           "start_ms": 1795714260721,
-          "end_ms": 1795716030876,
+          "end_ms": 1795716060785,
           "start": "2026-11-26T19:31:00+02:00",
-          "end": "2026-11-26T20:00:30+02:00",
+          "end": "2026-11-26T20:01:00+02:00",
           "show": "Seinfeld",
           "year": 1992
+        },
+        {
+          "title": "The Opera",
+          "kind": "episode",
+          "start_ms": 1795716060785,
+          "end_ms": 1795717924222,
+          "start": "2026-11-26T20:01:00+02:00",
+          "end": "2026-11-26T20:32:04+02:00",
+          "show": "Seinfeld",
+          "year": 1992
+        },
+        {
+          "title": "The Implant",
+          "kind": "episode",
+          "start_ms": 1795717924222,
+          "end_ms": 1795719640876,
+          "start": "2026-11-26T20:32:04+02:00",
+          "end": "2026-11-26T21:00:40+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Junior Mint",
+          "kind": "episode",
+          "start_ms": 1795719640876,
+          "end_ms": 1795721445852,
+          "start": "2026-11-26T21:00:40+02:00",
+          "end": "2026-11-26T21:30:45+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Smelly Car",
+          "kind": "episode",
+          "start_ms": 1795721445852,
+          "end_ms": 1795723245724,
+          "start": "2026-11-26T21:30:45+02:00",
+          "end": "2026-11-26T22:00:45+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Non-Fat Yogurt",
+          "kind": "episode",
+          "start_ms": 1795723245724,
+          "end_ms": 1795725045992,
+          "start": "2026-11-26T22:00:45+02:00",
+          "end": "2026-11-26T22:30:45+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Wife",
+          "kind": "episode",
+          "start_ms": 1795725045992,
+          "end_ms": 1795726840876,
+          "start": "2026-11-26T22:30:45+02:00",
+          "end": "2026-11-26T23:00:40+02:00",
+          "show": "Seinfeld",
+          "year": 1994
+        },
+        {
+          "title": "The Shower Head",
+          "kind": "episode",
+          "start_ms": 1795726840876,
+          "end_ms": 1795728645916,
+          "start": "2026-11-26T23:00:40+02:00",
+          "end": "2026-11-26T23:30:45+02:00",
+          "show": "Seinfeld",
+          "year": 1996
+        },
+        {
+          "title": "The Friars Club",
+          "kind": "episode",
+          "start_ms": 1795728645916,
+          "end_ms": 1795730430876,
+          "start": "2026-11-26T23:30:45+02:00",
+          "end": "2026-11-27T00:00:30+02:00",
+          "show": "Seinfeld",
+          "year": 1996
         }
       ]
     },
@@ -288,9 +388,9 @@
         {
           "title": "Harry Potter and the Order of the Phoenix",
           "kind": "movie",
-          "start_ms": 1795684085739,
+          "start_ms": 1795686929398,
           "end_ms": 1795693947915,
-          "start": "2026-11-26T11:08:05+02:00",
+          "start": "2026-11-26T11:55:29+02:00",
           "end": "2026-11-26T13:52:27+02:00",
           "year": 2007
         },
@@ -316,10 +416,19 @@
           "title": "Harry Potter and the Deathly Hallows: Part 2",
           "kind": "movie",
           "start_ms": 1795715099475,
-          "end_ms": 1795716447586,
+          "end_ms": 1795724504164,
           "start": "2026-11-26T19:44:59+02:00",
-          "end": "2026-11-26T20:07:27+02:00",
+          "end": "2026-11-26T22:21:44+02:00",
           "year": 2011
+        },
+        {
+          "title": "Fantastic Beasts and Where to Find Them",
+          "kind": "movie",
+          "start_ms": 1795724504164,
+          "end_ms": 1795730757267,
+          "start": "2026-11-26T22:21:44+02:00",
+          "end": "2026-11-27T00:05:57+02:00",
+          "year": 2016
         }
       ]
     },
@@ -330,9 +439,9 @@
         {
           "title": "Ernest Goes to Jail",
           "kind": "movie",
-          "start_ms": 1795686135007,
+          "start_ms": 1795686818885,
           "end_ms": 1795691847004,
-          "start": "2026-11-26T11:42:15+02:00",
+          "start": "2026-11-26T11:53:38+02:00",
           "end": "2026-11-26T13:17:27+02:00",
           "year": 1990
         },
@@ -367,10 +476,28 @@
           "title": "The Naked Gun 2½: The Smell of Fear",
           "kind": "movie",
           "start_ms": 1795711045752,
-          "end_ms": 1795716021260,
+          "end_ms": 1795717055939,
           "start": "2026-11-26T18:37:25+02:00",
-          "end": "2026-11-26T20:00:21+02:00",
+          "end": "2026-11-26T20:17:35+02:00",
           "year": 1991
+        },
+        {
+          "title": "Encino Man",
+          "kind": "movie",
+          "start_ms": 1795717055939,
+          "end_ms": 1795723453812,
+          "start": "2026-11-26T20:17:35+02:00",
+          "end": "2026-11-26T22:04:13+02:00",
+          "year": 1992
+        },
+        {
+          "title": "Home Alone 2: Lost in New York",
+          "kind": "movie",
+          "start_ms": 1795723453812,
+          "end_ms": 1795730484598,
+          "start": "2026-11-26T22:04:13+02:00",
+          "end": "2026-11-27T00:01:24+02:00",
+          "year": 1992
         }
       ]
     }
