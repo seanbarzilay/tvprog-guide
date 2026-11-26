@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T01:03:53+02:00",
-  "generated_at_ms": 1795734233788,
+  "generated_at": "2026-11-27T01:13:58+02:00",
+  "generated_at_ms": 1795734838021,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795734233692,
-    "end_ms": 1795907033692,
-    "start": "2026-11-27T01:03:53+02:00",
-    "end": "2026-11-29T01:03:53+02:00"
+    "start_ms": 1795734837935,
+    "end_ms": 1795907637935,
+    "start": "2026-11-27T01:13:57+02:00",
+    "end": "2026-11-29T01:13:57+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Yardena's First Birthday",
-          "kind": "episode",
-          "start_ms": 1795730772613,
-          "end_ms": 1795734475109,
-          "start": "2026-11-27T00:06:12+02:00",
-          "end": "2026-11-27T01:07:55+02:00",
-          "show": "Traffic Light",
-          "year": 2014
-        },
         {
           "title": "Pilot",
           "kind": "episode",
