@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T18:31:01+02:00",
-  "generated_at_ms": 1795710661801,
+  "generated_at": "2026-11-26T18:41:06+02:00",
+  "generated_at_ms": 1795711266290,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795710661753,
-    "end_ms": 1795883461753,
-    "start": "2026-11-26T18:31:01+02:00",
-    "end": "2026-11-28T18:31:01+02:00"
+    "start_ms": 1795711266228,
+    "end_ms": 1795884066228,
+    "start": "2026-11-26T18:41:06+02:00",
+    "end": "2026-11-28T18:41:06+02:00"
   },
   "channels": [
     {
@@ -363,15 +363,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Ernest Scared Stupid",
-          "kind": "movie",
-          "start_ms": 1795704607604,
-          "end_ms": 1795711045752,
-          "start": "2026-11-26T16:50:07+02:00",
-          "end": "2026-11-26T18:37:25+02:00",
-          "year": 1991
-        },
         {
           "title": "The Naked Gun 2½: The Smell of Fear",
           "kind": "movie",
