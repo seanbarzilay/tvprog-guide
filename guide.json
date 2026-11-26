@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T00:33:38+02:00",
-  "generated_at_ms": 1795732418227,
+  "generated_at": "2026-11-27T01:03:53+02:00",
+  "generated_at_ms": 1795734233788,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795732418174,
-    "end_ms": 1795905218174,
-    "start": "2026-11-27T00:33:38+02:00",
-    "end": "2026-11-29T00:33:38+02:00"
+    "start_ms": 1795734233692,
+    "end_ms": 1795907033692,
+    "start": "2026-11-27T01:03:53+02:00",
+    "end": "2026-11-29T01:03:53+02:00"
   },
   "channels": [
     {
@@ -147,16 +147,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Seinfeld.S03E03.The.Dog",
-          "kind": "episode",
-          "start_ms": 1795732240876,
-          "end_ms": 1795734160026,
-          "start": "2026-11-27T00:30:40+02:00",
-          "end": "2026-11-27T01:02:40+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
         {
           "title": "The Library",
           "kind": "episode",
@@ -321,15 +311,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Fantastic Beasts and Where to Find Them",
-          "kind": "movie",
-          "start_ms": 1795730157267,
-          "end_ms": 1795733892112,
-          "start": "2026-11-26T23:55:57+02:00",
-          "end": "2026-11-27T00:58:12+02:00",
-          "year": 2016
-        },
         {
           "title": "Fantastic Beasts: The Crimes of Grindelwald",
           "kind": "movie",
