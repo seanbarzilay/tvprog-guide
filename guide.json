@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T13:59:01+02:00",
-  "generated_at_ms": 1795694341749,
+  "generated_at": "2026-11-26T14:09:06+02:00",
+  "generated_at_ms": 1795694946307,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795694341704,
-    "end_ms": 1795867141704,
-    "start": "2026-11-26T13:59:01+02:00",
-    "end": "2026-11-28T13:59:01+02:00"
+    "start_ms": 1795694946234,
+    "end_ms": 1795867746234,
+    "start": "2026-11-26T14:09:06+02:00",
+    "end": "2026-11-28T14:09:06+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Reducing Arrivals",
-          "kind": "episode",
-          "start_ms": 1795691172613,
-          "end_ms": 1795694772613,
-          "start": "2026-11-26T13:06:12+02:00",
-          "end": "2026-11-26T14:06:12+02:00",
-          "show": "Traffic Light",
-          "year": 2014
-        },
         {
           "title": "Cigarette Break",
           "kind": "episode",
@@ -129,16 +119,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Good Samaritan",
-          "kind": "episode",
-          "start_ms": 1795692645788,
-          "end_ms": 1795694445876,
-          "start": "2026-11-26T13:30:45+02:00",
-          "end": "2026-11-26T14:00:45+02:00",
-          "show": "Seinfeld",
-          "year": 1992
-        },
         {
           "title": "The Opera",
           "kind": "episode",
