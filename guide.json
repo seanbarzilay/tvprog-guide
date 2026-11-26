@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T19:51:36+02:00",
-  "generated_at_ms": 1795715496739,
+  "generated_at": "2026-11-26T20:01:38+02:00",
+  "generated_at_ms": 1795716098355,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795715496693,
-    "end_ms": 1795888296693,
-    "start": "2026-11-26T19:51:36+02:00",
-    "end": "2026-11-28T19:51:36+02:00"
+    "start_ms": 1795716098292,
+    "end_ms": 1795888898292,
+    "start": "2026-11-26T20:01:38+02:00",
+    "end": "2026-11-28T20:01:38+02:00"
   },
   "channels": [
     {
@@ -14,14 +14,12 @@
       "name": "Sitcoms (JP CMs)",
       "programs": [
         {
-          "title": "Buying an Appartment",
-          "kind": "episode",
-          "start_ms": 1795712777546,
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795716000000,
           "end_ms": 1795716372613,
-          "start": "2026-11-26T19:06:17+02:00",
-          "end": "2026-11-26T20:06:12+02:00",
-          "show": "Traffic Light",
-          "year": 2014
+          "start": "2026-11-26T20:00:00+02:00",
+          "end": "2026-11-26T20:06:12+02:00"
         },
         {
           "title": "Stupid Diaper",
@@ -127,11 +125,59 @@
           "title": "The Bigger They Come",
           "kind": "episode",
           "start_ms": 1795743480170,
-          "end_ms": 1795744917953,
+          "end_ms": 1795745275109,
           "start": "2026-11-27T03:38:00+02:00",
-          "end": "2026-11-27T04:01:57+02:00",
+          "end": "2026-11-27T04:07:55+02:00",
           "show": "The War at Home",
           "year": 2005
+        },
+        {
+          "title": "Cheers",
+          "kind": "episode",
+          "start_ms": 1795745275109,
+          "end_ms": 1795747075109,
+          "start": "2026-11-27T04:07:55+02:00",
+          "end": "2026-11-27T04:37:55+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "The Empire Spanks Back",
+          "kind": "episode",
+          "start_ms": 1795747075109,
+          "end_ms": 1795748880085,
+          "start": "2026-11-27T04:37:55+02:00",
+          "end": "2026-11-27T05:08:00+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "Dave Get Your Gun",
+          "kind": "episode",
+          "start_ms": 1795748880085,
+          "end_ms": 1795750570260,
+          "start": "2026-11-27T05:08:00+02:00",
+          "end": "2026-11-27T05:36:10+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "Breaking Up Is Hard to Do",
+          "kind": "episode",
+          "start_ms": 1795750570260,
+          "end_ms": 1795752010000,
+          "start": "2026-11-27T05:36:10+02:00",
+          "end": "2026-11-27T06:00:10+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795752010000,
+          "end_ms": 1795766400000,
+          "start": "2026-11-27T06:00:10+02:00",
+          "end": "2026-11-27T10:00:00+02:00"
         }
       ]
     },
@@ -139,16 +185,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Good Samaritan",
-          "kind": "episode",
-          "start_ms": 1795714260721,
-          "end_ms": 1795716060785,
-          "start": "2026-11-26T19:31:00+02:00",
-          "end": "2026-11-26T20:01:00+02:00",
-          "show": "Seinfeld",
-          "year": 1992
-        },
         {
           "title": "The Opera",
           "kind": "episode",
@@ -273,9 +309,49 @@
           "title": "Off air",
           "kind": "off",
           "start_ms": 1795737460631,
-          "end_ms": 1795752000000,
+          "end_ms": 1795752010000,
           "start": "2026-11-27T01:57:40+02:00",
-          "end": "2026-11-27T06:00:00+02:00"
+          "end": "2026-11-27T06:00:10+02:00"
+        },
+        {
+          "title": "The Stock Tip",
+          "kind": "episode",
+          "start_ms": 1795752010000,
+          "end_ms": 1795753810000,
+          "start": "2026-11-27T06:00:10+02:00",
+          "end": "2026-11-27T06:30:10+02:00",
+          "show": "Seinfeld",
+          "year": 1990
+        },
+        {
+          "title": "Seinfeld.S02E01.The.Ex-Girlfriend",
+          "kind": "episode",
+          "start_ms": 1795753810000,
+          "end_ms": 1795755610000,
+          "start": "2026-11-27T06:30:10+02:00",
+          "end": "2026-11-27T07:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Phone Message",
+          "kind": "episode",
+          "start_ms": 1795755610000,
+          "end_ms": 1795757545729,
+          "start": "2026-11-27T07:00:10+02:00",
+          "end": "2026-11-27T07:32:25+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Statue",
+          "kind": "episode",
+          "start_ms": 1795757545729,
+          "end_ms": 1795759229744,
+          "start": "2026-11-27T07:32:25+02:00",
+          "end": "2026-11-27T08:00:29+02:00",
+          "show": "Seinfeld",
+          "year": 1991
         }
       ]
     },
@@ -286,9 +362,9 @@
         {
           "title": "Harry Potter and the Deathly Hallows: Part 2",
           "kind": "movie",
-          "start_ms": 1795715099475,
+          "start_ms": 1795715847586,
           "end_ms": 1795724504164,
-          "start": "2026-11-26T19:44:59+02:00",
+          "start": "2026-11-26T19:57:27+02:00",
           "end": "2026-11-26T22:21:44+02:00",
           "year": 2011
         },
@@ -314,9 +390,9 @@
           "title": "Off air",
           "kind": "off",
           "start_ms": 1795743426124,
-          "end_ms": 1795746600000,
+          "end_ms": 1795766400000,
           "start": "2026-11-27T03:37:06+02:00",
-          "end": "2026-11-27T04:30:00+02:00"
+          "end": "2026-11-27T10:00:00+02:00"
         }
       ]
     },
@@ -327,9 +403,9 @@
         {
           "title": "The Naked Gun 2½: The Smell of Fear",
           "kind": "movie",
-          "start_ms": 1795711045752,
+          "start_ms": 1795716021260,
           "end_ms": 1795717055939,
-          "start": "2026-11-26T18:37:25+02:00",
+          "start": "2026-11-26T20:00:21+02:00",
           "end": "2026-11-26T20:17:35+02:00",
           "year": 1991
         },
@@ -368,6 +444,33 @@
           "start": "2026-11-27T02:02:49+02:00",
           "end": "2026-11-27T04:02:12+02:00",
           "year": 1994
+        },
+        {
+          "title": "A Shot in the Dark",
+          "kind": "movie",
+          "start_ms": 1795744932241,
+          "end_ms": 1795752110855,
+          "start": "2026-11-27T04:02:12+02:00",
+          "end": "2026-11-27T06:01:50+02:00",
+          "year": 1964
+        },
+        {
+          "title": "The Return of the Pink Panther",
+          "kind": "movie",
+          "start_ms": 1795752110855,
+          "end_ms": 1795759214933,
+          "start": "2026-11-27T06:01:50+02:00",
+          "end": "2026-11-27T08:00:14+02:00",
+          "year": 1975
+        },
+        {
+          "title": "Dracula: Dead and Loving It",
+          "kind": "movie",
+          "start_ms": 1795759214933,
+          "end_ms": 1795759814933,
+          "start": "2026-11-27T08:00:14+02:00",
+          "end": "2026-11-27T08:10:14+02:00",
+          "year": 1995
         }
       ]
     }
