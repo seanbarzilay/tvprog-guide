@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T15:09:32+02:00",
-  "generated_at_ms": 1795698572994,
+  "generated_at": "2026-11-26T15:19:37+02:00",
+  "generated_at_ms": 1795699177257,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795698572943,
-    "end_ms": 1795871372943,
-    "start": "2026-11-26T15:09:32+02:00",
-    "end": "2026-11-28T15:09:32+02:00"
+    "start_ms": 1795699177205,
+    "end_ms": 1795871977205,
+    "start": "2026-11-26T15:19:37+02:00",
+    "end": "2026-11-28T15:19:37+02:00"
   },
   "channels": [
     {
@@ -337,15 +337,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Home Alone",
-          "kind": "movie",
-          "start_ms": 1795691847004,
-          "end_ms": 1795699108211,
-          "start": "2026-11-26T13:17:27+02:00",
-          "end": "2026-11-26T15:18:28+02:00",
-          "year": 1990
-        },
         {
           "title": "Problem Child",
           "kind": "movie",
