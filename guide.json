@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T10:07:18+02:00",
-  "generated_at_ms": 1795680438748,
+  "generated_at": "2026-11-26T10:37:32+02:00",
+  "generated_at_ms": 1795682252284,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795680438687,
-    "end_ms": 1795853238687,
-    "start": "2026-11-26T10:07:18+02:00",
-    "end": "2026-11-28T10:07:18+02:00"
+    "start_ms": 1795682252226,
+    "end_ms": 1795855052226,
+    "start": "2026-11-26T10:37:32+02:00",
+    "end": "2026-11-28T10:37:32+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Test at Shlomi",
-          "kind": "episode",
-          "start_ms": 1795680016880,
-          "end_ms": 1795681934298,
-          "start": "2026-11-26T10:00:16+02:00",
-          "end": "2026-11-26T10:32:14+02:00",
-          "show": "Traffic Light",
-          "year": 2011
-        },
         {
           "title": "Falafel Friend",
           "kind": "episode",
@@ -129,16 +119,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Non-Fat Yogurt",
-          "kind": "episode",
-          "start_ms": 1795680014976,
-          "end_ms": 1795681928930,
-          "start": "2026-11-26T10:00:14+02:00",
-          "end": "2026-11-26T10:32:08+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Wife",
           "kind": "episode",
