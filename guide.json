@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T00:13:31+02:00",
-  "generated_at_ms": 1795731211526,
+  "generated_at": "2026-11-27T00:33:38+02:00",
+  "generated_at_ms": 1795732418227,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795731211441,
-    "end_ms": 1795904011441,
-    "start": "2026-11-27T00:13:31+02:00",
-    "end": "2026-11-29T00:13:31+02:00"
+    "start_ms": 1795732418174,
+    "end_ms": 1795905218174,
+    "start": "2026-11-27T00:33:38+02:00",
+    "end": "2026-11-29T00:33:38+02:00"
   },
   "channels": [
     {
@@ -147,16 +147,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Male Unbonding",
-          "kind": "episode",
-          "start_ms": 1795730447083,
-          "end_ms": 1795732240876,
-          "start": "2026-11-27T00:00:47+02:00",
-          "end": "2026-11-27T00:30:40+02:00",
-          "show": "Seinfeld",
-          "year": 1990
-        },
         {
           "title": "Seinfeld.S03E03.The.Dog",
           "kind": "episode",
@@ -372,15 +362,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Home Alone 2: Lost in New York",
-          "kind": "movie",
-          "start_ms": 1795729816456,
-          "end_ms": 1795731839347,
-          "start": "2026-11-26T23:50:16+02:00",
-          "end": "2026-11-27T00:23:59+02:00",
-          "year": 1992
-        },
         {
           "title": "Naked Gun 33⅓: The Final Insult",
           "kind": "movie",
