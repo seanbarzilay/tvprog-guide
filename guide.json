@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T17:00:21+02:00",
-  "generated_at_ms": 1795705221477,
+  "generated_at": "2026-11-26T17:10:26+02:00",
+  "generated_at_ms": 1795705826005,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795705221435,
-    "end_ms": 1795878021435,
-    "start": "2026-11-26T17:00:21+02:00",
-    "end": "2026-11-28T17:00:21+02:00"
+    "start_ms": 1795705825955,
+    "end_ms": 1795878625955,
+    "start": "2026-11-26T17:10:25+02:00",
+    "end": "2026-11-28T17:10:25+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Bad Luck Hagit",
-          "kind": "episode",
-          "start_ms": 1795701972613,
-          "end_ms": 1795705572613,
-          "start": "2026-11-26T16:06:12+02:00",
-          "end": "2026-11-26T17:06:12+02:00",
-          "show": "Traffic Light",
-          "year": 2014
-        },
         {
           "title": "An Operation in Gaza",
           "kind": "episode",
@@ -169,16 +159,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Wife",
-          "kind": "episode",
-          "start_ms": 1795703446015,
-          "end_ms": 1795705260876,
-          "start": "2026-11-26T16:30:46+02:00",
-          "end": "2026-11-26T17:01:00+02:00",
-          "show": "Seinfeld",
-          "year": 1994
-        },
         {
           "title": "The Shower Head",
           "kind": "episode",
