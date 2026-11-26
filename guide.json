@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T01:34:06+02:00",
-  "generated_at_ms": 1795736046984,
+  "generated_at": "2026-11-27T01:44:11+02:00",
+  "generated_at_ms": 1795736651485,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795736046939,
-    "end_ms": 1795908846939,
-    "start": "2026-11-27T01:34:06+02:00",
-    "end": "2026-11-29T01:34:06+02:00"
+    "start_ms": 1795736651441,
+    "end_ms": 1795909451441,
+    "start": "2026-11-27T01:44:11+02:00",
+    "end": "2026-11-29T01:44:11+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Pilot",
-          "kind": "episode",
-          "start_ms": 1795734475109,
-          "end_ms": 1795736275109,
-          "start": "2026-11-27T01:07:55+02:00",
-          "end": "2026-11-27T01:37:55+02:00",
-          "show": "The War at Home",
-          "year": 2005
-        },
         {
           "title": "I.M. What I.M.",
           "kind": "episode",
