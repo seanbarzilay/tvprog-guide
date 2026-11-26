@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T15:19:37+02:00",
-  "generated_at_ms": 1795699177257,
+  "generated_at": "2026-11-26T15:39:46+02:00",
+  "generated_at_ms": 1795700386250,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795699177205,
-    "end_ms": 1795871977205,
-    "start": "2026-11-26T15:19:37+02:00",
-    "end": "2026-11-28T15:19:37+02:00"
+    "start_ms": 1795700386196,
+    "end_ms": 1795873186196,
+    "start": "2026-11-26T15:39:46+02:00",
+    "end": "2026-11-28T15:39:46+02:00"
   },
   "channels": [
     {
@@ -109,16 +109,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Junior Mint",
-          "kind": "episode",
-          "start_ms": 1795698040876,
-          "end_ms": 1795699840876,
-          "start": "2026-11-26T15:00:40+02:00",
-          "end": "2026-11-26T15:30:40+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Smelly Car",
           "kind": "episode",
