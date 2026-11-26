@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T22:02:33+02:00",
-  "generated_at_ms": 1795723353905,
+  "generated_at": "2026-11-26T22:12:37+02:00",
+  "generated_at_ms": 1795723957991,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795723353449,
-    "end_ms": 1795896153449,
-    "start": "2026-11-26T22:02:33+02:00",
-    "end": "2026-11-28T22:02:33+02:00"
+    "start_ms": 1795723957944,
+    "end_ms": 1795896757944,
+    "start": "2026-11-26T22:12:37+02:00",
+    "end": "2026-11-28T22:12:37+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Living with a Shift Manager",
-          "kind": "episode",
-          "start_ms": 1795719972613,
-          "end_ms": 1795723572613,
-          "start": "2026-11-26T21:06:12+02:00",
-          "end": "2026-11-26T22:06:12+02:00",
-          "show": "Traffic Light",
-          "year": 2014
-        },
         {
           "title": "Nanny Sima",
           "kind": "episode",
@@ -342,15 +332,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Encino Man",
-          "kind": "movie",
-          "start_ms": 1795717055939,
-          "end_ms": 1795723453812,
-          "start": "2026-11-26T20:17:35+02:00",
-          "end": "2026-11-26T22:04:13+02:00",
-          "year": 1992
-        },
         {
           "title": "Home Alone 2: Lost in New York",
           "kind": "movie",
