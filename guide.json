@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T11:37:58+02:00",
-  "generated_at_ms": 1795685878983,
+  "generated_at": "2026-11-26T11:48:03+02:00",
+  "generated_at_ms": 1795686483235,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795685878941,
-    "end_ms": 1795858678941,
-    "start": "2026-11-26T11:37:58+02:00",
-    "end": "2026-11-28T11:37:58+02:00"
+    "start_ms": 1795686483189,
+    "end_ms": 1795859283189,
+    "start": "2026-11-26T11:48:03+02:00",
+    "end": "2026-11-28T11:48:03+02:00"
   },
   "channels": [
     {
@@ -327,15 +327,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "The Naked Gun: From the Files of Police Squad!",
-          "kind": "movie",
-          "start_ms": 1795680169828,
-          "end_ms": 1795686135007,
-          "start": "2026-11-26T10:02:49+02:00",
-          "end": "2026-11-26T11:42:15+02:00",
-          "year": 1988
-        },
         {
           "title": "Ernest Goes to Jail",
           "kind": "movie",
