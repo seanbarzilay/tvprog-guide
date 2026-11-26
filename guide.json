@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T13:38:52+02:00",
-  "generated_at_ms": 1795693132734,
+  "generated_at": "2026-11-26T13:59:01+02:00",
+  "generated_at_ms": 1795694341749,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795693132689,
-    "end_ms": 1795865932689,
-    "start": "2026-11-26T13:38:52+02:00",
-    "end": "2026-11-28T13:38:52+02:00"
+    "start_ms": 1795694341704,
+    "end_ms": 1795867141704,
+    "start": "2026-11-26T13:59:01+02:00",
+    "end": "2026-11-28T13:59:01+02:00"
   },
   "channels": [
     {
@@ -345,15 +345,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Harry Potter and the Order of the Phoenix",
-          "kind": "movie",
-          "start_ms": 1795686929398,
-          "end_ms": 1795693947915,
-          "start": "2026-11-26T11:55:29+02:00",
-          "end": "2026-11-26T13:52:27+02:00",
-          "year": 2007
-        },
         {
           "title": "Harry Potter and the Half-Blood Prince",
           "kind": "movie",
