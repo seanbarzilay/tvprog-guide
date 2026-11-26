@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T16:40:12+02:00",
-  "generated_at_ms": 1795704012757,
+  "generated_at": "2026-11-26T16:50:17+02:00",
+  "generated_at_ms": 1795704617020,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795704012712,
-    "end_ms": 1795876812712,
-    "start": "2026-11-26T16:40:12+02:00",
-    "end": "2026-11-28T16:40:12+02:00"
+    "start_ms": 1795704616954,
+    "end_ms": 1795877416954,
+    "start": "2026-11-26T16:50:16+02:00",
+    "end": "2026-11-28T16:50:16+02:00"
   },
   "channels": [
     {
@@ -432,15 +432,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Problem Child",
-          "kind": "movie",
-          "start_ms": 1795701171878,
-          "end_ms": 1795704607604,
-          "start": "2026-11-26T15:52:51+02:00",
-          "end": "2026-11-26T16:50:07+02:00",
-          "year": 1990
-        },
         {
           "title": "Ernest Scared Stupid",
           "kind": "movie",
