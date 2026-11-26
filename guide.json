@@ -1,26 +1,18 @@
 {
-  "generated_at": "2026-11-27T00:03:26+02:00",
-  "generated_at_ms": 1795730606984,
+  "generated_at": "2026-11-27T00:13:31+02:00",
+  "generated_at_ms": 1795731211526,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795730606941,
-    "end_ms": 1795903406941,
-    "start": "2026-11-27T00:03:26+02:00",
-    "end": "2026-11-29T00:03:26+02:00"
+    "start_ms": 1795731211441,
+    "end_ms": 1795904011441,
+    "start": "2026-11-27T00:13:31+02:00",
+    "end": "2026-11-29T00:13:31+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Off air",
-          "kind": "off",
-          "start_ms": 1795730400000,
-          "end_ms": 1795730772613,
-          "start": "2026-11-27T00:00:00+02:00",
-          "end": "2026-11-27T00:06:12+02:00"
-        },
         {
           "title": "Yardena's First Birthday",
           "kind": "episode",
