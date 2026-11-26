@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T07:36:11+02:00",
-  "generated_at_ms": 1795671371233,
+  "generated_at": "2026-11-26T08:06:24+02:00",
+  "generated_at_ms": 1795673184747,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795671371189,
-    "end_ms": 1795844171189,
-    "start": "2026-11-26T07:36:11+02:00",
-    "end": "2026-11-28T07:36:11+02:00"
+    "start_ms": 1795673184694,
+    "end_ms": 1795845984694,
+    "start": "2026-11-26T08:06:24+02:00",
+    "end": "2026-11-28T08:06:24+02:00"
   },
   "channels": [
     {
@@ -16,9 +16,9 @@
         {
           "title": "Off air",
           "kind": "off",
-          "start_ms": 1795665626160,
+          "start_ms": 1795672800000,
           "end_ms": 1795680016880,
-          "start": "2026-11-26T06:00:26+02:00",
+          "start": "2026-11-26T08:00:00+02:00",
           "end": "2026-11-26T10:00:16+02:00"
         },
         {
@@ -85,9 +85,49 @@
           "title": "Sex Because We Have To",
           "kind": "episode",
           "start_ms": 1795698372613,
-          "end_ms": 1795701962613,
+          "end_ms": 1795701972613,
           "start": "2026-11-26T15:06:12+02:00",
-          "end": "2026-11-26T16:06:02+02:00",
+          "end": "2026-11-26T16:06:12+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "Bad Luck Hagit",
+          "kind": "episode",
+          "start_ms": 1795701972613,
+          "end_ms": 1795705572613,
+          "start": "2026-11-26T16:06:12+02:00",
+          "end": "2026-11-26T17:06:12+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "An Operation in Gaza",
+          "kind": "episode",
+          "start_ms": 1795705572613,
+          "end_ms": 1795709172613,
+          "start": "2026-11-26T17:06:12+02:00",
+          "end": "2026-11-26T18:06:12+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "The Sausage",
+          "kind": "episode",
+          "start_ms": 1795709172613,
+          "end_ms": 1795712777546,
+          "start": "2026-11-26T18:06:12+02:00",
+          "end": "2026-11-26T19:06:17+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "Buying an Appartment",
+          "kind": "episode",
+          "start_ms": 1795712777546,
+          "end_ms": 1795716362613,
+          "start": "2026-11-26T19:06:17+02:00",
+          "end": "2026-11-26T20:06:02+02:00",
           "show": "Traffic Light",
           "year": 2014
         }
@@ -97,16 +137,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Good Samaritan",
-          "kind": "episode",
-          "start_ms": 1795671015000,
-          "end_ms": 1795672814805,
-          "start": "2026-11-26T07:30:15+02:00",
-          "end": "2026-11-26T08:00:14+02:00",
-          "show": "Seinfeld",
-          "year": 1992
-        },
         {
           "title": "The Opera",
           "kind": "episode",
@@ -261,11 +291,91 @@
           "title": "The Smelly Car",
           "kind": "episode",
           "start_ms": 1795699840876,
-          "end_ms": 1795701630876,
+          "end_ms": 1795701640876,
           "start": "2026-11-26T15:30:40+02:00",
-          "end": "2026-11-26T16:00:30+02:00",
+          "end": "2026-11-26T16:00:40+02:00",
           "show": "Seinfeld",
           "year": 1993
+        },
+        {
+          "title": "The Non-Fat Yogurt",
+          "kind": "episode",
+          "start_ms": 1795701640876,
+          "end_ms": 1795703446015,
+          "start": "2026-11-26T16:00:40+02:00",
+          "end": "2026-11-26T16:30:46+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Wife",
+          "kind": "episode",
+          "start_ms": 1795703446015,
+          "end_ms": 1795705260876,
+          "start": "2026-11-26T16:30:46+02:00",
+          "end": "2026-11-26T17:01:00+02:00",
+          "show": "Seinfeld",
+          "year": 1994
+        },
+        {
+          "title": "The Shower Head",
+          "kind": "episode",
+          "start_ms": 1795705260876,
+          "end_ms": 1795707040876,
+          "start": "2026-11-26T17:01:00+02:00",
+          "end": "2026-11-26T17:30:40+02:00",
+          "show": "Seinfeld",
+          "year": 1996
+        },
+        {
+          "title": "The Friars Club",
+          "kind": "episode",
+          "start_ms": 1795707040876,
+          "end_ms": 1795708847083,
+          "start": "2026-11-26T17:30:40+02:00",
+          "end": "2026-11-26T18:00:47+02:00",
+          "show": "Seinfeld",
+          "year": 1996
+        },
+        {
+          "title": "Male Unbonding",
+          "kind": "episode",
+          "start_ms": 1795708847083,
+          "end_ms": 1795710640876,
+          "start": "2026-11-26T18:00:47+02:00",
+          "end": "2026-11-26T18:30:40+02:00",
+          "show": "Seinfeld",
+          "year": 1990
+        },
+        {
+          "title": "Seinfeld.S03E03.The.Dog",
+          "kind": "episode",
+          "start_ms": 1795710640876,
+          "end_ms": 1795712440876,
+          "start": "2026-11-26T18:30:40+02:00",
+          "end": "2026-11-26T19:00:40+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Library",
+          "kind": "episode",
+          "start_ms": 1795712440876,
+          "end_ms": 1795714260721,
+          "start": "2026-11-26T19:00:40+02:00",
+          "end": "2026-11-26T19:31:00+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Good Samaritan",
+          "kind": "episode",
+          "start_ms": 1795714260721,
+          "end_ms": 1795716030876,
+          "start": "2026-11-26T19:31:00+02:00",
+          "end": "2026-11-26T20:00:30+02:00",
+          "show": "Seinfeld",
+          "year": 1992
         }
       ]
     },
@@ -273,14 +383,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Off air",
-          "kind": "off",
-          "start_ms": 1795658400000,
-          "end_ms": 1795672815998,
-          "start": "2026-11-26T04:00:00+02:00",
-          "end": "2026-11-26T08:00:15+02:00"
-        },
         {
           "title": "Harry Potter and the Goblet of Fire",
           "kind": "movie",
@@ -303,10 +405,28 @@
           "title": "Harry Potter and the Half-Blood Prince",
           "kind": "movie",
           "start_ms": 1795693947915,
-          "end_ms": 1795701646852,
+          "end_ms": 1795704862168,
           "start": "2026-11-26T13:52:27+02:00",
-          "end": "2026-11-26T16:00:46+02:00",
+          "end": "2026-11-26T16:54:22+02:00",
           "year": 2009
+        },
+        {
+          "title": "Harry Potter and the Deathly Hallows: Part 1",
+          "kind": "movie",
+          "start_ms": 1795704862168,
+          "end_ms": 1795715099475,
+          "start": "2026-11-26T16:54:22+02:00",
+          "end": "2026-11-26T19:44:59+02:00",
+          "year": 2010
+        },
+        {
+          "title": "Harry Potter and the Deathly Hallows: Part 2",
+          "kind": "movie",
+          "start_ms": 1795715099475,
+          "end_ms": 1795716447586,
+          "start": "2026-11-26T19:44:59+02:00",
+          "end": "2026-11-26T20:07:27+02:00",
+          "year": 2011
         }
       ]
     },
@@ -314,15 +434,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "The Pink Panther",
-          "kind": "movie",
-          "start_ms": 1795665657411,
-          "end_ms": 1795672830116,
-          "start": "2026-11-26T06:00:57+02:00",
-          "end": "2026-11-26T08:00:30+02:00",
-          "year": 1963
-        },
         {
           "title": "Ernest Goes to Camp",
           "kind": "movie",
@@ -363,10 +474,28 @@
           "title": "Problem Child",
           "kind": "movie",
           "start_ms": 1795699108211,
-          "end_ms": 1795701771878,
+          "end_ms": 1795704607604,
           "start": "2026-11-26T15:18:28+02:00",
-          "end": "2026-11-26T16:02:51+02:00",
+          "end": "2026-11-26T16:50:07+02:00",
           "year": 1990
+        },
+        {
+          "title": "Ernest Scared Stupid",
+          "kind": "movie",
+          "start_ms": 1795704607604,
+          "end_ms": 1795711045752,
+          "start": "2026-11-26T16:50:07+02:00",
+          "end": "2026-11-26T18:37:25+02:00",
+          "year": 1991
+        },
+        {
+          "title": "The Naked Gun 2½: The Smell of Fear",
+          "kind": "movie",
+          "start_ms": 1795711045752,
+          "end_ms": 1795716021260,
+          "start": "2026-11-26T18:37:25+02:00",
+          "end": "2026-11-26T20:00:21+02:00",
+          "year": 1991
         }
       ]
     }
