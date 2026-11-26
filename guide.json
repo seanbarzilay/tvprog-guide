@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T08:36:38+02:00",
-  "generated_at_ms": 1795674998210,
+  "generated_at": "2026-11-26T09:06:51+02:00",
+  "generated_at_ms": 1795676811730,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795674998165,
-    "end_ms": 1795847798165,
-    "start": "2026-11-26T08:36:38+02:00",
-    "end": "2026-11-28T08:36:38+02:00"
+    "start_ms": 1795676811681,
+    "end_ms": 1795849611681,
+    "start": "2026-11-26T09:06:51+02:00",
+    "end": "2026-11-28T09:06:51+02:00"
   },
   "channels": [
     {
@@ -137,16 +137,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Implant",
-          "kind": "episode",
-          "start_ms": 1795674616207,
-          "end_ms": 1795676410000,
-          "start": "2026-11-26T08:30:16+02:00",
-          "end": "2026-11-26T09:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Junior Mint",
           "kind": "episode",
