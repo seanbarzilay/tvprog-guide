@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T14:39:19+02:00",
-  "generated_at_ms": 1795696759509,
+  "generated_at": "2026-11-26T15:09:32+02:00",
+  "generated_at_ms": 1795698572994,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795696759462,
-    "end_ms": 1795869559462,
-    "start": "2026-11-26T14:39:19+02:00",
-    "end": "2026-11-28T14:39:19+02:00"
+    "start_ms": 1795698572943,
+    "end_ms": 1795871372943,
+    "start": "2026-11-26T15:09:32+02:00",
+    "end": "2026-11-28T15:09:32+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Cigarette Break",
-          "kind": "episode",
-          "start_ms": 1795694772613,
-          "end_ms": 1795698372613,
-          "start": "2026-11-26T14:06:12+02:00",
-          "end": "2026-11-26T15:06:12+02:00",
-          "show": "Traffic Light",
-          "year": 2014
-        },
         {
           "title": "Sex Because We Have To",
           "kind": "episode",
@@ -119,16 +109,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Implant",
-          "kind": "episode",
-          "start_ms": 1795696240876,
-          "end_ms": 1795698040876,
-          "start": "2026-11-26T14:30:40+02:00",
-          "end": "2026-11-26T15:00:40+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Junior Mint",
           "kind": "episode",
