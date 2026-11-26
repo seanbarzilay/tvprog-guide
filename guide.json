@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T23:33:13+02:00",
-  "generated_at_ms": 1795728793542,
+  "generated_at": "2026-11-27T00:03:26+02:00",
+  "generated_at_ms": 1795730606984,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795728793432,
-    "end_ms": 1795901593432,
-    "start": "2026-11-26T23:33:13+02:00",
-    "end": "2026-11-28T23:33:13+02:00"
+    "start_ms": 1795730606941,
+    "end_ms": 1795903406941,
+    "start": "2026-11-27T00:03:26+02:00",
+    "end": "2026-11-29T00:03:26+02:00"
   },
   "channels": [
     {
@@ -14,14 +14,12 @@
       "name": "Sitcoms (JP CMs)",
       "programs": [
         {
-          "title": "Hefer Gets a Degree",
-          "kind": "episode",
-          "start_ms": 1795727172613,
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795730400000,
           "end_ms": 1795730772613,
-          "start": "2026-11-26T23:06:12+02:00",
-          "end": "2026-11-27T00:06:12+02:00",
-          "show": "Traffic Light",
-          "year": 2014
+          "start": "2026-11-27T00:00:00+02:00",
+          "end": "2026-11-27T00:06:12+02:00"
         },
         {
           "title": "Yardena's First Birthday",
@@ -137,9 +135,19 @@
           "title": "Off air",
           "kind": "off",
           "start_ms": 1795752010000,
-          "end_ms": 1795766400000,
+          "end_ms": 1795773615061,
           "start": "2026-11-27T06:00:10+02:00",
-          "end": "2026-11-27T10:00:00+02:00"
+          "end": "2026-11-27T12:00:15+02:00"
+        },
+        {
+          "title": "Pilot",
+          "kind": "episode",
+          "start_ms": 1795773615061,
+          "end_ms": 1795774215061,
+          "start": "2026-11-27T12:00:15+02:00",
+          "end": "2026-11-27T12:10:15+02:00",
+          "show": "The War at Home",
+          "year": 2005
         }
       ]
     },
@@ -147,16 +155,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Friars Club",
-          "kind": "episode",
-          "start_ms": 1795728645916,
-          "end_ms": 1795730447083,
-          "start": "2026-11-26T23:30:45+02:00",
-          "end": "2026-11-27T00:00:47+02:00",
-          "show": "Seinfeld",
-          "year": 1996
-        },
         {
           "title": "Male Unbonding",
           "kind": "episode",
@@ -244,6 +242,96 @@
           "end": "2026-11-27T08:00:29+02:00",
           "show": "Seinfeld",
           "year": 1991
+        },
+        {
+          "title": "The Deal",
+          "kind": "episode",
+          "start_ms": 1795759229744,
+          "end_ms": 1795761014976,
+          "start": "2026-11-27T08:00:29+02:00",
+          "end": "2026-11-27T08:30:14+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Baby Shower",
+          "kind": "episode",
+          "start_ms": 1795761014976,
+          "end_ms": 1795762810000,
+          "start": "2026-11-27T08:30:14+02:00",
+          "end": "2026-11-27T09:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "Seinfeld.S03E02.The.Truth",
+          "kind": "episode",
+          "start_ms": 1795762810000,
+          "end_ms": 1795764614933,
+          "start": "2026-11-27T09:00:10+02:00",
+          "end": "2026-11-27T09:30:14+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Nose Job",
+          "kind": "episode",
+          "start_ms": 1795764614933,
+          "end_ms": 1795766415069,
+          "start": "2026-11-27T09:30:14+02:00",
+          "end": "2026-11-27T10:00:15+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Alternate Side",
+          "kind": "episode",
+          "start_ms": 1795766415069,
+          "end_ms": 1795768210000,
+          "start": "2026-11-27T10:00:15+02:00",
+          "end": "2026-11-27T10:30:10+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Pez Dispenser",
+          "kind": "episode",
+          "start_ms": 1795768210000,
+          "end_ms": 1795770010000,
+          "start": "2026-11-27T10:30:10+02:00",
+          "end": "2026-11-27T11:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 1992
+        },
+        {
+          "title": "The Boyfriend (1)",
+          "kind": "episode",
+          "start_ms": 1795770010000,
+          "end_ms": 1795771810000,
+          "start": "2026-11-27T11:00:10+02:00",
+          "end": "2026-11-27T11:30:10+02:00",
+          "show": "Seinfeld",
+          "year": 1992
+        },
+        {
+          "title": "The Boyfriend (2)",
+          "kind": "episode",
+          "start_ms": 1795771810000,
+          "end_ms": 1795773610000,
+          "start": "2026-11-27T11:30:10+02:00",
+          "end": "2026-11-27T12:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 1992
+        },
+        {
+          "title": "The Letter",
+          "kind": "episode",
+          "start_ms": 1795773610000,
+          "end_ms": 1795774210000,
+          "start": "2026-11-27T12:00:10+02:00",
+          "end": "2026-11-27T12:10:10+02:00",
+          "show": "Seinfeld",
+          "year": 1992
         }
       ]
     },
@@ -254,9 +342,9 @@
         {
           "title": "Fantastic Beasts and Where to Find Them",
           "kind": "movie",
-          "start_ms": 1795724504164,
+          "start_ms": 1795730157267,
           "end_ms": 1795733892112,
-          "start": "2026-11-26T22:21:44+02:00",
+          "start": "2026-11-26T23:55:57+02:00",
           "end": "2026-11-27T00:58:12+02:00",
           "year": 2016
         },
@@ -273,9 +361,18 @@
           "title": "Off air",
           "kind": "off",
           "start_ms": 1795743426124,
-          "end_ms": 1795766400000,
+          "end_ms": 1795766445061,
           "start": "2026-11-27T03:37:06+02:00",
-          "end": "2026-11-27T10:00:00+02:00"
+          "end": "2026-11-27T10:00:45+02:00"
+        },
+        {
+          "title": "Harry Potter and the Philosopher's Stone",
+          "kind": "movie",
+          "start_ms": 1795766445061,
+          "end_ms": 1795774112811,
+          "start": "2026-11-27T10:00:45+02:00",
+          "end": "2026-11-27T12:08:32+02:00",
+          "year": 2001
         }
       ]
     },
@@ -286,9 +383,9 @@
         {
           "title": "Home Alone 2: Lost in New York",
           "kind": "movie",
-          "start_ms": 1795723453812,
+          "start_ms": 1795729816456,
           "end_ms": 1795731839347,
-          "start": "2026-11-26T22:04:13+02:00",
+          "start": "2026-11-26T23:50:16+02:00",
           "end": "2026-11-27T00:23:59+02:00",
           "year": 1992
         },
@@ -332,10 +429,28 @@
           "title": "Dracula: Dead and Loving It",
           "kind": "movie",
           "start_ms": 1795759214933,
-          "end_ms": 1795759814933,
+          "end_ms": 1795765514917,
           "start": "2026-11-27T08:00:14+02:00",
-          "end": "2026-11-27T08:10:14+02:00",
+          "end": "2026-11-27T09:45:14+02:00",
           "year": 1995
+        },
+        {
+          "title": "Happy Gilmore",
+          "kind": "movie",
+          "start_ms": 1795765514917,
+          "end_ms": 1795771803991,
+          "start": "2026-11-27T09:45:14+02:00",
+          "end": "2026-11-27T11:30:03+02:00",
+          "year": 1996
+        },
+        {
+          "title": "Kingpin",
+          "kind": "movie",
+          "start_ms": 1795771803991,
+          "end_ms": 1795773747671,
+          "start": "2026-11-27T11:30:03+02:00",
+          "end": "2026-11-27T12:02:27+02:00",
+          "year": 1996
         }
       ]
     }
