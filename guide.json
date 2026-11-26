@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T13:18:43+02:00",
-  "generated_at_ms": 1795691923740,
+  "generated_at": "2026-11-26T13:38:52+02:00",
+  "generated_at_ms": 1795693132734,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795691923690,
-    "end_ms": 1795864723690,
-    "start": "2026-11-26T13:18:43+02:00",
-    "end": "2026-11-28T13:18:43+02:00"
+    "start_ms": 1795693132689,
+    "end_ms": 1795865932689,
+    "start": "2026-11-26T13:38:52+02:00",
+    "end": "2026-11-28T13:38:52+02:00"
   },
   "channels": [
     {
@@ -129,16 +129,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Library",
-          "kind": "episode",
-          "start_ms": 1795690840876,
-          "end_ms": 1795692645788,
-          "start": "2026-11-26T13:00:40+02:00",
-          "end": "2026-11-26T13:30:45+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "The Good Samaritan",
           "kind": "episode",
