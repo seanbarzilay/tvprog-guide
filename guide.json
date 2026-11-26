@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T16:09:59+02:00",
-  "generated_at_ms": 1795702199513,
+  "generated_at": "2026-11-26T16:40:12+02:00",
+  "generated_at_ms": 1795704012757,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795702199458,
-    "end_ms": 1795874999458,
-    "start": "2026-11-26T16:09:59+02:00",
-    "end": "2026-11-28T16:09:59+02:00"
+    "start_ms": 1795704012712,
+    "end_ms": 1795876812712,
+    "start": "2026-11-26T16:40:12+02:00",
+    "end": "2026-11-28T16:40:12+02:00"
   },
   "channels": [
     {
@@ -169,16 +169,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Non-Fat Yogurt",
-          "kind": "episode",
-          "start_ms": 1795701640876,
-          "end_ms": 1795703446015,
-          "start": "2026-11-26T16:00:40+02:00",
-          "end": "2026-11-26T16:30:46+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Wife",
           "kind": "episode",
