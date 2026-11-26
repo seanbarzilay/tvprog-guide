@@ -1,26 +1,18 @@
 {
-  "generated_at": "2026-11-26T09:37:05+02:00",
-  "generated_at_ms": 1795678625235,
+  "generated_at": "2026-11-26T10:07:18+02:00",
+  "generated_at_ms": 1795680438748,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795678625184,
-    "end_ms": 1795851425184,
-    "start": "2026-11-26T09:37:05+02:00",
-    "end": "2026-11-28T09:37:05+02:00"
+    "start_ms": 1795680438687,
+    "end_ms": 1795853238687,
+    "start": "2026-11-26T10:07:18+02:00",
+    "end": "2026-11-28T10:07:18+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Off air",
-          "kind": "off",
-          "start_ms": 1795672800000,
-          "end_ms": 1795680016880,
-          "start": "2026-11-26T08:00:00+02:00",
-          "end": "2026-11-26T10:00:16+02:00"
-        },
         {
           "title": "Test at Shlomi",
           "kind": "episode",
@@ -137,16 +129,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Smelly Car",
-          "kind": "episode",
-          "start_ms": 1795678210000,
-          "end_ms": 1795680014976,
-          "start": "2026-11-26T09:30:10+02:00",
-          "end": "2026-11-26T10:00:14+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Non-Fat Yogurt",
           "kind": "episode",
@@ -404,15 +386,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Ernest Goes to Camp",
-          "kind": "movie",
-          "start_ms": 1795672830116,
-          "end_ms": 1795680169828,
-          "start": "2026-11-26T08:00:30+02:00",
-          "end": "2026-11-26T10:02:49+02:00",
-          "year": 1987
-        },
         {
           "title": "The Naked Gun: From the Files of Police Squad!",
           "kind": "movie",
