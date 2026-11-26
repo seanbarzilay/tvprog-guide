@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T18:00:48+02:00",
-  "generated_at_ms": 1795708848487,
+  "generated_at": "2026-11-26T18:10:52+02:00",
+  "generated_at_ms": 1795709452730,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795708848445,
-    "end_ms": 1795881648445,
-    "start": "2026-11-26T18:00:48+02:00",
-    "end": "2026-11-28T18:00:48+02:00"
+    "start_ms": 1795709452684,
+    "end_ms": 1795882252684,
+    "start": "2026-11-26T18:10:52+02:00",
+    "end": "2026-11-28T18:10:52+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "An Operation in Gaza",
-          "kind": "episode",
-          "start_ms": 1795705572613,
-          "end_ms": 1795709172613,
-          "start": "2026-11-26T17:06:12+02:00",
-          "end": "2026-11-26T18:06:12+02:00",
-          "show": "Traffic Light",
-          "year": 2014
-        },
         {
           "title": "The Sausage",
           "kind": "episode",
