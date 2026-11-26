@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T05:05:04+02:00",
-  "generated_at_ms": 1795662304006,
+  "generated_at": "2026-11-26T05:35:17+02:00",
+  "generated_at_ms": 1795664117241,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795662303947,
-    "end_ms": 1795835103947,
-    "start": "2026-11-26T05:05:03+02:00",
-    "end": "2026-11-28T05:05:03+02:00"
+    "start_ms": 1795664117194,
+    "end_ms": 1795836917194,
+    "start": "2026-11-26T05:35:17+02:00",
+    "end": "2026-11-28T05:35:17+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Handicapped Tag",
-          "kind": "episode",
-          "start_ms": 1795661924227,
-          "end_ms": 1795663768021,
-          "start": "2026-11-26T04:58:44+02:00",
-          "end": "2026-11-26T05:29:28+02:00",
-          "show": "Traffic Light",
-          "year": 2011
-        },
         {
           "title": "The Nutritionist",
           "kind": "episode",
