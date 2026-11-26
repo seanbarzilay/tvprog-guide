@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T12:08:12+02:00",
-  "generated_at_ms": 1795687692288,
+  "generated_at": "2026-11-26T12:38:25+02:00",
+  "generated_at_ms": 1795689505739,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795687692240,
-    "end_ms": 1795860492240,
-    "start": "2026-11-26T12:08:12+02:00",
-    "end": "2026-11-28T12:08:12+02:00"
+    "start_ms": 1795689505694,
+    "end_ms": 1795862305694,
+    "start": "2026-11-26T12:38:25+02:00",
+    "end": "2026-11-28T12:38:25+02:00"
   },
   "channels": [
     {
@@ -139,16 +139,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Male Unbonding",
-          "kind": "episode",
-          "start_ms": 1795687240876,
-          "end_ms": 1795689040876,
-          "start": "2026-11-26T12:00:40+02:00",
-          "end": "2026-11-26T12:30:40+02:00",
-          "show": "Seinfeld",
-          "year": 1990
-        },
         {
           "title": "Seinfeld.S03E03.The.Dog",
           "kind": "episode",
