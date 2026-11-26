@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T03:04:09+02:00",
-  "generated_at_ms": 1795655049746,
+  "generated_at": "2026-11-26T03:34:23+02:00",
+  "generated_at_ms": 1795656863884,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795655049686,
-    "end_ms": 1795827849686,
-    "start": "2026-11-26T03:04:09+02:00",
-    "end": "2026-11-28T03:04:09+02:00"
+    "start_ms": 1795656863823,
+    "end_ms": 1795829663823,
+    "start": "2026-11-26T03:34:23+02:00",
+    "end": "2026-11-28T03:34:23+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Flowers for Elisha",
-          "kind": "episode",
-          "start_ms": 1795654492868,
-          "end_ms": 1795656350694,
-          "start": "2026-11-26T02:54:52+02:00",
-          "end": "2026-11-26T03:25:50+02:00",
-          "show": "Traffic Light",
-          "year": 2011
-        },
         {
           "title": "Genetic counseling",
           "kind": "episode",
@@ -301,15 +291,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Harry Potter and the Prisoner of Azkaban",
-          "kind": "movie",
-          "start_ms": 1795647044576,
-          "end_ms": 1795656805716,
-          "start": "2026-11-26T00:50:44+02:00",
-          "end": "2026-11-26T03:33:25+02:00",
-          "year": 2004
-        },
         {
           "title": "Off air",
           "kind": "off",
