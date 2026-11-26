@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T20:11:45+02:00",
-  "generated_at_ms": 1795716705541,
+  "generated_at": "2026-11-26T20:21:49+02:00",
+  "generated_at_ms": 1795717309748,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795716705479,
-    "end_ms": 1795889505479,
-    "start": "2026-11-26T20:11:45+02:00",
-    "end": "2026-11-28T20:11:45+02:00"
+    "start_ms": 1795717309701,
+    "end_ms": 1795890109701,
+    "start": "2026-11-26T20:21:49+02:00",
+    "end": "2026-11-28T20:21:49+02:00"
   },
   "channels": [
     {
@@ -392,15 +392,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "The Naked Gun 2½: The Smell of Fear",
-          "kind": "movie",
-          "start_ms": 1795716021260,
-          "end_ms": 1795717055939,
-          "start": "2026-11-26T20:00:21+02:00",
-          "end": "2026-11-26T20:17:35+02:00",
-          "year": 1991
-        },
         {
           "title": "Encino Man",
           "kind": "movie",
