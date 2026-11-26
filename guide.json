@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T19:31:28+02:00",
-  "generated_at_ms": 1795714288032,
+  "generated_at": "2026-11-26T19:51:36+02:00",
+  "generated_at_ms": 1795715496739,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795714287981,
-    "end_ms": 1795887087981,
-    "start": "2026-11-26T19:31:27+02:00",
-    "end": "2026-11-28T19:31:27+02:00"
+    "start_ms": 1795715496693,
+    "end_ms": 1795888296693,
+    "start": "2026-11-26T19:51:36+02:00",
+    "end": "2026-11-28T19:51:36+02:00"
   },
   "channels": [
     {
@@ -283,15 +283,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Harry Potter and the Deathly Hallows: Part 1",
-          "kind": "movie",
-          "start_ms": 1795704862168,
-          "end_ms": 1795715099475,
-          "start": "2026-11-26T16:54:22+02:00",
-          "end": "2026-11-26T19:44:59+02:00",
-          "year": 2010
-        },
         {
           "title": "Harry Potter and the Deathly Hallows: Part 2",
           "kind": "movie",
