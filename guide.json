@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T08:06:24+02:00",
-  "generated_at_ms": 1795673184747,
+  "generated_at": "2026-11-26T08:36:38+02:00",
+  "generated_at_ms": 1795674998210,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795673184694,
-    "end_ms": 1795845984694,
-    "start": "2026-11-26T08:06:24+02:00",
-    "end": "2026-11-28T08:06:24+02:00"
+    "start_ms": 1795674998165,
+    "end_ms": 1795847798165,
+    "start": "2026-11-26T08:36:38+02:00",
+    "end": "2026-11-28T08:36:38+02:00"
   },
   "channels": [
     {
@@ -137,16 +137,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Opera",
-          "kind": "episode",
-          "start_ms": 1795672814805,
-          "end_ms": 1795674616207,
-          "start": "2026-11-26T08:00:14+02:00",
-          "end": "2026-11-26T08:30:16+02:00",
-          "show": "Seinfeld",
-          "year": 1992
-        },
         {
           "title": "The Implant",
           "kind": "episode",
