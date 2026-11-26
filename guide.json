@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T15:39:46+02:00",
-  "generated_at_ms": 1795700386250,
+  "generated_at": "2026-11-26T16:09:59+02:00",
+  "generated_at_ms": 1795702199513,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795700386196,
-    "end_ms": 1795873186196,
-    "start": "2026-11-26T15:39:46+02:00",
-    "end": "2026-11-28T15:39:46+02:00"
+    "start_ms": 1795702199458,
+    "end_ms": 1795874999458,
+    "start": "2026-11-26T16:09:59+02:00",
+    "end": "2026-11-28T16:09:59+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Sex Because We Have To",
-          "kind": "episode",
-          "start_ms": 1795698372613,
-          "end_ms": 1795701972613,
-          "start": "2026-11-26T15:06:12+02:00",
-          "end": "2026-11-26T16:06:12+02:00",
-          "show": "Traffic Light",
-          "year": 2014
-        },
         {
           "title": "Bad Luck Hagit",
           "kind": "episode",
@@ -97,11 +87,81 @@
           "title": "Hefer Gets a Degree",
           "kind": "episode",
           "start_ms": 1795727172613,
-          "end_ms": 1795730762613,
+          "end_ms": 1795730772613,
           "start": "2026-11-26T23:06:12+02:00",
-          "end": "2026-11-27T00:06:02+02:00",
+          "end": "2026-11-27T00:06:12+02:00",
           "show": "Traffic Light",
           "year": 2014
+        },
+        {
+          "title": "Yardena's First Birthday",
+          "kind": "episode",
+          "start_ms": 1795730772613,
+          "end_ms": 1795734475109,
+          "start": "2026-11-27T00:06:12+02:00",
+          "end": "2026-11-27T01:07:55+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "Pilot",
+          "kind": "episode",
+          "start_ms": 1795734475109,
+          "end_ms": 1795736275109,
+          "start": "2026-11-27T01:07:55+02:00",
+          "end": "2026-11-27T01:37:55+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "I.M. What I.M.",
+          "kind": "episode",
+          "start_ms": 1795736275109,
+          "end_ms": 1795738075109,
+          "start": "2026-11-27T01:37:55+02:00",
+          "end": "2026-11-27T02:07:55+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "High Crimes",
+          "kind": "episode",
+          "start_ms": 1795738075109,
+          "end_ms": 1795739875109,
+          "start": "2026-11-27T02:07:55+02:00",
+          "end": "2026-11-27T02:37:55+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "Guess Who's Coming to BBQ?",
+          "kind": "episode",
+          "start_ms": 1795739875109,
+          "end_ms": 1795741675109,
+          "start": "2026-11-27T02:37:55+02:00",
+          "end": "2026-11-27T03:07:55+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "Like a Virgin",
+          "kind": "episode",
+          "start_ms": 1795741675109,
+          "end_ms": 1795743480170,
+          "start": "2026-11-27T03:07:55+02:00",
+          "end": "2026-11-27T03:38:00+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "The Bigger They Come",
+          "kind": "episode",
+          "start_ms": 1795743480170,
+          "end_ms": 1795744917953,
+          "start": "2026-11-27T03:38:00+02:00",
+          "end": "2026-11-27T04:01:57+02:00",
+          "show": "The War at Home",
+          "year": 2005
         }
       ]
     },
@@ -109,16 +169,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Smelly Car",
-          "kind": "episode",
-          "start_ms": 1795699840876,
-          "end_ms": 1795701640876,
-          "start": "2026-11-26T15:30:40+02:00",
-          "end": "2026-11-26T16:00:40+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Non-Fat Yogurt",
           "kind": "episode",
@@ -273,11 +323,59 @@
           "title": "The Friars Club",
           "kind": "episode",
           "start_ms": 1795728645916,
-          "end_ms": 1795730430876,
+          "end_ms": 1795730447083,
           "start": "2026-11-26T23:30:45+02:00",
-          "end": "2026-11-27T00:00:30+02:00",
+          "end": "2026-11-27T00:00:47+02:00",
           "show": "Seinfeld",
           "year": 1996
+        },
+        {
+          "title": "Male Unbonding",
+          "kind": "episode",
+          "start_ms": 1795730447083,
+          "end_ms": 1795732240876,
+          "start": "2026-11-27T00:00:47+02:00",
+          "end": "2026-11-27T00:30:40+02:00",
+          "show": "Seinfeld",
+          "year": 1990
+        },
+        {
+          "title": "Seinfeld.S03E03.The.Dog",
+          "kind": "episode",
+          "start_ms": 1795732240876,
+          "end_ms": 1795734160026,
+          "start": "2026-11-27T00:30:40+02:00",
+          "end": "2026-11-27T01:02:40+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Library",
+          "kind": "episode",
+          "start_ms": 1795734160026,
+          "end_ms": 1795735845745,
+          "start": "2026-11-27T01:02:40+02:00",
+          "end": "2026-11-27T01:30:45+02:00",
+          "show": "Seinfeld",
+          "year": 1991
+        },
+        {
+          "title": "The Good Samaritan",
+          "kind": "episode",
+          "start_ms": 1795735845745,
+          "end_ms": 1795737460631,
+          "start": "2026-11-27T01:30:45+02:00",
+          "end": "2026-11-27T01:57:40+02:00",
+          "show": "Seinfeld",
+          "year": 1992
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795737460631,
+          "end_ms": 1795752000000,
+          "start": "2026-11-27T01:57:40+02:00",
+          "end": "2026-11-27T06:00:00+02:00"
         }
       ]
     },
@@ -288,9 +386,9 @@
         {
           "title": "Harry Potter and the Half-Blood Prince",
           "kind": "movie",
-          "start_ms": 1795693947915,
+          "start_ms": 1795701646852,
           "end_ms": 1795704862168,
-          "start": "2026-11-26T13:52:27+02:00",
+          "start": "2026-11-26T16:00:46+02:00",
           "end": "2026-11-26T16:54:22+02:00",
           "year": 2009
         },
@@ -316,10 +414,27 @@
           "title": "Fantastic Beasts and Where to Find Them",
           "kind": "movie",
           "start_ms": 1795724504164,
-          "end_ms": 1795730757267,
+          "end_ms": 1795733892112,
           "start": "2026-11-26T22:21:44+02:00",
-          "end": "2026-11-27T00:05:57+02:00",
+          "end": "2026-11-27T00:58:12+02:00",
           "year": 2016
+        },
+        {
+          "title": "Fantastic Beasts: The Crimes of Grindelwald",
+          "kind": "movie",
+          "start_ms": 1795733892112,
+          "end_ms": 1795743426124,
+          "start": "2026-11-27T00:58:12+02:00",
+          "end": "2026-11-27T03:37:06+02:00",
+          "year": 2018
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795743426124,
+          "end_ms": 1795746600000,
+          "start": "2026-11-27T03:37:06+02:00",
+          "end": "2026-11-27T04:30:00+02:00"
         }
       ]
     },
@@ -330,9 +445,9 @@
         {
           "title": "Problem Child",
           "kind": "movie",
-          "start_ms": 1795699108211,
+          "start_ms": 1795701171878,
           "end_ms": 1795704607604,
-          "start": "2026-11-26T15:18:28+02:00",
+          "start": "2026-11-26T15:52:51+02:00",
           "end": "2026-11-26T16:50:07+02:00",
           "year": 1990
         },
@@ -367,10 +482,28 @@
           "title": "Home Alone 2: Lost in New York",
           "kind": "movie",
           "start_ms": 1795723453812,
-          "end_ms": 1795730484598,
+          "end_ms": 1795731839347,
           "start": "2026-11-26T22:04:13+02:00",
-          "end": "2026-11-27T00:01:24+02:00",
+          "end": "2026-11-27T00:23:59+02:00",
           "year": 1992
+        },
+        {
+          "title": "Naked Gun 33⅓: The Final Insult",
+          "kind": "movie",
+          "start_ms": 1795731839347,
+          "end_ms": 1795737769755,
+          "start": "2026-11-27T00:23:59+02:00",
+          "end": "2026-11-27T02:02:49+02:00",
+          "year": 1994
+        },
+        {
+          "title": "The Mask",
+          "kind": "movie",
+          "start_ms": 1795737769755,
+          "end_ms": 1795744932241,
+          "start": "2026-11-27T02:02:49+02:00",
+          "end": "2026-11-27T04:02:12+02:00",
+          "year": 1994
         }
       ]
     }
