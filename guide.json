@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-26T03:34:23+02:00",
-  "generated_at_ms": 1795656863884,
+  "generated_at": "2026-11-26T04:04:36+02:00",
+  "generated_at_ms": 1795658676763,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795656863823,
-    "end_ms": 1795829663823,
-    "start": "2026-11-26T03:34:23+02:00",
-    "end": "2026-11-28T03:34:23+02:00"
+    "start_ms": 1795658676706,
+    "end_ms": 1795831476706,
+    "start": "2026-11-26T04:04:36+02:00",
+    "end": "2026-11-28T04:04:36+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Genetic counseling",
-          "kind": "episode",
-          "start_ms": 1795656350694,
-          "end_ms": 1795658192379,
-          "start": "2026-11-26T03:25:50+02:00",
-          "end": "2026-11-26T03:56:32+02:00",
-          "show": "Traffic Light",
-          "year": 2011
-        },
         {
           "title": "Won't Let Me Rest",
           "kind": "episode",
@@ -115,9 +105,29 @@
           "title": "Reducing Arrivals",
           "kind": "episode",
           "start_ms": 1795691172613,
-          "end_ms": 1795692511981,
+          "end_ms": 1795694772613,
           "start": "2026-11-26T13:06:12+02:00",
-          "end": "2026-11-26T13:28:31+02:00",
+          "end": "2026-11-26T14:06:12+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "Cigarette Break",
+          "kind": "episode",
+          "start_ms": 1795694772613,
+          "end_ms": 1795698372613,
+          "start": "2026-11-26T14:06:12+02:00",
+          "end": "2026-11-26T15:06:12+02:00",
+          "show": "Traffic Light",
+          "year": 2014
+        },
+        {
+          "title": "Sex Because We Have To",
+          "kind": "episode",
+          "start_ms": 1795698372613,
+          "end_ms": 1795701962613,
+          "start": "2026-11-26T15:06:12+02:00",
+          "end": "2026-11-26T16:06:02+02:00",
           "show": "Traffic Light",
           "year": 2014
         }
@@ -130,9 +140,9 @@
         {
           "title": "Off air",
           "kind": "off",
-          "start_ms": 1795650788207,
+          "start_ms": 1795658400000,
           "end_ms": 1795665610000,
-          "start": "2026-11-26T01:53:08+02:00",
+          "start": "2026-11-26T04:00:00+02:00",
           "end": "2026-11-26T06:00:10+02:00"
         },
         {
@@ -279,11 +289,61 @@
           "title": "The Library",
           "kind": "episode",
           "start_ms": 1795690840876,
-          "end_ms": 1795692210148,
+          "end_ms": 1795692645788,
           "start": "2026-11-26T13:00:40+02:00",
-          "end": "2026-11-26T13:23:30+02:00",
+          "end": "2026-11-26T13:30:45+02:00",
           "show": "Seinfeld",
           "year": 1991
+        },
+        {
+          "title": "The Good Samaritan",
+          "kind": "episode",
+          "start_ms": 1795692645788,
+          "end_ms": 1795694445876,
+          "start": "2026-11-26T13:30:45+02:00",
+          "end": "2026-11-26T14:00:45+02:00",
+          "show": "Seinfeld",
+          "year": 1992
+        },
+        {
+          "title": "The Opera",
+          "kind": "episode",
+          "start_ms": 1795694445876,
+          "end_ms": 1795696240876,
+          "start": "2026-11-26T14:00:45+02:00",
+          "end": "2026-11-26T14:30:40+02:00",
+          "show": "Seinfeld",
+          "year": 1992
+        },
+        {
+          "title": "The Implant",
+          "kind": "episode",
+          "start_ms": 1795696240876,
+          "end_ms": 1795698040876,
+          "start": "2026-11-26T14:30:40+02:00",
+          "end": "2026-11-26T15:00:40+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Junior Mint",
+          "kind": "episode",
+          "start_ms": 1795698040876,
+          "end_ms": 1795699840876,
+          "start": "2026-11-26T15:00:40+02:00",
+          "end": "2026-11-26T15:30:40+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Smelly Car",
+          "kind": "episode",
+          "start_ms": 1795699840876,
+          "end_ms": 1795701630876,
+          "start": "2026-11-26T15:30:40+02:00",
+          "end": "2026-11-26T16:00:30+02:00",
+          "show": "Seinfeld",
+          "year": 1993
         }
       ]
     },
@@ -294,9 +354,9 @@
         {
           "title": "Off air",
           "kind": "off",
-          "start_ms": 1795656805716,
+          "start_ms": 1795658400000,
           "end_ms": 1795672815998,
-          "start": "2026-11-26T03:33:25+02:00",
+          "start": "2026-11-26T04:00:00+02:00",
           "end": "2026-11-26T08:00:15+02:00"
         },
         {
@@ -312,10 +372,19 @@
           "title": "Harry Potter and the Order of the Phoenix",
           "kind": "movie",
           "start_ms": 1795684085739,
-          "end_ms": 1795692387734,
+          "end_ms": 1795693947915,
           "start": "2026-11-26T11:08:05+02:00",
-          "end": "2026-11-26T13:26:27+02:00",
+          "end": "2026-11-26T13:52:27+02:00",
           "year": 2007
+        },
+        {
+          "title": "Harry Potter and the Half-Blood Prince",
+          "kind": "movie",
+          "start_ms": 1795693947915,
+          "end_ms": 1795701646852,
+          "start": "2026-11-26T13:52:27+02:00",
+          "end": "2026-11-26T16:00:46+02:00",
+          "year": 2009
         }
       ]
     },
@@ -323,15 +392,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Top Secret!",
-          "kind": "movie",
-          "start_ms": 1795651178453,
-          "end_ms": 1795658529090,
-          "start": "2026-11-26T01:59:38+02:00",
-          "end": "2026-11-26T04:02:09+02:00",
-          "year": 1984
-        },
         {
           "title": "The Kid",
           "kind": "movie",
@@ -381,9 +441,18 @@
           "title": "Home Alone",
           "kind": "movie",
           "start_ms": 1795691847004,
-          "end_ms": 1795692447004,
+          "end_ms": 1795699108211,
           "start": "2026-11-26T13:17:27+02:00",
-          "end": "2026-11-26T13:27:27+02:00",
+          "end": "2026-11-26T15:18:28+02:00",
+          "year": 1990
+        },
+        {
+          "title": "Problem Child",
+          "kind": "movie",
+          "start_ms": 1795699108211,
+          "end_ms": 1795701771878,
+          "start": "2026-11-26T15:18:28+02:00",
+          "end": "2026-11-26T16:02:51+02:00",
           "year": 1990
         }
       ]
