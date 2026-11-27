@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T16:40:46+02:00",
-  "generated_at_ms": 1795790446994,
+  "generated_at": "2026-11-27T17:00:56+02:00",
+  "generated_at_ms": 1795791656053,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795790446941,
-    "end_ms": 1795963246941,
-    "start": "2026-11-27T16:40:46+02:00",
-    "end": "2026-11-29T16:40:46+02:00"
+    "start_ms": 1795791655991,
+    "end_ms": 1795964455991,
+    "start": "2026-11-27T17:00:55+02:00",
+    "end": "2026-11-29T17:00:55+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Breaking Up Is Hard to Do",
-          "kind": "episode",
-          "start_ms": 1795789810000,
-          "end_ms": 1795791610000,
-          "start": "2026-11-27T16:30:10+02:00",
-          "end": "2026-11-27T17:00:10+02:00",
-          "show": "The War at Home",
-          "year": 2005
-        },
         {
           "title": "It's a Living",
           "kind": "episode",
@@ -259,16 +249,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Masseuse",
-          "kind": "episode",
-          "start_ms": 1795789952901,
-          "end_ms": 1795791610000,
-          "start": "2026-11-27T16:32:32+02:00",
-          "end": "2026-11-27T17:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Stall",
           "kind": "episode",
