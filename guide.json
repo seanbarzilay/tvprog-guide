@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T10:07:54+02:00",
-  "generated_at_ms": 1795766874491,
+  "generated_at": "2026-11-27T10:38:07+02:00",
+  "generated_at_ms": 1795768687991,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795766874438,
-    "end_ms": 1795939674438,
-    "start": "2026-11-27T10:07:54+02:00",
-    "end": "2026-11-29T10:07:54+02:00"
+    "start_ms": 1795768687941,
+    "end_ms": 1795941487941,
+    "start": "2026-11-27T10:38:07+02:00",
+    "end": "2026-11-29T10:38:07+02:00"
   },
   "channels": [
     {
@@ -197,16 +197,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Alternate Side",
-          "kind": "episode",
-          "start_ms": 1795766415069,
-          "end_ms": 1795768210000,
-          "start": "2026-11-27T10:00:15+02:00",
-          "end": "2026-11-27T10:30:10+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "The Pez Dispenser",
           "kind": "episode",
