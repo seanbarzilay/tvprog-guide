@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T15:30:16+02:00",
-  "generated_at_ms": 1795786216278,
+  "generated_at": "2026-11-27T15:40:20+02:00",
+  "generated_at_ms": 1795786820486,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795786216200,
-    "end_ms": 1795959016200,
-    "start": "2026-11-27T15:30:16+02:00",
-    "end": "2026-11-29T15:30:16+02:00"
+    "start_ms": 1795786820437,
+    "end_ms": 1795959620437,
+    "start": "2026-11-27T15:40:20+02:00",
+    "end": "2026-11-29T15:40:20+02:00"
   },
   "channels": [
     {
@@ -199,16 +199,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Seinfeld.S05E01.The.Mango",
-          "kind": "episode",
-          "start_ms": 1795784410000,
-          "end_ms": 1795786269822,
-          "start": "2026-11-27T15:00:10+02:00",
-          "end": "2026-11-27T15:31:09+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
         {
           "title": "Seinfeld.S05E02.The.Glasses",
           "kind": "episode",
