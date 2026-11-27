@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T17:00:56+02:00",
-  "generated_at_ms": 1795791656053,
+  "generated_at": "2026-11-27T17:11:00+02:00",
+  "generated_at_ms": 1795792260618,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795791655991,
-    "end_ms": 1795964455991,
-    "start": "2026-11-27T17:00:55+02:00",
-    "end": "2026-11-29T17:00:55+02:00"
+    "start_ms": 1795792260544,
+    "end_ms": 1795965060544,
+    "start": "2026-11-27T17:11:00+02:00",
+    "end": "2026-11-29T17:11:00+02:00"
   },
   "channels": [
     {
@@ -484,15 +484,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "The Nutty Professor",
-          "kind": "movie",
-          "start_ms": 1795787552772,
-          "end_ms": 1795792096053,
-          "start": "2026-11-27T15:52:32+02:00",
-          "end": "2026-11-27T17:08:16+02:00",
-          "year": 1996
-        },
         {
           "title": "Austin Powers: International Man of Mystery",
           "kind": "movie",
