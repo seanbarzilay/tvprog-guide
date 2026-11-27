@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T04:45:31+02:00",
-  "generated_at_ms": 1795747531979,
+  "generated_at": "2026-11-27T05:15:45+02:00",
+  "generated_at_ms": 1795749345236,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795747531934,
-    "end_ms": 1795920331934,
-    "start": "2026-11-27T04:45:31+02:00",
-    "end": "2026-11-29T04:45:31+02:00"
+    "start_ms": 1795749345188,
+    "end_ms": 1795922145188,
+    "start": "2026-11-27T05:15:45+02:00",
+    "end": "2026-11-29T05:15:45+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "The Empire Spanks Back",
-          "kind": "episode",
-          "start_ms": 1795747075109,
-          "end_ms": 1795748880085,
-          "start": "2026-11-27T04:37:55+02:00",
-          "end": "2026-11-27T05:08:00+02:00",
-          "show": "The War at Home",
-          "year": 2005
-        },
         {
           "title": "Dave Get Your Gun",
           "kind": "episode",
