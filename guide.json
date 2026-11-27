@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T14:09:38+02:00",
-  "generated_at_ms": 1795781378242,
+  "generated_at": "2026-11-27T14:39:54+02:00",
+  "generated_at_ms": 1795783194260,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795781378186,
-    "end_ms": 1795954178186,
-    "start": "2026-11-27T14:09:38+02:00",
-    "end": "2026-11-29T14:09:38+02:00"
+    "start_ms": 1795783194199,
+    "end_ms": 1795955994199,
+    "start": "2026-11-27T14:39:54+02:00",
+    "end": "2026-11-29T14:39:54+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Like a Virgin",
-          "kind": "episode",
-          "start_ms": 1795780830603,
-          "end_ms": 1795782610000,
-          "start": "2026-11-27T14:00:30+02:00",
-          "end": "2026-11-27T14:30:10+02:00",
-          "show": "The War at Home",
-          "year": 2005
-        },
         {
           "title": "The Bigger They Come",
           "kind": "episode",
@@ -229,16 +219,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Visa",
-          "kind": "episode",
-          "start_ms": 1795780815046,
-          "end_ms": 1795782630000,
-          "start": "2026-11-27T14:00:15+02:00",
-          "end": "2026-11-27T14:30:30+02:00",
-          "show": "Seinfeld",
-          "year": 1993
-        },
         {
           "title": "The Junior Mint",
           "kind": "episode",
