@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T07:06:34+02:00",
-  "generated_at_ms": 1795755994249,
+  "generated_at": "2026-11-27T07:36:47+02:00",
+  "generated_at_ms": 1795757807484,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795755994200,
-    "end_ms": 1795928794200,
-    "start": "2026-11-27T07:06:34+02:00",
-    "end": "2026-11-29T07:06:34+02:00"
+    "start_ms": 1795757807439,
+    "end_ms": 1795930607439,
+    "start": "2026-11-27T07:36:47+02:00",
+    "end": "2026-11-29T07:36:47+02:00"
   },
   "channels": [
     {
@@ -117,16 +117,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Phone Message",
-          "kind": "episode",
-          "start_ms": 1795755610000,
-          "end_ms": 1795757545729,
-          "start": "2026-11-27T07:00:10+02:00",
-          "end": "2026-11-27T07:32:25+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "The Statue",
           "kind": "episode",
