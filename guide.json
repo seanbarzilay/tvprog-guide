@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T02:44:38+02:00",
-  "generated_at_ms": 1795740278527,
+  "generated_at": "2026-11-27T03:14:48+02:00",
+  "generated_at_ms": 1795742088887,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795740278161,
-    "end_ms": 1795913078161,
-    "start": "2026-11-27T02:44:38+02:00",
-    "end": "2026-11-29T02:44:38+02:00"
+    "start_ms": 1795742088832,
+    "end_ms": 1795914888832,
+    "start": "2026-11-27T03:14:48+02:00",
+    "end": "2026-11-29T03:14:48+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Guess Who's Coming to BBQ?",
-          "kind": "episode",
-          "start_ms": 1795739875109,
-          "end_ms": 1795741675109,
-          "start": "2026-11-27T02:37:55+02:00",
-          "end": "2026-11-27T03:07:55+02:00",
-          "show": "The War at Home",
-          "year": 2005
-        },
         {
           "title": "Like a Virgin",
           "kind": "episode",
