@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T10:38:07+02:00",
-  "generated_at_ms": 1795768687991,
+  "generated_at": "2026-11-27T11:08:21+02:00",
+  "generated_at_ms": 1795770501249,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795768687941,
-    "end_ms": 1795941487941,
-    "start": "2026-11-27T10:38:07+02:00",
-    "end": "2026-11-29T10:38:07+02:00"
+    "start_ms": 1795770501199,
+    "end_ms": 1795943301199,
+    "start": "2026-11-27T11:08:21+02:00",
+    "end": "2026-11-29T11:08:21+02:00"
   },
   "channels": [
     {
@@ -197,16 +197,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Pez Dispenser",
-          "kind": "episode",
-          "start_ms": 1795768210000,
-          "end_ms": 1795770010000,
-          "start": "2026-11-27T10:30:10+02:00",
-          "end": "2026-11-27T11:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 1992
-        },
         {
           "title": "The Boyfriend (1)",
           "kind": "episode",
