@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T18:01:23+02:00",
-  "generated_at_ms": 1795795283084,
+  "generated_at": "2026-11-27T18:31:36+02:00",
+  "generated_at_ms": 1795797096518,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795795283023,
-    "end_ms": 1795968083023,
-    "start": "2026-11-27T18:01:23+02:00",
-    "end": "2026-11-29T18:01:23+02:00"
+    "start_ms": 1795797096462,
+    "end_ms": 1795969896462,
+    "start": "2026-11-27T18:31:36+02:00",
+    "end": "2026-11-29T18:31:36+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Three's Company",
-          "kind": "episode",
-          "start_ms": 1795795210000,
-          "end_ms": 1795797010000,
-          "start": "2026-11-27T18:00:10+02:00",
-          "end": "2026-11-27T18:30:10+02:00",
-          "show": "The War at Home",
-          "year": 2006
-        },
         {
           "title": "How Do You Spell Relief?",
           "kind": "episode",
