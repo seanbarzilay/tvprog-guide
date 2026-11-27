@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T09:37:38+02:00",
-  "generated_at_ms": 1795765058221,
+  "generated_at": "2026-11-27T09:47:45+02:00",
+  "generated_at_ms": 1795765665484,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795765058164,
-    "end_ms": 1795937858164,
-    "start": "2026-11-27T09:37:38+02:00",
-    "end": "2026-11-29T09:37:38+02:00"
+    "start_ms": 1795765665437,
+    "end_ms": 1795938465437,
+    "start": "2026-11-27T09:47:45+02:00",
+    "end": "2026-11-29T09:47:45+02:00"
   },
   "channels": [
     {
@@ -473,15 +473,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Dracula: Dead and Loving It",
-          "kind": "movie",
-          "start_ms": 1795759214933,
-          "end_ms": 1795765514917,
-          "start": "2026-11-27T08:00:14+02:00",
-          "end": "2026-11-27T09:45:14+02:00",
-          "year": 1995
-        },
         {
           "title": "Happy Gilmore",
           "kind": "movie",
