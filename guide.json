@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T03:45:05+02:00",
-  "generated_at_ms": 1795743905483,
+  "generated_at": "2026-11-27T04:05:14+02:00",
+  "generated_at_ms": 1795745114494,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795743905442,
-    "end_ms": 1795916705442,
-    "start": "2026-11-27T03:45:05+02:00",
-    "end": "2026-11-29T03:45:05+02:00"
+    "start_ms": 1795745114440,
+    "end_ms": 1795917914440,
+    "start": "2026-11-27T04:05:14+02:00",
+    "end": "2026-11-29T04:05:14+02:00"
   },
   "channels": [
     {
@@ -16,9 +16,9 @@
         {
           "title": "The Bigger They Come",
           "kind": "episode",
-          "start_ms": 1795743480170,
+          "start_ms": 1795744228417,
           "end_ms": 1795745275109,
-          "start": "2026-11-27T03:38:00+02:00",
+          "start": "2026-11-27T03:50:28+02:00",
           "end": "2026-11-27T04:07:55+02:00",
           "show": "The War at Home",
           "year": 2005
@@ -75,9 +75,89 @@
           "title": "Pilot",
           "kind": "episode",
           "start_ms": 1795773615061,
-          "end_ms": 1795774215061,
+          "end_ms": 1795775410000,
           "start": "2026-11-27T12:00:15+02:00",
-          "end": "2026-11-27T12:10:15+02:00",
+          "end": "2026-11-27T12:30:10+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "I.M. What I.M.",
+          "kind": "episode",
+          "start_ms": 1795775410000,
+          "end_ms": 1795777210000,
+          "start": "2026-11-27T12:30:10+02:00",
+          "end": "2026-11-27T13:00:10+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "High Crimes",
+          "kind": "episode",
+          "start_ms": 1795777210000,
+          "end_ms": 1795779015139,
+          "start": "2026-11-27T13:00:10+02:00",
+          "end": "2026-11-27T13:30:15+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "Guess Who's Coming to BBQ?",
+          "kind": "episode",
+          "start_ms": 1795779015139,
+          "end_ms": 1795780830603,
+          "start": "2026-11-27T13:30:15+02:00",
+          "end": "2026-11-27T14:00:30+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "Like a Virgin",
+          "kind": "episode",
+          "start_ms": 1795780830603,
+          "end_ms": 1795782610000,
+          "start": "2026-11-27T14:00:30+02:00",
+          "end": "2026-11-27T14:30:10+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "The Bigger They Come",
+          "kind": "episode",
+          "start_ms": 1795782610000,
+          "end_ms": 1795784414933,
+          "start": "2026-11-27T14:30:10+02:00",
+          "end": "2026-11-27T15:00:14+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "Cheers",
+          "kind": "episode",
+          "start_ms": 1795784414933,
+          "end_ms": 1795786215000,
+          "start": "2026-11-27T15:00:14+02:00",
+          "end": "2026-11-27T15:30:15+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "The Empire Spanks Back",
+          "kind": "episode",
+          "start_ms": 1795786215000,
+          "end_ms": 1795788015998,
+          "start": "2026-11-27T15:30:15+02:00",
+          "end": "2026-11-27T16:00:15+02:00",
+          "show": "The War at Home",
+          "year": 2005
+        },
+        {
+          "title": "Dave Get Your Gun",
+          "kind": "episode",
+          "start_ms": 1795788015998,
+          "end_ms": 1795788615998,
+          "start": "2026-11-27T16:00:15+02:00",
+          "end": "2026-11-27T16:10:15+02:00",
           "show": "The War at Home",
           "year": 2005
         }
@@ -90,9 +170,9 @@
         {
           "title": "Off air",
           "kind": "off",
-          "start_ms": 1795737460631,
+          "start_ms": 1795744800000,
           "end_ms": 1795752010000,
-          "start": "2026-11-27T01:57:40+02:00",
+          "start": "2026-11-27T04:00:00+02:00",
           "end": "2026-11-27T06:00:10+02:00"
         },
         {
@@ -219,11 +299,91 @@
           "title": "The Letter",
           "kind": "episode",
           "start_ms": 1795773610000,
-          "end_ms": 1795774210000,
+          "end_ms": 1795775552108,
           "start": "2026-11-27T12:00:10+02:00",
-          "end": "2026-11-27T12:10:10+02:00",
+          "end": "2026-11-27T12:32:32+02:00",
           "show": "Seinfeld",
           "year": 1992
+        },
+        {
+          "title": "Seinfeld.S04E05.The.Wallet",
+          "kind": "episode",
+          "start_ms": 1795775552108,
+          "end_ms": 1795777210000,
+          "start": "2026-11-27T12:32:32+02:00",
+          "end": "2026-11-27T13:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Watch",
+          "kind": "episode",
+          "start_ms": 1795777210000,
+          "end_ms": 1795779014549,
+          "start": "2026-11-27T13:00:10+02:00",
+          "end": "2026-11-27T13:30:14+02:00",
+          "show": "Seinfeld",
+          "year": 1992
+        },
+        {
+          "title": "The Opera",
+          "kind": "episode",
+          "start_ms": 1795779014549,
+          "end_ms": 1795780815046,
+          "start": "2026-11-27T13:30:14+02:00",
+          "end": "2026-11-27T14:00:15+02:00",
+          "show": "Seinfeld",
+          "year": 1992
+        },
+        {
+          "title": "The Visa",
+          "kind": "episode",
+          "start_ms": 1795780815046,
+          "end_ms": 1795782630000,
+          "start": "2026-11-27T14:00:15+02:00",
+          "end": "2026-11-27T14:30:30+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "The Junior Mint",
+          "kind": "episode",
+          "start_ms": 1795782630000,
+          "end_ms": 1795784410000,
+          "start": "2026-11-27T14:30:30+02:00",
+          "end": "2026-11-27T15:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 1993
+        },
+        {
+          "title": "Seinfeld.S05E01.The.Mango",
+          "kind": "episode",
+          "start_ms": 1795784410000,
+          "end_ms": 1795786269822,
+          "start": "2026-11-27T15:00:10+02:00",
+          "end": "2026-11-27T15:31:09+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "Seinfeld.S05E02.The.Glasses",
+          "kind": "episode",
+          "start_ms": 1795786269822,
+          "end_ms": 1795788010000,
+          "start": "2026-11-27T15:31:09+02:00",
+          "end": "2026-11-27T16:00:10+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "Seinfeld.S05E04.The.Sniffing.Accountant",
+          "kind": "episode",
+          "start_ms": 1795788010000,
+          "end_ms": 1795788610000,
+          "start": "2026-11-27T16:00:10+02:00",
+          "end": "2026-11-27T16:10:10+02:00",
+          "show": "Seinfeld",
+          "year": 2007
         }
       ]
     },
@@ -234,19 +394,28 @@
         {
           "title": "Off air",
           "kind": "off",
-          "start_ms": 1795743426124,
+          "start_ms": 1795744800000,
           "end_ms": 1795766445061,
-          "start": "2026-11-27T03:37:06+02:00",
+          "start": "2026-11-27T04:00:00+02:00",
           "end": "2026-11-27T10:00:45+02:00"
         },
         {
           "title": "Harry Potter and the Philosopher's Stone",
           "kind": "movie",
           "start_ms": 1795766445061,
-          "end_ms": 1795774112811,
+          "end_ms": 1795777214976,
           "start": "2026-11-27T10:00:45+02:00",
-          "end": "2026-11-27T12:08:32+02:00",
+          "end": "2026-11-27T13:00:14+02:00",
           "year": 2001
+        },
+        {
+          "title": "Harry Potter and the Chamber of Secrets",
+          "kind": "movie",
+          "start_ms": 1795777214976,
+          "end_ms": 1795788339108,
+          "start": "2026-11-27T13:00:14+02:00",
+          "end": "2026-11-27T16:05:39+02:00",
+          "year": 2002
         }
       ]
     },
@@ -254,15 +423,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "The Mask",
-          "kind": "movie",
-          "start_ms": 1795737769755,
-          "end_ms": 1795744932241,
-          "start": "2026-11-27T02:02:49+02:00",
-          "end": "2026-11-27T04:02:12+02:00",
-          "year": 1994
-        },
         {
           "title": "A Shot in the Dark",
           "kind": "movie",
@@ -303,9 +463,27 @@
           "title": "Kingpin",
           "kind": "movie",
           "start_ms": 1795771803991,
-          "end_ms": 1795773747671,
+          "end_ms": 1795779803146,
           "start": "2026-11-27T11:30:03+02:00",
-          "end": "2026-11-27T12:02:27+02:00",
+          "end": "2026-11-27T13:43:23+02:00",
+          "year": 1996
+        },
+        {
+          "title": "Spy Hard",
+          "kind": "movie",
+          "start_ms": 1795779803146,
+          "end_ms": 1795785416390,
+          "start": "2026-11-27T13:43:23+02:00",
+          "end": "2026-11-27T15:16:56+02:00",
+          "year": 1996
+        },
+        {
+          "title": "The Nutty Professor",
+          "kind": "movie",
+          "start_ms": 1795785416390,
+          "end_ms": 1795788152772,
+          "start": "2026-11-27T15:16:56+02:00",
+          "end": "2026-11-27T16:02:32+02:00",
           "year": 1996
         }
       ]
