@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T11:08:21+02:00",
-  "generated_at_ms": 1795770501249,
+  "generated_at": "2026-11-27T11:38:34+02:00",
+  "generated_at_ms": 1795772314743,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795770501199,
-    "end_ms": 1795943301199,
-    "start": "2026-11-27T11:08:21+02:00",
-    "end": "2026-11-29T11:08:21+02:00"
+    "start_ms": 1795772314686,
+    "end_ms": 1795945114686,
+    "start": "2026-11-27T11:38:34+02:00",
+    "end": "2026-11-29T11:38:34+02:00"
   },
   "channels": [
     {
@@ -197,16 +197,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Boyfriend (1)",
-          "kind": "episode",
-          "start_ms": 1795770010000,
-          "end_ms": 1795771810000,
-          "start": "2026-11-27T11:00:10+02:00",
-          "end": "2026-11-27T11:30:10+02:00",
-          "show": "Seinfeld",
-          "year": 1992
-        },
         {
           "title": "The Boyfriend (2)",
           "kind": "episode",
@@ -435,15 +425,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Happy Gilmore",
-          "kind": "movie",
-          "start_ms": 1795765514917,
-          "end_ms": 1795771803991,
-          "start": "2026-11-27T09:45:14+02:00",
-          "end": "2026-11-27T11:30:03+02:00",
-          "year": 1996
-        },
         {
           "title": "Kingpin",
           "kind": "movie",
