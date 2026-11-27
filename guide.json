@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T13:39:27+02:00",
-  "generated_at_ms": 1795779567755,
+  "generated_at": "2026-11-27T13:49:31+02:00",
+  "generated_at_ms": 1795780171993,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795779567705,
-    "end_ms": 1795952367705,
-    "start": "2026-11-27T13:39:27+02:00",
-    "end": "2026-11-29T13:39:27+02:00"
+    "start_ms": 1795780171940,
+    "end_ms": 1795952971940,
+    "start": "2026-11-27T13:49:31+02:00",
+    "end": "2026-11-29T13:49:31+02:00"
   },
   "channels": [
     {
@@ -507,15 +507,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Kingpin",
-          "kind": "movie",
-          "start_ms": 1795773147671,
-          "end_ms": 1795779803146,
-          "start": "2026-11-27T11:52:27+02:00",
-          "end": "2026-11-27T13:43:23+02:00",
-          "year": 1996
-        },
         {
           "title": "Spy Hard",
           "kind": "movie",
