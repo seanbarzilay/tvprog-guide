@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T04:05:14+02:00",
-  "generated_at_ms": 1795745114494,
+  "generated_at": "2026-11-27T04:15:18+02:00",
+  "generated_at_ms": 1795745718798,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795745114440,
-    "end_ms": 1795917914440,
-    "start": "2026-11-27T04:05:14+02:00",
-    "end": "2026-11-29T04:05:14+02:00"
+    "start_ms": 1795745718748,
+    "end_ms": 1795918518748,
+    "start": "2026-11-27T04:15:18+02:00",
+    "end": "2026-11-29T04:15:18+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "The Bigger They Come",
-          "kind": "episode",
-          "start_ms": 1795744228417,
-          "end_ms": 1795745275109,
-          "start": "2026-11-27T03:50:28+02:00",
-          "end": "2026-11-27T04:07:55+02:00",
-          "show": "The War at Home",
-          "year": 2005
-        },
         {
           "title": "Cheers",
           "kind": "episode",
