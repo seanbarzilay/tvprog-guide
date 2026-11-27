@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T18:41:38+02:00",
-  "generated_at_ms": 1795797698229,
+  "generated_at": "2026-11-27T18:51:45+02:00",
+  "generated_at_ms": 1795798305253,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795797698175,
-    "end_ms": 1795970498175,
-    "start": "2026-11-27T18:41:38+02:00",
-    "end": "2026-11-29T18:41:38+02:00"
+    "start_ms": 1795798305196,
+    "end_ms": 1795971105196,
+    "start": "2026-11-27T18:51:45+02:00",
+    "end": "2026-11-29T18:51:45+02:00"
   },
   "channels": [
     {
@@ -373,15 +373,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Harry Potter and the Prisoner of Azkaban",
-          "kind": "movie",
-          "start_ms": 1795788476220,
-          "end_ms": 1795798283260,
-          "start": "2026-11-27T16:07:56+02:00",
-          "end": "2026-11-27T18:51:23+02:00",
-          "year": 2004
-        },
         {
           "title": "Harry Potter and the Goblet of Fire",
           "kind": "movie",
