@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T09:47:45+02:00",
-  "generated_at_ms": 1795765665484,
+  "generated_at": "2026-11-27T10:07:54+02:00",
+  "generated_at_ms": 1795766874491,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795765665437,
-    "end_ms": 1795938465437,
-    "start": "2026-11-27T09:47:45+02:00",
-    "end": "2026-11-29T09:47:45+02:00"
+    "start_ms": 1795766874438,
+    "end_ms": 1795939674438,
+    "start": "2026-11-27T10:07:54+02:00",
+    "end": "2026-11-29T10:07:54+02:00"
   },
   "channels": [
     {
@@ -197,16 +197,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Nose Job",
-          "kind": "episode",
-          "start_ms": 1795764614933,
-          "end_ms": 1795766415069,
-          "start": "2026-11-27T09:30:14+02:00",
-          "end": "2026-11-27T10:00:15+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "The Alternate Side",
           "kind": "episode",
@@ -423,14 +413,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Off air",
-          "kind": "off",
-          "start_ms": 1795759200000,
-          "end_ms": 1795766445061,
-          "start": "2026-11-27T08:00:00+02:00",
-          "end": "2026-11-27T10:00:45+02:00"
-        },
         {
           "title": "Harry Potter and the Philosopher's Stone",
           "kind": "movie",
