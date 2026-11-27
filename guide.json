@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T12:39:01+02:00",
-  "generated_at_ms": 1795775941251,
+  "generated_at": "2026-11-27T13:09:14+02:00",
+  "generated_at_ms": 1795777754509,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795775941188,
-    "end_ms": 1795948741188,
-    "start": "2026-11-27T12:39:01+02:00",
-    "end": "2026-11-29T12:39:01+02:00"
+    "start_ms": 1795777754452,
+    "end_ms": 1795950554452,
+    "start": "2026-11-27T13:09:14+02:00",
+    "end": "2026-11-29T13:09:14+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "I.M. What I.M.",
-          "kind": "episode",
-          "start_ms": 1795775410000,
-          "end_ms": 1795777210000,
-          "start": "2026-11-27T12:30:10+02:00",
-          "end": "2026-11-27T13:00:10+02:00",
-          "show": "The War at Home",
-          "year": 2005
-        },
         {
           "title": "High Crimes",
           "kind": "episode",
@@ -260,16 +250,6 @@
       "name": "Seinfeld (JP CMs)",
       "programs": [
         {
-          "title": "Seinfeld.S04E05.The.Wallet",
-          "kind": "episode",
-          "start_ms": 1795775552108,
-          "end_ms": 1795777210000,
-          "start": "2026-11-27T12:32:32+02:00",
-          "end": "2026-11-27T13:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
-        {
           "title": "The Watch",
           "kind": "episode",
           "start_ms": 1795777210000,
@@ -505,15 +485,6 @@
       "number": 123,
       "name": "Harry Potter",
       "programs": [
-        {
-          "title": "Harry Potter and the Philosopher's Stone",
-          "kind": "movie",
-          "start_ms": 1795773512811,
-          "end_ms": 1795777214976,
-          "start": "2026-11-27T11:58:32+02:00",
-          "end": "2026-11-27T13:00:14+02:00",
-          "year": 2001
-        },
         {
           "title": "Harry Potter and the Chamber of Secrets",
           "kind": "movie",
