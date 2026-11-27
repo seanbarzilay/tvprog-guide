@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T17:31:09+02:00",
-  "generated_at_ms": 1795793469488,
+  "generated_at": "2026-11-27T18:01:23+02:00",
+  "generated_at_ms": 1795795283084,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795793469435,
-    "end_ms": 1795966269435,
-    "start": "2026-11-27T17:31:09+02:00",
-    "end": "2026-11-29T17:31:09+02:00"
+    "start_ms": 1795795283023,
+    "end_ms": 1795968083023,
+    "start": "2026-11-27T18:01:23+02:00",
+    "end": "2026-11-29T18:01:23+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Gimme A Break",
-          "kind": "episode",
-          "start_ms": 1795793414933,
-          "end_ms": 1795795210000,
-          "start": "2026-11-27T17:30:14+02:00",
-          "end": "2026-11-27T18:00:10+02:00",
-          "show": "The War at Home",
-          "year": 2006
-        },
         {
           "title": "Three's Company",
           "kind": "episode",
@@ -239,16 +229,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Pie",
-          "kind": "episode",
-          "start_ms": 1795793410000,
-          "end_ms": 1795795214914,
-          "start": "2026-11-27T17:30:10+02:00",
-          "end": "2026-11-27T18:00:14+02:00",
-          "show": "Seinfeld",
-          "year": 1994
-        },
         {
           "title": "The Stand-In",
           "kind": "episode",
