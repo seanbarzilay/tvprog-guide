@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T12:08:48+02:00",
-  "generated_at_ms": 1795774128001,
+  "generated_at": "2026-11-27T12:39:01+02:00",
+  "generated_at_ms": 1795775941251,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795774127942,
-    "end_ms": 1795946927942,
-    "start": "2026-11-27T12:08:47+02:00",
-    "end": "2026-11-29T12:08:47+02:00"
+    "start_ms": 1795775941188,
+    "end_ms": 1795948741188,
+    "start": "2026-11-27T12:39:01+02:00",
+    "end": "2026-11-29T12:39:01+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Pilot",
-          "kind": "episode",
-          "start_ms": 1795773615061,
-          "end_ms": 1795775410000,
-          "start": "2026-11-27T12:00:15+02:00",
-          "end": "2026-11-27T12:30:10+02:00",
-          "show": "The War at Home",
-          "year": 2005
-        },
         {
           "title": "I.M. What I.M.",
           "kind": "episode",
@@ -269,16 +259,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Letter",
-          "kind": "episode",
-          "start_ms": 1795773610000,
-          "end_ms": 1795775552108,
-          "start": "2026-11-27T12:00:10+02:00",
-          "end": "2026-11-27T12:32:32+02:00",
-          "show": "Seinfeld",
-          "year": 1992
-        },
         {
           "title": "Seinfeld.S04E05.The.Wallet",
           "kind": "episode",
