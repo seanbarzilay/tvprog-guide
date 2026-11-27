@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T05:15:45+02:00",
-  "generated_at_ms": 1795749345236,
+  "generated_at": "2026-11-27T05:45:58+02:00",
+  "generated_at_ms": 1795751158483,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795749345188,
-    "end_ms": 1795922145188,
-    "start": "2026-11-27T05:15:45+02:00",
-    "end": "2026-11-29T05:15:45+02:00"
+    "start_ms": 1795751158436,
+    "end_ms": 1795923958436,
+    "start": "2026-11-27T05:45:58+02:00",
+    "end": "2026-11-29T05:45:58+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Dave Get Your Gun",
-          "kind": "episode",
-          "start_ms": 1795748880085,
-          "end_ms": 1795750570260,
-          "start": "2026-11-27T05:08:00+02:00",
-          "end": "2026-11-27T05:36:10+02:00",
-          "show": "The War at Home",
-          "year": 2005
-        },
         {
           "title": "Breaking Up Is Hard to Do",
           "kind": "episode",
