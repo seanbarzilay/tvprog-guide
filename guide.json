@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T05:45:58+02:00",
-  "generated_at_ms": 1795751158483,
+  "generated_at": "2026-11-27T06:06:07+02:00",
+  "generated_at_ms": 1795752367487,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795751158436,
-    "end_ms": 1795923958436,
-    "start": "2026-11-27T05:45:58+02:00",
-    "end": "2026-11-29T05:45:58+02:00"
+    "start_ms": 1795752367434,
+    "end_ms": 1795925167434,
+    "start": "2026-11-27T06:06:07+02:00",
+    "end": "2026-11-29T06:06:07+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Breaking Up Is Hard to Do",
-          "kind": "episode",
-          "start_ms": 1795750570260,
-          "end_ms": 1795752010000,
-          "start": "2026-11-27T05:36:10+02:00",
-          "end": "2026-11-27T06:00:10+02:00",
-          "show": "The War at Home",
-          "year": 2005
-        },
         {
           "title": "Off air",
           "kind": "off",
@@ -127,14 +117,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Off air",
-          "kind": "off",
-          "start_ms": 1795744800000,
-          "end_ms": 1795752010000,
-          "start": "2026-11-27T04:00:00+02:00",
-          "end": "2026-11-27T06:00:10+02:00"
-        },
         {
           "title": "The Stock Tip",
           "kind": "episode",
@@ -383,15 +365,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "A Shot in the Dark",
-          "kind": "movie",
-          "start_ms": 1795744932241,
-          "end_ms": 1795752110855,
-          "start": "2026-11-27T04:02:12+02:00",
-          "end": "2026-11-27T06:01:50+02:00",
-          "year": 1964
-        },
         {
           "title": "The Return of the Pink Panther",
           "kind": "movie",
