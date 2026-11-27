@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T08:07:00+02:00",
-  "generated_at_ms": 1795759620991,
+  "generated_at": "2026-11-27T08:37:14+02:00",
+  "generated_at_ms": 1795761434246,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795759620936,
-    "end_ms": 1795932420936,
-    "start": "2026-11-27T08:07:00+02:00",
-    "end": "2026-11-29T08:07:00+02:00"
+    "start_ms": 1795761434185,
+    "end_ms": 1795934234185,
+    "start": "2026-11-27T08:37:14+02:00",
+    "end": "2026-11-29T08:37:14+02:00"
   },
   "channels": [
     {
@@ -197,16 +197,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Deal",
-          "kind": "episode",
-          "start_ms": 1795759229744,
-          "end_ms": 1795761014976,
-          "start": "2026-11-27T08:00:29+02:00",
-          "end": "2026-11-27T08:30:14+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "The Baby Shower",
           "kind": "episode",
