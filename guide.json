@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-27T18:51:45+02:00",
-  "generated_at_ms": 1795798305253,
+  "generated_at": "2026-11-27T19:01:49+02:00",
+  "generated_at_ms": 1795798909493,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795798305196,
-    "end_ms": 1795971105196,
-    "start": "2026-11-27T18:51:45+02:00",
-    "end": "2026-11-29T18:51:45+02:00"
+    "start_ms": 1795798909440,
+    "end_ms": 1795971709440,
+    "start": "2026-11-27T19:01:49+02:00",
+    "end": "2026-11-29T19:01:49+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "How Do You Spell Relief?",
-          "kind": "episode",
-          "start_ms": 1795797010000,
-          "end_ms": 1795798810000,
-          "start": "2026-11-27T18:30:10+02:00",
-          "end": "2026-11-27T19:00:10+02:00",
-          "show": "The War at Home",
-          "year": 2006
-        },
         {
           "title": "Looney Tunes",
           "kind": "episode",
@@ -220,16 +210,6 @@
       "name": "Seinfeld (JP CMs)",
       "programs": [
         {
-          "title": "The Wife",
-          "kind": "episode",
-          "start_ms": 1795797130701,
-          "end_ms": 1795798810000,
-          "start": "2026-11-27T18:32:10+02:00",
-          "end": "2026-11-27T19:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 1994
-        },
-        {
           "title": "The Hamptons",
           "kind": "episode",
           "start_ms": 1795798810000,
@@ -415,15 +395,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "Austin Powers: International Man of Mystery",
-          "kind": "movie",
-          "start_ms": 1795792096053,
-          "end_ms": 1795798407819,
-          "start": "2026-11-27T17:08:16+02:00",
-          "end": "2026-11-27T18:53:27+02:00",
-          "year": 1997
-        },
         {
           "title": "The Waterboy",
           "kind": "movie",
