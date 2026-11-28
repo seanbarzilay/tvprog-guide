@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-28T21:11:28+02:00",
-  "generated_at_ms": 1795893088736,
+  "generated_at": "2026-11-28T21:31:37+02:00",
+  "generated_at_ms": 1795894297368,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795893088546,
-    "end_ms": 1796065888546,
-    "start": "2026-11-28T21:11:28+02:00",
-    "end": "2026-11-30T21:11:28+02:00"
+    "start_ms": 1795894297317,
+    "end_ms": 1796067097317,
+    "start": "2026-11-28T21:31:37+02:00",
+    "end": "2026-11-30T21:31:37+02:00"
   },
   "channels": [
     {
@@ -229,16 +229,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Andrea Doria",
-          "kind": "episode",
-          "start_ms": 1795892429888,
-          "end_ms": 1795894230743,
-          "start": "2026-11-28T21:00:29+02:00",
-          "end": "2026-11-28T21:30:30+02:00",
-          "show": "Seinfeld",
-          "year": 1996
-        },
         {
           "title": "Seinfeld.S09E12.The.Reverse.People",
           "kind": "episode",
