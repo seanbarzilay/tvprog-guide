@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-28T13:45:05+02:00",
-  "generated_at_ms": 1795866305916,
+  "generated_at": "2026-11-28T14:05:45+02:00",
+  "generated_at_ms": 1795867545835,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795866305849,
-    "end_ms": 1796039105849,
-    "start": "2026-11-28T13:45:05+02:00",
-    "end": "2026-11-30T13:45:05+02:00"
+    "start_ms": 1795867545776,
+    "end_ms": 1796040345776,
+    "start": "2026-11-28T14:05:45+02:00",
+    "end": "2026-11-30T14:05:45+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "The Graduate",
-          "kind": "episode",
-          "start_ms": 1795865414981,
-          "end_ms": 1795867210000,
-          "start": "2026-11-28T13:30:14+02:00",
-          "end": "2026-11-28T14:00:10+02:00",
-          "show": "The War at Home",
-          "year": 2007
-        },
         {
           "title": "Dog Friend",
           "kind": "episode",
@@ -229,16 +219,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Seinfeld.S07E01.The.Engagement",
-          "kind": "episode",
-          "start_ms": 1795865489907,
-          "end_ms": 1795867210000,
-          "start": "2026-11-28T13:31:29+02:00",
-          "end": "2026-11-28T14:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
         {
           "title": "The Bottle Deposit (1) / The Bottle Deposit (2)",
           "kind": "episode",
