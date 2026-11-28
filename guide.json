@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-28T16:39:28+02:00",
-  "generated_at_ms": 1795876768404,
+  "generated_at": "2026-11-28T17:09:41+02:00",
+  "generated_at_ms": 1795878581609,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795876768315,
-    "end_ms": 1796049568315,
-    "start": "2026-11-28T16:39:28+02:00",
-    "end": "2026-11-30T16:39:28+02:00"
+    "start_ms": 1795878581559,
+    "end_ms": 1796051381559,
+    "start": "2026-11-28T17:09:41+02:00",
+    "end": "2026-11-30T17:09:41+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "The Gay Friend",
-          "kind": "episode",
-          "start_ms": 1795876291729,
-          "end_ms": 1795878091729,
-          "start": "2026-11-28T16:31:31+02:00",
-          "end": "2026-11-28T17:01:31+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "Mama Nature",
           "kind": "episode",
@@ -249,16 +239,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "The Revenge",
-          "kind": "episode",
-          "start_ms": 1795876210000,
-          "end_ms": 1795878010000,
-          "start": "2026-11-28T16:30:10+02:00",
-          "end": "2026-11-28T17:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 1991
-        },
         {
           "title": "The Boyfriend (2)",
           "kind": "episode",
