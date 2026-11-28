@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-28T20:11:02+02:00",
-  "generated_at_ms": 1795889462387,
+  "generated_at": "2026-11-28T20:41:15+02:00",
+  "generated_at_ms": 1795891275654,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795889462053,
-    "end_ms": 1796062262053,
-    "start": "2026-11-28T20:11:02+02:00",
-    "end": "2026-11-30T20:11:02+02:00"
+    "start_ms": 1795891275603,
+    "end_ms": 1796064075603,
+    "start": "2026-11-28T20:41:15+02:00",
+    "end": "2026-11-30T20:41:15+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Changing Lights",
-          "kind": "episode",
-          "start_ms": 1795888900130,
-          "end_ms": 1795890700130,
-          "start": "2026-11-28T20:01:40+02:00",
-          "end": "2026-11-28T20:31:40+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "Careful, My Wife's in the Car!",
           "kind": "episode",
@@ -364,15 +354,6 @@
       "name": "Harry Potter",
       "programs": [
         {
-          "title": "Fantastic Beasts: The Secrets of Dumbledore",
-          "kind": "movie",
-          "start_ms": 1795888218074,
-          "end_ms": 1795891213583,
-          "start": "2026-11-28T19:50:18+02:00",
-          "end": "2026-11-28T20:40:13+02:00",
-          "year": 2022
-        },
-        {
           "title": "Harry Potter and the Philosopher's Stone",
           "kind": "movie",
           "start_ms": 1795891213583,
@@ -413,15 +394,6 @@
       "number": 124,
       "name": "Slapstick Movies",
       "programs": [
-        {
-          "title": "The Pink Panther Strikes Again",
-          "kind": "movie",
-          "start_ms": 1795888438549,
-          "end_ms": 1795890781529,
-          "start": "2026-11-28T19:53:58+02:00",
-          "end": "2026-11-28T20:33:01+02:00",
-          "year": 1976
-        },
         {
           "title": "Revenge of the Pink Panther",
           "kind": "movie",
