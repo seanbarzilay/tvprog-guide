@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-28T15:39:01+02:00",
-  "generated_at_ms": 1795873141398,
+  "generated_at": "2026-11-28T16:09:14+02:00",
+  "generated_at_ms": 1795874954931,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795873141228,
-    "end_ms": 1796045941228,
-    "start": "2026-11-28T15:39:01+02:00",
-    "end": "2026-11-30T15:39:01+02:00"
+    "start_ms": 1795874954855,
+    "end_ms": 1796047754855,
+    "start": "2026-11-28T16:09:14+02:00",
+    "end": "2026-11-30T16:09:14+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Mega Friendly",
-          "kind": "episode",
-          "start_ms": 1795872695534,
-          "end_ms": 1795874495363,
-          "start": "2026-11-28T15:31:35+02:00",
-          "end": "2026-11-28T16:01:35+02:00",
-          "show": "Traffic Light",
-          "year": 2008
-        },
         {
           "title": "The Painting",
           "kind": "episode",
@@ -177,11 +167,91 @@
           "title": "Replacement Woman",
           "kind": "episode",
           "start_ms": 1795901828226,
-          "end_ms": 1795903273054,
+          "end_ms": 1795903628226,
           "start": "2026-11-28T23:37:08+02:00",
-          "end": "2026-11-29T00:01:13+02:00",
+          "end": "2026-11-29T00:07:08+02:00",
           "show": "Traffic Light",
           "year": 2009
+        },
+        {
+          "title": "Eilat",
+          "kind": "episode",
+          "start_ms": 1795903628226,
+          "end_ms": 1795905439670,
+          "start": "2026-11-29T00:07:08+02:00",
+          "end": "2026-11-29T00:37:19+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Criminal Novelist",
+          "kind": "episode",
+          "start_ms": 1795905439670,
+          "end_ms": 1795907239670,
+          "start": "2026-11-29T00:37:19+02:00",
+          "end": "2026-11-29T01:07:19+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Baby Sense",
+          "kind": "episode",
+          "start_ms": 1795907239670,
+          "end_ms": 1795909039670,
+          "start": "2026-11-29T01:07:19+02:00",
+          "end": "2026-11-29T01:37:19+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Raising the Bar",
+          "kind": "episode",
+          "start_ms": 1795909039670,
+          "end_ms": 1795910844577,
+          "start": "2026-11-29T01:37:19+02:00",
+          "end": "2026-11-29T02:07:24+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Night Life",
+          "kind": "episode",
+          "start_ms": 1795910844577,
+          "end_ms": 1795912681182,
+          "start": "2026-11-29T02:07:24+02:00",
+          "end": "2026-11-29T02:38:01+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "How Much Should We Give?",
+          "kind": "episode",
+          "start_ms": 1795912681182,
+          "end_ms": 1795914499748,
+          "start": "2026-11-29T02:38:01+02:00",
+          "end": "2026-11-29T03:08:19+02:00",
+          "show": "Traffic Light",
+          "year": 2009
+        },
+        {
+          "title": "Dr. Shdema",
+          "kind": "episode",
+          "start_ms": 1795914499748,
+          "end_ms": 1795917306206,
+          "start": "2026-11-29T03:08:19+02:00",
+          "end": "2026-11-29T03:55:06+02:00",
+          "show": "Traffic Light",
+          "year": 2011
+        },
+        {
+          "title": "Coleslaw",
+          "kind": "episode",
+          "start_ms": 1795917306206,
+          "end_ms": 1795917906206,
+          "start": "2026-11-29T03:55:06+02:00",
+          "end": "2026-11-29T04:05:06+02:00",
+          "show": "Traffic Light",
+          "year": 2011
         }
       ]
     },
@@ -189,16 +259,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Seinfeld.S09E12.The.Reverse.People",
-          "kind": "episode",
-          "start_ms": 1795872673387,
-          "end_ms": 1795874414976,
-          "start": "2026-11-28T15:31:13+02:00",
-          "end": "2026-11-28T16:00:14+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
         {
           "title": "The Bookstore",
           "kind": "episode",
@@ -333,11 +393,49 @@
           "title": "Seinfeld.S04E03-4.The.Pitch.and.The.Ticket",
           "kind": "episode",
           "start_ms": 1795901430029,
-          "end_ms": 1795903482826,
+          "end_ms": 1795905029909,
           "start": "2026-11-28T23:30:30+02:00",
-          "end": "2026-11-29T00:04:42+02:00",
+          "end": "2026-11-29T00:30:29+02:00",
           "show": "Seinfeld",
           "year": 2007
+        },
+        {
+          "title": "Seinfeld.S06E02.The.Big.Salad",
+          "kind": "episode",
+          "start_ms": 1795905029909,
+          "end_ms": 1795906829961,
+          "start": "2026-11-29T00:30:29+02:00",
+          "end": "2026-11-29T01:00:29+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "The Scofflaw",
+          "kind": "episode",
+          "start_ms": 1795906829961,
+          "end_ms": 1795908610000,
+          "start": "2026-11-29T01:00:29+02:00",
+          "end": "2026-11-29T01:30:10+02:00",
+          "show": "Seinfeld",
+          "year": 1995
+        },
+        {
+          "title": "Seinfeld.S07E01.The.Engagement",
+          "kind": "episode",
+          "start_ms": 1795908610000,
+          "end_ms": 1795910193470,
+          "start": "2026-11-29T01:30:10+02:00",
+          "end": "2026-11-29T01:56:33+02:00",
+          "show": "Seinfeld",
+          "year": 2007
+        },
+        {
+          "title": "Off air",
+          "kind": "off",
+          "start_ms": 1795910193470,
+          "end_ms": 1795924800000,
+          "start": "2026-11-29T01:56:33+02:00",
+          "end": "2026-11-29T06:00:00+02:00"
         }
       ]
     },
@@ -348,9 +446,9 @@
         {
           "title": "Fantastic Beasts: The Crimes of Grindelwald",
           "kind": "movie",
-          "start_ms": 1795871801433,
+          "start_ms": 1795873899563,
           "end_ms": 1795881203663,
-          "start": "2026-11-28T15:16:41+02:00",
+          "start": "2026-11-28T15:51:39+02:00",
           "end": "2026-11-28T17:53:23+02:00",
           "year": 2018
         },
@@ -376,10 +474,19 @@
           "title": "Harry Potter and the Chamber of Secrets",
           "kind": "movie",
           "start_ms": 1795902057980,
-          "end_ms": 1795903352712,
+          "end_ms": 1795913444576,
           "start": "2026-11-28T23:40:57+02:00",
-          "end": "2026-11-29T00:02:32+02:00",
+          "end": "2026-11-29T02:50:44+02:00",
           "year": 2002
+        },
+        {
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "kind": "movie",
+          "start_ms": 1795913444576,
+          "end_ms": 1795918164343,
+          "start": "2026-11-29T02:50:44+02:00",
+          "end": "2026-11-29T04:09:24+02:00",
+          "year": 2004
         }
       ]
     },
@@ -390,9 +497,9 @@
         {
           "title": "A Shot in the Dark",
           "kind": "movie",
-          "start_ms": 1795868052488,
+          "start_ms": 1795874370257,
           "end_ms": 1795875236791,
-          "start": "2026-11-28T14:14:12+02:00",
+          "start": "2026-11-28T15:59:30+02:00",
           "end": "2026-11-28T16:13:56+02:00",
           "year": 1964
         },
@@ -427,10 +534,37 @@
           "title": "Airplane!",
           "kind": "movie",
           "start_ms": 1795897934297,
-          "end_ms": 1795903561006,
+          "end_ms": 1795904198477,
           "start": "2026-11-28T22:32:14+02:00",
-          "end": "2026-11-29T00:06:01+02:00",
+          "end": "2026-11-29T00:16:38+02:00",
           "year": 1980
+        },
+        {
+          "title": "Airplane II: The Sequel",
+          "kind": "movie",
+          "start_ms": 1795904198477,
+          "end_ms": 1795910257590,
+          "start": "2026-11-29T00:16:38+02:00",
+          "end": "2026-11-29T01:57:37+02:00",
+          "year": 1982
+        },
+        {
+          "title": "National Lampoon's Vacation",
+          "kind": "movie",
+          "start_ms": 1795910257590,
+          "end_ms": 1795917578453,
+          "start": "2026-11-29T01:57:37+02:00",
+          "end": "2026-11-29T03:59:38+02:00",
+          "year": 1983
+        },
+        {
+          "title": "Top Secret!",
+          "kind": "movie",
+          "start_ms": 1795917578453,
+          "end_ms": 1795918178453,
+          "start": "2026-11-29T03:59:38+02:00",
+          "end": "2026-11-29T04:09:38+02:00",
+          "year": 1984
         }
       ]
     }
