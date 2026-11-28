@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-28T18:10:08+02:00",
-  "generated_at_ms": 1795882208668,
+  "generated_at": "2026-11-28T18:30:15+02:00",
+  "generated_at_ms": 1795883415698,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795882208598,
-    "end_ms": 1796055008598,
-    "start": "2026-11-28T18:10:08+02:00",
-    "end": "2026-11-30T18:10:08+02:00"
+    "start_ms": 1795883415647,
+    "end_ms": 1796056215647,
+    "start": "2026-11-28T18:30:15+02:00",
+    "end": "2026-11-30T18:30:15+02:00"
   },
   "channels": [
     {
@@ -219,16 +219,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Seinfeld.S04E03-4.The.Pitch.and.The.Ticket",
-          "kind": "episode",
-          "start_ms": 1795879829909,
-          "end_ms": 1795883414016,
-          "start": "2026-11-28T17:30:29+02:00",
-          "end": "2026-11-28T18:30:14+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
         {
           "title": "Seinfeld.S06E02.The.Big.Salad",
           "kind": "episode",
