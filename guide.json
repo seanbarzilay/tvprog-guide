@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-28T18:40:22+02:00",
-  "generated_at_ms": 1795884022425,
+  "generated_at": "2026-11-28T19:00:31+02:00",
+  "generated_at_ms": 1795885231420,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795884022368,
-    "end_ms": 1796056822368,
-    "start": "2026-11-28T18:40:22+02:00",
-    "end": "2026-11-30T18:40:22+02:00"
+    "start_ms": 1795885231365,
+    "end_ms": 1796058031365,
+    "start": "2026-11-28T19:00:31+02:00",
+    "end": "2026-11-30T19:00:31+02:00"
   },
   "channels": [
     {
@@ -209,16 +209,6 @@
       "number": 121,
       "name": "Seinfeld (JP CMs)",
       "programs": [
-        {
-          "title": "Seinfeld.S06E02.The.Big.Salad",
-          "kind": "episode",
-          "start_ms": 1795883414016,
-          "end_ms": 1795885210000,
-          "start": "2026-11-28T18:30:14+02:00",
-          "end": "2026-11-28T19:00:10+02:00",
-          "show": "Seinfeld",
-          "year": 2007
-        },
         {
           "title": "The Scofflaw",
           "kind": "episode",
