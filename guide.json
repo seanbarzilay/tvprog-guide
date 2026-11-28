@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-11-28T22:01:50+02:00",
-  "generated_at_ms": 1795896110854,
+  "generated_at": "2026-11-28T22:11:55+02:00",
+  "generated_at_ms": 1795896715578,
   "timezone": "Asia/Jerusalem",
   "window": {
-    "start_ms": 1795896110802,
-    "end_ms": 1796068910802,
-    "start": "2026-11-28T22:01:50+02:00",
-    "end": "2026-11-30T22:01:50+02:00"
+    "start_ms": 1795896715508,
+    "end_ms": 1796069515508,
+    "start": "2026-11-28T22:11:55+02:00",
+    "end": "2026-11-30T22:11:55+02:00"
   },
   "channels": [
     {
       "number": 120,
       "name": "Sitcoms (JP CMs)",
       "programs": [
-        {
-          "title": "Feeling Old",
-          "kind": "episode",
-          "start_ms": 1795894300130,
-          "end_ms": 1795896132866,
-          "start": "2026-11-28T21:31:40+02:00",
-          "end": "2026-11-28T22:02:12+02:00",
-          "show": "Traffic Light",
-          "year": 2009
-        },
         {
           "title": "Handyman",
           "kind": "episode",
